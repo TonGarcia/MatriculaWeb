@@ -6,7 +6,7 @@ module ApplicationHelper
 
   # Must return it app name based on user locale (default is pt-BR)
   def app_name
-    'GAESIResearchers'
+    'MatriculaWeb'
   end
 
   # Must return ittem app slogan phrase based on user locale (default is pt-BR)
@@ -59,6 +59,10 @@ module ApplicationHelper
 
   def admin?
     @current_user.admin?
+  end
+
+  def current_page_includes?(path)
+    !request.fullpath.index(path).nil?
   end
 
   def default_action_path

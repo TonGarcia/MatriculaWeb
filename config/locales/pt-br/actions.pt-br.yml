@@ -19,7 +19,7 @@ pt-br:
           confirmation: Enviar confirmação
           unlock: Requisitar desbloqueio
     roles:
-      index: Painel de Papéis
+      index: Painel de Papéis/Cargos
     controllers:
       index: Lista
       edit: Atualizar
@@ -69,8 +69,13 @@ pt-br:
       new: Registrar Pesquisa
     dashboard:
       name: Estatística (Dashboard)
-      title: Uso Global do GAESIResearchers por Localização
+      title: Uso Global do Matrícula Web por Localização
       subtitle: Todos pesquisadores que foram aprovados como GAESIResearcher
+    users:
+      name: Usuários
+      title: Usuários do Sistema Cadastrados
+      subtitle: Todos os usuários do sistema são cadastrados por seus superiores
+      new: Cadastrar novo usuário
     companies:
       name: Instituições
       title: Instituições que apoiem ou desenvolvam pesquisas

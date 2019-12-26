@@ -2,18 +2,18 @@ ul.nav
   - if admin?
     li class=(('active ' if current_page?(admin_roles_path)))
       a href="#{admin_roles_path}"
-        i.fa.fa-address-card-o
+        i.ion-ios-bookmarks-outline
         p
           =t('actions.roles.index')
 
-  li class=(('active ' if current_page?(dashboard_path) || current_page?(root_path) ))
+  li class=(('active ' if current_page?(dashboard_path) || current_page?(root_path) || current_page_includes?('dashboard')))
     a href="#{dashboard_path}"
-      i.fa.fa-pie-chart
+      i.ion-ios-pie-outline
       p
         = t('actions.dashboard.name')
 
-  li class=(('active ' if current_page?(dashboard_path) || current_page?(root_path) ))
-    a href="#{dashboard_path}"
-      i.fa.fa-pie-chart
+  li class=(('active ' if current_page?(users_path) || current_page_includes?('users') ))
+    a href="#{users_path}"
+      i.ion-ios-people-outline
       p
-        = t('actions.dashboard.name')
+        = t('actions.users.name')

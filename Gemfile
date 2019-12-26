@@ -64,6 +64,13 @@ gem 'enumerate_it', '~> 1.6.1'
 # Date validation on model
 gem 'validates_timeliness', '~> 4.0', '>= 4.0.2'
 
+# Speedup JSON rendering (Easy)
+#gem 'yajl-ruby', require: 'yajl'
+
+# Datatable (https://github.com/jbox-web/ajax-datatables-rails)
+gem 'ajax-datatables-rails'
+gem 'jquery-datatables'
+
 =begin
  ######################    Social & new Design GEMs    #################################
 =end

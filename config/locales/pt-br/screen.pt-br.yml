@@ -5,6 +5,13 @@ pt-br:
     select: Selecione uma opção
     current_locale: Idioma Atual
     researcher_relation_subtitle: A lista abaixo permite apenas consulta simples por Pesquisadores
+    users:
+      new:
+        title: Nova Pesquisa
+        subtitle: Busca Semântica completa por pesquisador gerando histórico e métricas de busca
+      index:
+        title: Lista de Usuários Cadastrados
+        subtitle: A Lista de usuários é uma tabela dinâmica que permite pesquisar e ordenar informações
     searches:
       new:
         title: Nova Pesquisa
