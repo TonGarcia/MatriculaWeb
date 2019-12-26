@@ -1,0 +1,2 @@
+module Lattes
+end

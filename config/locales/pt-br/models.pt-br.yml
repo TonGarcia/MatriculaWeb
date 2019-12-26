@@ -1,0 +1,61 @@
+# encoding: UTF-8
+# pt-br translations for Models
+pt-br:
+  activerecord:
+    models:
+      user: Usuário
+      degree: Graduação
+      researcher: Pesquisador
+      experience: Experiência
+
+    attributes:
+
+  # User -----------------------------------------------------
+      user:
+        name: Nome completo
+        email: E-mail
+        locale: Idioma
+        timezone: Fuso-horário
+        password: Senha
+        password_confirmation: Confirmação da Senha
+        remember_me: Lembrar dados
+
+  # Degree -----------------------------------------------------
+      degree:
+        course: Curso
+        university: Universidade
+        level: Grau Acadêmico
+        start_year: Ano de Início
+        end_year: Ano de Conclusão
+
+  # Researcher -----------------------------------------------------
+      researcher:
+        full_name: Nome Completo
+        phone: Celular (whatsapp)
+        address: Endreço Postal Completo
+        zip: CEP
+        country: País
+        state: Estado
+        city: Cidade
+        company: Empresa
+        email: Endereço de E-mail
+        lattes: Link do currículo Lattes
+        facebook: Nome de usuário no Facebook
+        linked_in: Nome de usuário no LinkedIn
+        twitter: Nome de usuário no Twitter
+        cover_letter: Carta de Apresentação (forneça o máximo de informação, exemplo resumo Lattes)
+
+
+  # KnowHow -----------------------------------------------------
+      experience:
+        role: Cargo
+        company_country: País da Empresa
+        company_legal_id: CNPJ
+        description: Descrição Cargo e Atividades desempenhadas
+        researcher: Perfil Pesquisador (ID)
+        started_at: Início em
+        end_at: Fim em
+
+  # Search -----------------------------------------------------
+      search:
+        keywords: Palavras Chave

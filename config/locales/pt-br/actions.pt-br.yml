@@ -1,0 +1,84 @@
+# encoding: UTF-8
+# pt-br translations for Controllers Actions
+pt-br:
+  actions:
+    save: Salvar
+    search: Buscar
+    devise:
+      new:
+        link:
+          session: Já Possuo Cadastro
+          register: Quero me Cadastrar
+          password: Recuperar Senha
+          confirmation: Reconfirmar meu E-mail
+          unlock: Desbloquear Conta
+        button:
+          session: Acessar
+          register: Cadastrar-me
+          password: Enviar instruções
+          confirmation: Enviar confirmação
+          unlock: Requisitar desbloqueio
+    roles:
+      index: Painel de Papéis
+    controllers:
+      index: Lista
+      edit: Atualizar
+      new: Adicionar
+      show: Visualizar
+      create: Registrar
+      delete: Excluir
+    search_type:
+      by_tag: por Tag
+      historic: Histórico
+      best_match: Best Match
+    searches:
+      new: Nova Busca
+      history: Histórico de Buscas
+      name: Buscar Pesquisador
+      title: Pesquisas Recentes
+      subtitle: Histórico das suas pesquisas organizado por data
+    connections:
+      name: Conexões
+      list: Listar Conexões
+      new: Criar nova Conexão
+    researcher:
+      name: Perfil Pesquisador
+    lattes:
+      name: Importar Lattes
+      one: Pesquisador Único
+      batch: Massa de Dados
+    researchers:
+      name: Pesquisadores
+      list: Listar Pesquisadores
+      new: Registrar Perfil Pesquisador
+      show: Perfil Pesquisador
+      edit: Editar Perfil Pesquisador
+    degrees:
+      name: Formação
+      list: Listar Formações
+      new: Registrar nova Formação
+      edit: Editar Formação
+    experiences:
+      name: Experiência
+      list: Listar Experiências
+      new: Registrar nova Experiência
+      edit: Editar esta Experiência
+    researches:
+      name: Pesquisas
+      list: Listar Pesquisas
+      new: Registrar Pesquisa
+    dashboard:
+      name: Estatística (Dashboard)
+      title: Uso Global do GAESIResearchers por Localização
+      subtitle: Todos pesquisadores que foram aprovados como GAESIResearcher
+    companies:
+      name: Instituições
+      title: Instituições que apoiem ou desenvolvam pesquisas
+      subtitle: Todas instituições que possuam algum vínculo com algum pesquisador cadastrado ou com alguma pesquisa do GAESI
+      list: Listar Instituições
+      new: Registrar Instituição
+    social:
+      connect:
+        twitter: Conecte-se via Twitter
+        facebook: Conecte-se via Facebook
+        linkedin: Conecte-se via LinkedIn

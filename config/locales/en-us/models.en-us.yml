@@ -1,0 +1,59 @@
+# encoding: UTF-8
+# en-us translations for Models
+en-us:
+  activerecord:
+    models:
+      user: User
+      degree: Degree
+      researcher: Researcher (Person)
+      experience: Know how
+
+    attributes:
+
+  # User -----------------------------------------------------
+      user:
+        name: Name
+        email: E-mail
+        locale: Idiom
+        timezone: Timezone
+        password: Password
+        password_confirmation: Confirm Password
+        remember_me: Remember me
+
+  # Degree -----------------------------------------------------
+      degree:
+        course: Course
+        university: University
+        level: Diplôme académique
+        start_year: Start Year
+        end_year: End year
+
+  # Researcher -----------------------------------------------------
+      researcher:
+        name: Name
+        full_name: First Name
+        address: Full Postal Address
+        zip: ZIP
+        country: Country
+        state: Commonwealth
+        city: City
+        company: Company
+        email: Email Address
+        facebook: Facebook's Username
+        linked_in: LinkedIn's Username
+        twitter: Twitter's Username
+        cover_letter: Cover Letter (provide the maximum information)
+
+  # KnowHow -----------------------------------------------------
+      experience:
+        role: Role
+        company_country: Company from (country)
+        company_legal_id: Company Legal ID
+        description: Role and Activities Description
+        researcher: Researcher Profile (ID)
+        started_at: Started at
+        end_at: End at
+
+  # Search -----------------------------------------------------
+      search:
+        keywords: Keywords

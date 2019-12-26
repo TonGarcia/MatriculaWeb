@@ -1,0 +1,27 @@
+= form_for @subject do |f|
+  - if @subject.errors.any?
+    #error_explanation
+      h2 = "#{pluralize(@subject.errors.count, "error")} prohibited this subject from being saved:"
+      ul
+        - @subject.errors.full_messages.each do |message|
+          li = message
+
+  .field
+    = f.label :name
+    = f.text_field :name
+  .field
+    = f.label :description
+    = f.text_field :description
+  .field
+    = f.label :workload
+    = f.number_field :workload
+  .field
+    = f.label :online_link
+    = f.text_field :online_link
+  .field
+    = f.label :class_schedule
+    = f.text_field :class_schedule
+  .field
+    = f.label :user
+    = f.text_field :user
+  .actions = f.submit

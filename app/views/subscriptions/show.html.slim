@@ -1,0 +1,15 @@
+p#notice = notice
+
+p
+  strong Access type:
+  = @subscription.access_type
+p
+  strong User:
+  = @subscription.user
+p
+  strong Subject:
+  = @subscription.subject
+
+=> link_to 'Edit', edit_subscription_path(@subscription)
+'|
+=< link_to 'Back', subscriptions_path

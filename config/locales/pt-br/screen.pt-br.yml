@@ -1,0 +1,34 @@
+# encoding: UTF-8
+# pt-br translations for Screens
+pt-br:
+  screen:
+    select: Selecione uma opção
+    current_locale: Idioma Atual
+    researcher_relation_subtitle: A lista abaixo permite apenas consulta simples por Pesquisadores
+    searches:
+      new:
+        title: Nova Pesquisa
+        subtitle: Busca Semântica completa por pesquisador gerando histórico e métricas de busca
+      index:
+        title: Pesquisas Recentes
+        subtitle: Histórico de Buscas organizado por data
+    connections:
+      index:
+        title: Visualização em Grafo
+        subtitle: Networking/conexões entre os Pesquisadores
+    researchers:
+      index:
+        title: Listagem de Pesquisadores
+        subtitle: Lista os pesquisadores por filtros, por padrão mostra todos os Pesquisadores
+    degrees:
+      index:
+        title: Listagem Educacional
+        subtitle: Formações Acadêmicas e Cursos feitos pelos Pesquisadores da base
+    experiences:
+      index:
+        title: Listagem das Experiências
+        subtitle: Experiências Pesquisadores e/ou Acadêmicas dos Pesquisadores da base
+    dashboard:
+      index:
+        title: Uso Global do GAESIResearchers por Localização
+        subtitle: Todos pesquisadores que foram aprovados como GAESIResearcher

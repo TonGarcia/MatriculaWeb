@@ -1,0 +1,6 @@
+# encoding: UTF-8
+# fr-fr translations for Controllers
+fr-fr:
+  descriptions:
+    product_name: GAESI Base de Researchers
+    min_password_length: caractères minimum
