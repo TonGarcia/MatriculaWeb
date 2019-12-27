@@ -10,16 +10,22 @@ ul.nav
     a href="#{dashboard_path}"
       i.ion-ios-pie
       p
-        = t('actions.dashboard.name')
+        =t('actions.dashboard.name')
 
   li class=(('active ' if current_page?(users_path) || current_page_includes?('users') ))
     a href="#{users_path}"
       i.ion-ios-people
       p
-        = t('actions.users.name')
+        =t('actions.users.name')
 
   li class=(('active ' if current_page?(schools_path) || current_page_includes?('schools') ))
     a href="#{schools_path}"
       i.ion-university
       p
-        = t('actions.schools.name')
+        =t('actions.schools.name')
+
+  li class=(('active ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
+    a href="#{subjects_path}"
+      i.ion-briefcase
+      p
+        =t('actions.subjects.name')

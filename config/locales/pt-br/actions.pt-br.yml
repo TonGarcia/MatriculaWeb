@@ -49,3 +49,5 @@ pt-br:
       subtitle: Todas as escolas do sistema são cadastrados e mantidas pela Secretaria de Educação
       new: Cadastrar nova escola
       edit: Editar escola
+    subjects:
+      name: Disciplinas

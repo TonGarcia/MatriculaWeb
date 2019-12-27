@@ -26,3 +26,10 @@ pt-br:
       show:
         title: Ficha da Escola
         subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+    subjects:
+      index:
+        title: Lista de Disciplinas Cadastradas
+        subtitle: As disciplinas foram divididas em 3 tipos (Eletivas, Profissionalizantes)
+      show:
+        title: Ficha da Disciplina
+        subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)

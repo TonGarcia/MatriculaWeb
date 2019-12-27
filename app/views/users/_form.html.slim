@@ -4,6 +4,10 @@
     =f.text_field :full_name, class: 'form-control', required: true, autofocus: true, autocomplete: 'new-password'
 
   .form-group
+    =f.label :email
+    =f.email_field :email, class: 'form-control', required: true
+
+  .form-group
     =f.label :gov_id
     =f.text_field :gov_id, class: 'form-control', required: true, autocomplete: 'new-password'
 
@@ -14,10 +18,6 @@
   .form-group
     =f.label :school_id
     =f.select :school_id, @schools.map {|s| ["#{s.code} - #{s.name}", s.id]}, {include_blank: "Selecione uma escola caso seja usuário PROFESSOR, ALUNO ou COORDENADOR"}, class: 'form-control', required: true
-
-  .form-group
-    =f.label :email
-    =f.email_field :email, class: 'form-control', required: true
 
   .form-group
     =f.label :password

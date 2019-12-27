@@ -1,0 +1,22 @@
+.container-fluid
+  .row
+    p.col-md-6
+      b="#{t('activerecord.attributes.user.full_name')}: "
+      =@user.full_name
+
+    p.col-md-6
+      b="#{t('activerecord.attributes.user.email')}: "
+      =@user.email
+
+  .row
+    p.col-md-4
+      b="#{t('activerecord.attributes.user.gov_id')}: "
+      =@user.gov_id
+
+    p.col-md-3
+      b="#{t('activerecord.attributes.user.role')}: "
+      =@user.role.name
+
+    p.col-md-5
+      b="#{t('activerecord.attributes.user.school')}: "
+      ="#{@user.school.code} - #{@user.school.name}"
