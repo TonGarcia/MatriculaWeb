@@ -10,27 +10,17 @@ class User < ApplicationRecord
 
   # Relations
   has_many :schools
-  belongs_to :school
+  belongs_to :school, class_name: 'School', optional: true
 
   # Validations
   validates :name, length: { minimum: 8, maximum: 45 }, presence: true, on: [:create, :update]
   validates :locale, length: { is: 5 }, presence: true, on: [:create, :update]
   validates :email, email: true, presence: true, on: [:create, :update]
   validates :gov_id, length: { minimum: 6, maximum: 45 }, presence: true, on: [:create, :update]
+  validates :school_id, presence: true, on: [:create, :update], unless: :administrative?
   validates_presence_of :role_id
 
-  # Check if it is a moderator user role
-  def moderator?
-    self.role.name == 'moderator'
-  end
-
-  # # Check if it user has a profile
-  def has_profile?
-    !(self.admin? || self.moderator?) && self.profile
-  end
-
-  # Get foreign profile id
-  def profile_id
-     has_profile? ? self.profile.id : nil
+  def administrative?
+    self.role.admin? || self.role.name == 'moderator'
   end
 end
