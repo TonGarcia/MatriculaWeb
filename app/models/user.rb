@@ -9,15 +9,14 @@ class User < ApplicationRecord
   include EmailValidator
 
   # Relations
-  has_many :researchers
-  # has_one :profile, foreign_key: :created_by, primary_key: :id, class_name: 'Researcher'
-  # has_many :experiences, through: :profile
-  # has_many :degrees, through: :profile
+  has_many :schools
+  belongs_to :school
 
   # Validations
   validates :name, length: { minimum: 8, maximum: 45 }, presence: true, on: [:create, :update]
   validates :locale, length: { is: 5 }, presence: true, on: [:create, :update]
   validates :email, email: true, presence: true, on: [:create, :update]
+  validates :gov_id, length: { minimum: 6, maximum: 45 }, presence: true, on: [:create, :update]
   validates_presence_of :role_id
 
   # Check if it is a moderator user role

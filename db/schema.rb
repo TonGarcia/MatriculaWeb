@@ -22,9 +22,9 @@ ActiveRecord::Schema.define(version: 20191225213925) do
   end
 
   create_table "schools", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
-    t.string "name"
-    t.string "code"
-    t.bigint "user_id", default: 1
+    t.string "name", null: false
+    t.string "code", null: false
+    t.bigint "user_id", default: 1, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["user_id"], name: "index_schools_on_user_id"
@@ -77,17 +77,13 @@ ActiveRecord::Schema.define(version: 20191225213925) do
     t.datetime "locked_at"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.bigint "school_id"
     t.index ["confirmation_token"], name: "index_users_on_confirmation_token", unique: true
     t.index ["email"], name: "index_users_on_email", unique: true
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
-    t.index ["school_id"], name: "index_users_on_school_id"
     t.index ["unlock_token"], name: "index_users_on_unlock_token", unique: true
   end
 
-  add_foreign_key "schools", "users"
   add_foreign_key "subjects", "users"
   add_foreign_key "subscriptions", "subjects"
   add_foreign_key "subscriptions", "users"
-  add_foreign_key "users", "schools"
 end
