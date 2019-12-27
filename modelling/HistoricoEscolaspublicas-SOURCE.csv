@@ -1,0 +1,918 @@
+COD MEC;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+53001451;EC 102 Sul;SQS 102;EC da SQS 102
+53001478;EC 106 Norte;SQN 106
+53001486;EC 108 Sul;SQS 108;EC do IAPB
+53001494;EC 111 Sul;SQS 111;EC da SQS 111
+53001508;EC 113 Norte;SQN 113
+53001516;EC 114 Sul;SQS 114;EC da SQ 114 Sul
+53001524;EC 115 Norte;SQN 115
+53001532;EC 204 Sul;SQS 204;EC da SQS 204
+53001540;EC 206 Sul;SQS 206;EC da SQ 206 Sul
+53001559;EC 209 Sul;SQS 209
+53001575;EC 302 Norte;SQN 302
+53001583;EC 304 Norte;SQN 304
+53001591;EC 304 Sul;SQS 304;EC da SQ 304 Sul
+53001605;EC 305 Sul;SQS 305;EC da SQ 305 Sul
+Escola Experimental da SQ 305 Sul
+53001621;EC 308 Sul;SQS 308;EC da SQ 308 Sul
+53001630;EC 312 Norte;SQN 312;EC da SQ 312 Norte
+53001648;EC 314 Sul;SQS 314;EC da SQ 314 Sul
+53001672;EC 316 Sul;SQS 316;EC da SQS 316
+53001680;EC 403 Norte;SQN 403;EC da SQ 403 Norte
+53001699;EC 405 Norte;SQN 405;EC da SQ 405 Norte
+53001710;EC 407 Norte;SQN 407;EC da SQ 407 Norte
+53001737;EC 410 Sul;SQS 410;EC da SQ 410 Sul
+53001745;EC 411 Norte;SQN 411;EC da SQ 411 norte
+53001753;EC 413 Sul;SQS 413;EC da SQ 413 Sul
+53001761;EC 415 Norte;SQN 415
+53001770;EC 416 Sul;SQS 416
+53001788;EC 708 Norte;SHCGN 707/708;Escola Provisória nº 2 da Asa Norte ou EC da SQ 708 Norte
+53001435;EC da Vila do RCG (Regimento de Cavalaria de Guarda);;EC 07 Cruzeiro
+53001800;EC do SMU (Setor Militar Urbano);AE DA QRO SMU
+53001818;EC Granja do Torto;AE DA GRANJA DO TORTO;EC do Torto
+53000846;CEF 01 de Brasília;SQS 106;EC da SQ 106 Sul
+53000862;CEF 02 de Brasília;SQS 107;EC da SQ 107 Sul
+53000870;CEF 03 de Brasília;;SQS 103;EC da SQS 103
+53000889;CEF 04 de Brasília;;SQS 113;EC da SQ 113 Sul
+53000897;CEF 05 de Brasília;;SQS 408;EC da SQ 407 Norte
+53013972;CEF 07 de Brasilia;;HCGN 912 MODS A, B,C E D
+53001443;CEF 102 Norte;SQN 102;EC da SQN 102
+53001460;CEF 104 Norte;SQN 104;EC da SQN 104
+53001567;CEF 214 Sul;SQS 214;EC da SQS 214
+53001613;CEF 306 Norte;SQN 306;EC da SQN 306
+53001664;CEF 316 Norte;SQN 316;EC 316 Norte
+53001702;CEF 405 Sul;SQS 405;EC da SQS 405
+53001729;CEF 410 Norte;SQN 410;EC 12-B
+53001265;SGAS QD 909 CONJ A;Ginásio do Plano Piloto de Brasília
+53000919;CEF GAN (Ginásio da Asa Norte);SGAN 603/604 LT D
+53000927;CEF Polivalente;SGAS 913 MOD 57/58;E. Polivalente Modelo do DF
+53001044;CED Gisno (Ginásio do Setor Noroeste);SGAN 907 MOD A;
+53001010;CEM Asa Norte - CEAN;SGAN 606 MOD G/H;
+53001036;CEM Elefante Branco;SGAS 908 MOD 25/26;CEM Elefante Branco - CEMEB
+CED Elefante Branco
+
+
+
+
+2
+;;Histórico das Escolas públicas.xlsx - ATIVAS;;02/12/2015
+COD MEC;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+53000986;CEM Paulo Freire;SGAN 610 MOD A;;Colégio da Asa Norte
+CED 01 de Brasília Norte
+CED - CAN
+CED Paulo Freire
+53001206;CEM Setor Leste;SGAS 611/612 CONJ E;Colégio Industrial do Plano Piloto
+Colégio do Setor Leste
+CED Setor Leste
+53001214;CEM Setor Oeste;SGAS 912/913;;Ginásio Moderno - Plano Piloto
+Ginásio Setor Oeste
+CE de 1º Grau 01 de Brasília Sul
+Centro Interescolar de Comunicação e Expressão e de Matemática
+CED Setor Oeste
+53002148;Escola Meninos e Meninas do Parque;ESTACIONAMENTO 06-PARQUE SARAH KUBITSCHEK
+PROEM - Escola do Parque da Cidade (Promoção Educativa do
+53001893;SGAS Q. 909 LT 27
+Menor)
+II - GAMA
+53002814;EC 01 do Gama;EQ 18/21 Praça 2 AE - Setor Leste;;EC Nº 01 ou EC do Gama
+53002822;EC 02 do Gama;EQ 02/04 AE - Setor Oeste;EC Nº 02 ou EC do Gaminha
+53002830;EC 03 do Gama;EQ 10/15 AE - Setor Leste;EC Nº 03
+53002857;EC 06 do Gama;EQ 09/19 AE - Setor Oeste;EC Nº 06
+53002865;EC 07 do Gama;QD 10 AE - Setor Sul;EC Nº 07
+53002873;EC 09 do Gama;QD 03 AE - Setor Sul;EC Nº 09
+53002881;EC 10 do Gama;EQ 10/21 AE - Setor Oeste;EC Nº 10
+53002890;EC 12 do Gama;QD 01 AE - Setor Norte;;EC Nº 12
+53002911;EC 14 do Gama;EQ 29/33 AE 5 - Setor Leste;;EC Nº 14
+53002920;EC 15 do Gama;QD 02 AE – Setor Norte;;EC Nº 15
+53002938;EC 16 do Gama;QD 06 AE - Setor Sul;EC Nº 16
+53002946;EC 17 do Gama;QD 07 AE - Setor Sul;EC Nº 17
+53002954;EC 18 do Gama;QD 05 CONJ D AE - Setor Sul;;EC Nº 18
+53002962;EC 19 do Gama;EQ 30/49 AE - Setor Leste;EC Nº 19
+53002989;EC 21 do Gama;EQ 44/45 AE - Setor Leste;EC Nº 21
+ENDEREÇO PROVISÓRIO - EQ 17/27 - AE ST OESTE (EQ 33/35 AE -
+53002997;EC 22 do Gama;;EC Nº 22
+Setor Central )
+53003020;EC 28 do Gama;QD A LT B - Setor Oeste
+53002520;EC 29 do Gama;EQ 13/15 AE - Setor Sul;CE de 1º Grau 09 do Gama
+CEF 09 do Gama
+53009398;EC Córrego Barreiro;BR 060 DF 180 Km 8 – NR Ponte Alta;E. Rural Córrego Barreiro
+53003055;EC Ponte Alta de Cima;DF 290 Km 14 - FAZ Ponte Alta Norte
+53002784;CEF 01 do Gama;EQ 01/02 AE – Setor Norte;Centro 01 de Ensino de 1º Grau
+Centro Interescolar 01 do Gama
+53003004;CEF 03 do Gama;EQ 06/11 AE - Setor Leste;EC 24 do Gama
+53002490;CEF 04 do Gama;EQ 29/33 Praça 3 AE - Setor Leste;;Centro 04 de Ensino de 1º Grau
+CE de 1º Grau 04 do Gama
+53002504;CEF 05 do Gama;EQ 26/29 AE - Setor Oeste;Centro 05 de Ensino de 1º Grau
+CE de 1º Grau 05 do Gama
+
+
+
+
+3
+;;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+53002512;CEF 08 do Gama;QD 02 AE - Setor Sul;CE de 1º Grau Nº 8
+CE de 1º Grau 08 do Gama
+53002539;CEF 10 do Gama;EQ 19/22 AE - Setor Oeste;EC 25 do Gama
+CE de 1º Grau 10 do Gama
+53002547;CEF 11 do Gama;QD 01 AE - Setor Sul;EC Nº 11
+EC 11 do Gama
+CE de 1º Grau 11 do Gama
+53003071;CEF 15 do Gama;EQ 05/11 AE 27/36 - Setor Sul;EN do Gama
+CED 05 do Gama
+53002466;CEF Ponte Alta do Baixo;ROD 290 Km 14;EC Ponte Alta do Baixo
+CE de 1º Grau Ponte Alta do Baixo
+53003063;CEF Ponte Alta Norte;;DF 475 Km 05 - NR Ponte Alta Norte;;EC Ponte Alta Norte
+53002610;CED 06 do Gama;EQ 02/07 AE - Setor Leste;Centro 03 de Ensino de 1º Grau
+CE de 1º Grau 03 do Gama
+CED 04 do Gama
+CEM 04 do Gama
+53002563;CED 07 do Gama;Praça 01 LT 03 – Setor Central do Gama;;EC 27 do Gama
+CE de 1º Grau 13
+CEF 13 do Gama do Gama
+53002482;CED 08 do Gama;EQ 04/10 AE F - Setor Sul;Centro 02 de Ensino de 1º Grau
+CE de 1º Grau 02 do Gama
+CEF 02 do Gama
+CED 08 do Gama
+53009380;CED Casa Grande;;NR Casa Grande MOD Agrícola 16 Chácara 01;EC Casa Grande
+CEF Casa Grande
+53003047;CED Engenho das Lajes;;BR 060 Km 30 - ROD Brasília-Goiânia;;E. Rural Engenho das Lajes
+EC Engenho das Lajes
+CEF Engenho das Lajes
+53002474;CED Gesner Teixeira;;Rua das Dálias LTs 2 a 6 - Cidade Nova DVO;E. Rural do DVO
+EC Gesner Teixeira
+CE de 1º Grau Gesner Teixeira
+CEF Gesner Teixeira
+53002580;CEM 01 do Gama;EQ 18/21 AE - Setor Leste;Ginásio Moderno do Gama, posteriormente Ginásio do Gama
+Colégio do Gama
+CED 01 do Gama
+53002598;CEM 02 do Gama;AE 27/36 - Setor Central;CE de 1º Grau 07 do Gama
+Centro Interescolar 03 do Gama
+CED 02 do Gama
+53002601;CEM 03 do Gama;QD 05 AE F - Setor Sul;Centro 06 de Ensino de 1º Grau
+Centro Interescolar 02 do Gama
+CED 03 do Gama
+53014812;CEMI - CEM Integrado a Educação Profissional do Gama;EQ 04/10 – AE E – St Sul
+53002458;CAIC Carlos Castello Branco;EQ 20/23 AE - Setor Oeste;CAIC Gama (Carlos Castello Branco)
+
+
+
+4
+;Histórico das Escolas públicas.xlsx - ATIVAS;;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+III - TAGUATINGA
+53004027;EC 01 de Taguatinga;;QSC 01 AE 01;Grupo Escolar de Taguatinga ou EC nº 1 de Taguatinga
+EC Nº 14
+EC 14 de Taguatinga
+53004035;EC 06 de Taguatinga;CNB 12 AE 01;EC Nº 06
+53004043;EC 08 de Taguatinga;QNG 12 AE 14;EC Nº 08
+53004051;EC 10 de Taguatinga;QSD 18 AE 23;EC Nº 10
+53004060;EC 11 de Taguatinga;QSC 12/14 AE;EC Nº 11
+53004078;EC 12 de Taguatinga;QNH 06/07 AE;EC Nº 12
+53004086;EC 13 de Taguatinga;QSF 05 AE 02;EC Nº 13
+53004094;EC 15 de Taguatinga;QND 43 LT 23 AE;;EC Nº 15
+53004108;EC 16 de Taguatinga;EQNG 06/ 07 AE 15;EC Nº 16
+53004116;EC 17 de Taguatinga;QSA 03/05 AE 01/02;EC Nº 17
+53004124;EC 18 de Taguatinga;QND 12 AE LT 41;;EC Nº 18
+53004132;EC 19 de Taguatinga;QNA 39 AE 19;EC Nº 19
+53004175;EC 27 de Taguatinga;QNF 19 ECNF 01 AE;EC Nº 27
+53004191;EC 29 de Taguatinga;QNJ 18 AE 10;EC Nº 29
+53004213;EC 39 de Taguatinga;QNC 15 AE 15/17;;EC Nº 40
+EC Nº 39
+53004230;EC 41 de Taguatinga;EQNL 13/15 AE
+53004248;EC 42 de Taguatinga;EQNM 34/36 AE 01
+53004264;EC 45 de Taguatinga;EQNM 40/42 AE
+53004272;EC 46 de Taguatinga;EQNL 21/23 LT 01
+53004310;EC 50 de Taguatinga;EQNL 02/04
+53004337;EC 52 de Taguatinga;EQNM 38 AE 01
+53004345;EC 53 de Taguatinga;QNL 16 Via 01 LT 02
+53004361;EC Arniqueira;SMPW - QD 04 - CONJ 04 - AE 05 - Colônia Agrícola Arniqueira
+53004396;EC 54 de Taguatinga;AE 01/02 – Setor D Sul;Colégio de Taguatinga Sul
+CED de Taguatinga Sul
+Escola Normal de Taguatinga
+CEF 18 de Taguatinga
+53003446;CEF 03 de Taguatinga;;QSA 24/25 AE;Centro 03 de Ensino de 1º Grau
+CE de 1º Grau 03 de Taguatinga
+53003454;CEF 04 de Taguatinga;;EQNL 05/07 LT 01;CE de 1º Grau Nº 04
+CE de 1º Grau 04 de Taguatinga
+53003462;CEF 05 de Taguatinga;;QSE 22 AE 09/10;;CE de 1º Grau Nº 05
+CE de 1º Grau 05 de Taguatinga
+53003470;CEF 08 de Taguatinga;;QNA 52 LT 26;CE de 1º Grau 08
+53003489;CEF 09 de Taguatinga;;QSD AE Sul 02;;Escola Primária Betel
+EC N º 09
+CE de 1º Grau 09 de Taguatinga
+53003497;CEF 10 de Taguatinga;;QSE 05/07 AE 01;;EC N º 02
+CE de 1º Grau 10 de Taguatinga
+
+
+
+
+5
+;;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+53003500;CEF 11 de Taguatinga;CND 05 AE;EC N º 04
+EC 04 de Taguatinga
+CE de 1º Grau 11 de Taguatinga
+53003519;CEF 12 de Taguatinga;QNG 39 AE 03;;EC Nº 03
+EC 03 de Taguatinga
+CE de 1º Grau 12 de Taguatinga
+53003527;CEF 14 de Taguatinga;QNB 15 AE 02;;EC Nº 22
+EC 22 de Taguatinga
+CE de 1º Grau 14 de Taguatinga
+53003535;CEF 15 de Taguatinga;QSA 3/5 AE Sul 01;;CE de 1º Grau 15 de Taguatinga
+53004280;CEF 16 de Taguatinga;QNL 22 AE 24;;EC 47 de Taguatinga
+CE de 1º Grau 16 de Taguatinga
+53004256;CEF 17 de Taguatinga;EQNM 38/40 LT A;;EC 44 de Taguatinga
+CE de 1º Grau 17 de Taguatinga
+53004221;CEF 19 de Taguatinga;EQNL 10/ 12 AE;;EC 40 de Taguatinga
+53004299;CEF 21 de Taguatinga;QNL 28/30 AE 27;;EC 48 de Taguatinga
+53003578;CED 02 de Taguatinga (Centrão);;QSA 24/25 AE
+53003594;CED 04 de Taguatinga;QNG 20 - AE 06/07;;Centro 02 de Ensino de 1º Grau
+Centro Interescolar 02 de Taguatinga
+53003608;CED 05 de Taguatinga;QNJ 56 AE 16;;CE de 1º Grau Nº 07
+CE de 1º Grau 07 de Taguatinga
+Centro Interescolar 03 de Taguatinga
+53003616;CED 06 de Taguatinga;QNL 01 AE 01;;CE de 1º Grau Nº 06
+Centro Interescolar 03 de Taguatinga
+CE de 1º Grau 06 de Taguatinga
+53003624;CED 07 de Taguatinga;EQNM 36/38;;EC 43 de Taguatinga
+CE de 1º Grau 13 de Taguatinga
+53003586;CEM 03 de Taguatinga;QSE 05/07;Centro 01 de Ensino de 1º Grau
+Centro Interescolar 01 de Taguatinga
+CED 03 de Taguatinga
+53003632;CEM Ave Branca;QSA 03/05 AE 01;;Ginásio de Taguantiga
+Colégio de Taguantiga
+CEM Ave Branca - Taguatinga
+CEM Ave Branca - CEMAB
+CED Ave Branca
+53003691;CEM EIT (Escola Industrial de Taguatinga);QNB 01 AE 01;;Escola Industrial de Taguatinga
+CED 01 de Taguatinga
+CED EIT
+53003683;CEM Taguatinga Norte;QNC AE 01/03;;Ginásio Industrial de Taguatinga
+Colégio de Taguatinga Norte
+CED Taguatinga Norte
+53004140;Escola Bilingue Libras e Português Escrito de Taguatinga;EQNH 01/03 AE;1º) EC Nº 21
+2º) EC 21 de Taguatinga
+
+
+6
+;;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+IV - BRAZLÂNDIA
+53005074;EC 01 de Brazlândia;AE 03 - Setor Tradicional;EC de Brazlândia
+53014545;EC 01 do Incra 08;Qd 18, Lt 01, Incra 08
+53005082;EC 03 de Brazlândia;EQ 6/8 LT A – Setor Norte;EC Nº 03
+53005104;EC 05 de Brazlândia;AE 01 - Setor Sul;;Ginásio de Brazlândia
+CED 01 de Brazlândia
+53005112;EC 06 de Brazlândia;QD 38 AE 01 - Vila São José
+53005120;EC 07 de Brazlândia;QD 38 AE 02 - Vila São José
+53005139;EC 08 de Brazlândia;PIQ 04 LT 01 – Bairro Veredas
+53068025;EC 09 de Brazlândia;EQ 45/55 – Expansão da Vl São José
+53005147;EC Almécegas;BR 080 DF 205 – Faz. Almécegas;E. Rural da Almécegas
+53005155;EC Bucanhão;DF-415 - KM-3- Sentido DF-180 - NR Alex Gusmão
+53005163;EC Chapadinha;DF 445 Km 04 - Reserva A
+53005180;EC INCRA 06;DF 180 Km 2.1;E. Rural INCRA 6
+53005198;EC INCRA 07;Reserva G Gleba 3 LT 82 – Incra 07
+53005201;EC Pólo Agrícola da Torre;;DF 415 Km 6.6
+53004990;CEF 01 de Brazlândia;;PIQ 06 LT 02 – Bairro Veredas;CE de 1º Grau 01 de Brazlândia
+53005090;CEF 02 de Brazlândia;;AE 05 - Setor Norte;;EC 04 de Brazlândia
+53014553;CEF 03 de Brazlândia;;Qd 46, AE 01, Expansão da Vl São José
+53005007;CEF Vendinha;DF 180 Km 15;;EC Vendinha
+CE de 1º Grau Vendinha
+53005023;CED 02 de Brazlândia;;AE Praça do Laço - Setor Norte
+53012720;CED 03 de Brazlândia;;QD 36 AE 03 - Vila São José
+53005171;CED 04 de Brazlândia;;DF 180 Km 03 - NR Curralinho;EC Curralinho
+CEF 04 de Brazlândia
+53004981;CED INCRA 08;Rua B EQ 3/4 LT S/N - Incra 08;E. Rural INCRA 08
+EC INCRA 08
+CE de 1º Grau INCRA 08
+CEF INCRA 08
+53005210;CED Irmã Maria Regina Velanes Régis;DF 430 Km 1.6;E. Rural do Rodeador
+EC Rodeador
+CE de 1º Grau Rodeador
+CEF Rodeador
+CEF Irmã Maria Regina Velanes Régis
+53005015;CEM 01 de Brazlândia;;AE 04 - Setor Sul;;CE de 1º Grau de Brazlândia
+Centro Interescolar 01 de Brazlândia
+CED 01 de Brazlândia
+53004973;CAIC Profº Benedito Carlos de Oliveira;AE 05 - Setor Tradicional;CAIC Brazlândia
+V - SOBRADINHO
+53005627;EC 01 de Sobradinho;QD 06 Rua 05 AE 01;EC Nº 1
+53013832;EC 04 de Sobradinho;QD 15 AE 02
+53005635;EC 05 de Sobradinho;QD 09 CONJ A AE 05;EC Nº 5
+53005651;EC 10 de Sobradinho;QD 002 CONJ B/C LT E;EC Nº 10
+53005660;EC 11 de Sobradinho;QD 11 AE 01;EC Nº 11
+53005678;EC 12 de Sobradinho;QD 01 AE - Setor de Indústria;EC Nº 12
+53005384;EC 15 de Sobradinho;QD 03 AE 01/02;;EC 02 e EC 08 de Sobradinho
+CE de 1º Grau 06 de Sobradinho
+CEF 06 de Sobradinho
+EC 06 de Sobradinho
+53068050;EC 16 de Sobradinho;Cond Setor de Mansões - AE Nova Colina;;EC 01 da Nova Colina
+53013492;EC Basevi;ROD DF 001 Km 06 Vila Basevi - NR Lago Oeste
+7
+;Histórico das Escolas públicas.xlsx - ATIVAS;;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+53005716;EC Córrego de Sobradinho;DF 250 Km 20 - FAZ Paranoá
+53005759;EC Morro do Sansão;FAZ Sobradinho
+53005783;EC Santa Helena;;DF-440 - NR 01 - CH 13 - KM 5,5 - GJ SANTA HELENA;E. Rural Santa Helena
+53005791;EC Sítio das Araucárias;FAZ Mareiza Sítio das Araucárias - NR 01
+53005333;CEF 01 de Sobradinho;QD 002 CONJ C/D LT F;;Centro 1 de Ensino de 1º Grau
+CE de 1º Grau 01 de Sobradinho
+53005350;CEF 03 de Sobradinho;QD 06 AE 02;Centro 3 de Ensino de 1º Grau
+CE de 1º Grau 03 de Sobradinho
+53005368;CEF 04 de Sobradinho;QD 015 AE02;CE de 1º Grau 04 de Sobradinho
+53005376;CEF 05 de Sobradinho;QD 010 Rua 04 AE 4/5;;CE de 1º Grau nº 05
+CE de 1º Grau 05 de Sobradinho
+53005473;CED 02 de Sobradinho;QD 012 AE 05;Colégio de Sobradinho
+53005341;CED 03 de Sobradinho;QD 005 AE 05;Centro 2 de Ensino de 1º Grau
+CE de 1º Grau 02 de Sobradinho
+53005740;CED Prof. Carlos Ramos Mota;;EPCT DF 001 Km 13 – Chapada da Contagem NR Lago Oeste;EC Lago Oeste
+CEF Lago Oeste
+CEF Prof. Carlos Ramos Mota
+53005465;CEM 01 de Sobradinho;QD 004 AE 04;Ginásio Provisório de Sobradinho
+Ginásio de Sobradinho
+CED 01 de Sobradinho
+VI - PLANALTINA
+53006186;EC 01 de Planaltina;AV Independência LT A - Vila Vicentina;EC de Planaltina
+53047028;EC 01 do Arapoanga;EQ 16 Conj I – AE– St Hab Arapoanga
+53068076;EC 02 do Arapoanga;Qd 21 conj F, AE – St Habit Arapoanga
+53006194;EC 03 de Planaltina;EQ 01/02 Projeção G – Setor Residencial Leste;EC Nº 03
+53006208;EC 04 de Planaltina;EQ 03/04 Projeção G - Setor Residencial Leste;EC Nº 04
+53006216;EC 05 de Planaltina;AV Contorno QD 17 - Vila Vicentina;EC Nº 05
+53006224;EC 06 de Planaltina;EQ 05/06 Projeção G - Setor Residencial Leste
+53006232;EC 07 de Planaltina;Bairro Nossa Senhora de Fátima
+53006259;EC 09 de Planaltina;CONJ C Projeção 32 Via 06 - Setor Residencial Leste
+53006267;EC 10 de Planaltina;EQ 01 AE 01 - Setor Residencial Norte
+53006275;EC 11 de Planaltina;EQ 05 AE 01 – Setor Residencial Norte
+53006291;EC 13 de Planaltina;EQ 07 AE 01 - Setor Residencial Norte
+53006305;EC 14 de Planaltina;QD 13 LT - Setor Residencial Leste
+53068084;EC 15 de Planaltina;Via de Ligação BR 020/DF128 - Frente a Estância III
+53047010;EC 16 de Planaltina;Cond Estância I a V - MESTRE D’ARMAS;CEF 07 de Planaltina
+53006313;EC Alta-Mir;;DF 015 Km 08 - Bica do DER
+53006321;EC Aprodarmas;;DF 130 Chácara 67 - FAZ Mestre D’Armas
+53006348;EC Barra Alta;;DF 320 - Capão dos Porcos
+53006356;EC Brochado da Rocha;BR 020 - Acampamento DVO;E. Rural do Acampamento Brochado da Rocha
+53006372;EC COPERBRÁS;DF 250 Chácara 172 - NR Tabatinga
+53013506;EC Córrego do Arrozal;BR 020 Km 13/14 - NR Córrego do Arrozal
+53006380;EC Córrego do Meio;BR 020 Km 18 - Chácara Córrego do Meio
+53006410;EC Estância de Planaltina;;DF 128 Rua M LTs 03 e 04 - Estância de Planaltina
+53006402;EC Estância do Pipiripau;2800M DF 345 – NR Pipiripau
+53006429;EC ETA 44 (Esquadrão de Transporte Aéreo);BR 020 Km 18 - CPAC/EMBRAPA;;E. Rural ETA 44
+53006437;EC Frigorífico Industrial;;DF 230 - Frigorífico Industrial;E. Rural Frigorífico Industrial
+53006011;EC Mestre D'Armas;DF 130 Km 18 - Vale do Amanhecer;E. Rural Mestre D'Armas
+EC Mestre D'Armas
+8
+;;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+CE de 1º Grau Mestre D'Armas
+CEF Mestre D'Armas
+53006461;EC Monjolo;;BR 020 DF 355 – FAZ Monjolo;E. Rural Monjolo
+53006488;EC Núcleo Rural Córrego do Atoleiro;DF 345 Km 18 - NR Córrego do Atoleiro
+53006500;EC Palmeiras;;BR 020 DF 205 - FAZ Palmeiras;E. Rural das Palmeiras
+53006518;EC Paraná;;EQ 01/02 Projeção H - Setor Residencial Leste
+53006526;EC Pedra Fundamental;BR 020 DF 128 – Chácara Largo da Pedra N 15
+53006534;EC Rajadinha;;DF 250 DF 006 - NR Rajadinha;E. Rural Núcleo de Rajadinha
+53012739;EC Reino das Flores;DF 250 – NR Santos Dumont
+53006550;EC Santos Dumont;DF130 - KM-28 - NR Santos Dumont
+53013280;EC Vale do Sol;;Condomínio Vale do Sol AE LTs 1 a 6
+53014278;EC Vale Verde;DF 130, Km 6,5, Quintas do Vale Verde, Ch 133, NR
+53005996;CEF 01 de Planaltina;Projeção M - Setor Educacional;Centro 01 de Ensino de 1º Grau
+CE de 1º Grau 01 de Planaltina
+53006003;CEF 02 de Planaltina;AV São Paulo QD 52 Projeção J/L - Setor. Tradicional;Escola Paroquial
+CE de 1º Grau 02 de Planaltina
+53005961;CEF 03 de Planaltina;EQ 10/20 LT H - Setor Residencial Leste;;CE de 1º Grau 03 de Planaltina
+53006160;CEF 04 de Planaltina;Projeção C/D - Setor Educacional;Centro Interescolar 01 de Planaltina
+53006240;CEF 08 de Planaltina;EQ 03/04 Projeção H - Setor Residencial Leste;;EC 08 de Planaltina
+53012747;CEF Arapoanga;AE Arapoanga;CE de 1º Grau Arapoanga
+53012666;CEF Bonsucesso;;DF 130 Km 04 - NR Bonsucesso;EC Bonsucesso
+53006364;CEF Cerâmicas Reunidas D. Bosco;;BR 020 Km 54 - Estrada Formosa/Goiás;;E. Rural Cerâmica Três Coelhos
+EC Cerâmicas Reunidas D. Bosco
+53005970;CEF Juscelino Kubitschek;;BR 020 Modulo 7 LTs 17a19 24a26- Mestre D’Armas;EC Condomínio Mestre D'Armas
+CE de 1º Grau Juscelino Kubitschek
+53011490;CEF N. Srª de Fátima;AE 01 - Setor Residencial Oeste;CE de 1º Grau N. Srª de Fátima
+53005988;CEF Pipiripau II;BR 010 DF 213 - NR Pipiripau II;E. Rural Pipiripau nº 2
+EC Pipiripau II
+CE de 1º Grau Pipiripau II
+53006020;CEF Rio Preto;DF 250 DF 320 - NR Rio Preto;E. Rural Rio Preto
+EC Rio Preto
+CE de 1º Grau Rio Preto
+53006038;CEF São José;;DF 250 - NR São José;;E. Rural São José
+EC São José
+CE de 1º Grau São José
+53006062;CED 01 de Planaltina;Projeção A/B – Setor Educacional;Ginásio de Planaltina
+Colégio de Planaltina
+53006283;CED 03 de Planaltina;EQ. 03 AE 03 - Setor Residencial Norte;;EC 12 de Planaltina
+CE de 1º Grau 12 de Planaltina
+CEF 05 de Planaltina
+CED 02 de Planaltina
+53068068;CED Dona América Guimarães;;Qd 10 K Conj C - AE – St Hab Arapoanga
+53012011;CED Condomínio Estância III;;MOD 01 Rua 1 C 16 – Estância III;CE de 1º Grau Condomínio Estância III
+CEF Condomínio Estância III
+53006496;CED Osório Bacchin;DF 131 DF 205 – QG Gleba 22 – NR Jardim Morumbi;EC Osório Bacchin
+53014308;CED Pompílio Marques de Souza;;Área Sub-Urbana Mestre D’Armas, MI, Lt 13;;CEF 06 de Planaltina
+CEF Pompílio Marques de Souza
+53013840;CED Stella dos Cherubins Guimarães Trois;AV Hugo Lobo QD 97 - Setor Tradicional;;CEM Stella dos Cherubins Guimarães Trois
+53006046;CED Taquara;BR 020 DF 410 - NR Taquara;;E. Rural Pipiripau Taquara
+E. Rural da Taquara
+EC Taquara
+9
+;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+CE de 1º Grau Taquara
+CEF Taquara
+53014316;CED Vale do Amanhecer;AE nº 3, Lt 01, Vl Pacheco, Vale do Amanhecer 13;CEF Vale do Amanhecer
+53006054;CED Várzeas;DF-120 - DF-455 - NR TABATINGA;E. Rural Várzeas
+EC Várzeas
+CE de 1º Grau Várzeas
+CEF Várzeas p/ CED
+53006070;CEM 02 de Planaltina;;Setor Educacional LTs J/L;CED 02 de Planaltina
+53005953;CAIC Assis Chateaubriand;;LT Especial 03 - Setor Residencial Leste
+VII - PARANOÁ
+53006747;EC 01 do Paranoá;QD 26 CONJ G AE 01
+53006755;EC 02 do Paranoá;QD 30 CONJ E LT 17
+53006763;EC 03 do Paranoá;QD 17 CONJ C LT 08
+53006771;EC 04 do Paranoá;QD 14 CONJ F LT 01
+53006780;EC 05 do Paranoá;QD 24 CONJ I AE
+53006798;EC Alto Interlagos;;Chácara Alto Interlagos 10A Altiplano Leste
+53006801;EC Boqueirão;DF 06 - NR FAZ São Bento – Boqueirão
+53006828;EC Café Sem Troco;DF 130 Km 54
+53006836;EC Capão Seco;BR 251 Km 38;E. Rural Capão Seco
+53006844;EC Cariru;DF 250 - Colônia Agrícola Cariru;;E. Rural Cariru
+
+
+53006852;EC Itapeti;;DF 251 Km 37
+53006879;EC Lamarão;;DF 285 - Colônia Agrícola Lamarão
+53006887;EC Natureza;DF 250 Km 08 - Chácara Nutri-Natura
+53006895;EC Quebrada dos Néris;BR 251 – FAZ Curado;E. Rural Quebrada dos Néris
+53006917;EC Sobradinho dos Melos;;DF 250 Via Lago Norte Km 07 - FAZ Paranoá;;E. Rural Sobradinho dos Melos
+53006925;EC Sussuarana;DF 270 Km 04 Chácara São Francisco
+53012429;CEF 01 do Paranoá;QD 03 AE 01;;CE de 1º Grau 01 do Paranoá
+53012003;CEF 02 do Paranoá;QD 04 CONJ A AE 01;;CE de 1º Grau 02 do Paranoá
+53014227;CEF 03 do Paranoá;Qd 26, Conj G, Lt 01
+53015584;CEF 04 do Paranoá;Qd 04, Conj A, AE
+53016378;CEF 05 do Paranoá;QD 25 CJ A LTS 3, 4, 18 E 19
+53006810;CEF Buriti Vermelho;DF 270 – NR Buriti Vermelho;E. Rural Buriti Vermelho
+EC Buriti Vermelho
+53006860;CEF Jardim II;BR 251 DF 285 – NR Jardim;EC Jardim II
+53011520;CED Darcy Ribeiro;QD 31 CONJ F AE;;EC do Paranoá
+CE de 1º Grau 01 do Paranoá
+CE de 1º Grau Darcy Ribeiro
+CEF Darcy Ribeiro
+53006720;CED do PAD/DF (Programa de Assentamento Dirigido do DF);BR 251 Km 40;EC PAD-DF
+CE de 1º Grau 01 do PAD-DF
+53006739;CEM 01 do Paranoá;;QD 04 CONJ A AE 02;;CED 01 do Paranoá
+53006712;CAIC Santa Paulina;QD 05 AE 01;;CAIC Md P.Cor. A. de Jesus
+VIII - NÚCLEO BANDEIRANTE
+53007123;EC 03 do N. Bandeirante;;3ª AV AE 06 LTs H/N;EC Nº 03
+53007131;EC 04 do N. Bandeirante;;2ª AV Entre Blocos 440/540;EC Nº 04
+53007140;EC 05 do N. Bandeirante;;2ª AV Entre Blocos 1400/1500;EC Nº 05
+53007042;CEF 01 do N. Bandeirante;;AV Contorno AE 8 LT A;CE de 1º Grau 01 do N. Bandeirante
+53007069;CEF Metropolitana;;Rua 01 s/n° Praça da Metropolitana;;EC Metropolitana
+CE Metropolitana
+10
+;;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+53009460;CED Vargem Bonita;Rua 01 s/n°Núcleo Hortícula Vargem Bonita;EC Rural Vargem Bonita
+EC Vargem Bonita
+CE de 1º Grau Vargem Bonita
+CEF Vargem Bonita
+53007077;CEM 01 do N. Bandeirante;;3ª AV AE 04;Ginásio Noturno do Núcleo Bandeirante
+Colégio Noturno do N. Bandeirante
+Colégio do N. Bandeirante
+CED 01 do N. Bandeirante
+IX - CEILÂNDIA
+53007646;EC 01 de Ceilândia;EQNM 23/25- Ceilândia Sul;EC Nº 31, em Taguatinga
+53007654;EC 02 de Ceilândia;EQNM 19/21 - Ceilândia Sul;EC Nº 32, em Taguatinga
+53007662;EC 03 de Ceilândia;EQNM 18/20 - Ceilândia Norte;EC Nº 33, em Taguatinga
+53007670;EC 06 de Ceilândia;EQNM 04/06 - Ceilândia Norte;EC Nº 36, em Taguatinga
+53007697;EC 08 de Ceilândia;EQNN 05/07 - Ceilândia Norte;EC Nº 38, em Taguatinga
+53007700;EC 10 de Ceilândia;EQNM 02/04 – Ceilândia Norte
+53007719;EC 11 de Ceilândia;EQNM 06/08 - Ceilândia Norte
+53007727;EC 12 de Ceilândia;EQNM 20/22 - Ceilândia Norte
+53007735;EC 13 de Ceilândia;EQNM 24/26 - Ceilândia Norte
+53007743;EC 15 de Ceilândia;EQNN 08/10 - Ceilândia Sul
+53007751;EC 16 de Ceilândia;EQNO 04/06 Setor”O” - Ceilândia Norte
+53007760;EC 17 de Ceilândia;EQNO 01/03 Setor”O” - Ceilândia Norte
+53007778;EC 18 de Ceilândia;EQNM 03/05 - Ceilândia Sul
+53007786;EC 19 de Ceilândia;EQNM 07/09 - Ceilândia Sul
+53007794;EC 20 de Ceilândia;EQNN 02/04 - Ceilândia Sul
+53007808;EC 21 de Ceilândia;EQNN 04/06 - Ceilândia Sul
+53007816;EC 22 de Ceilândia;EQNN 06/08 - Ceilândia Sul
+53007824;EC 24 de Ceilândia;EQNN 20/22 - Ceilândia Sul
+53007832;EC 25 de Ceilândia;EQNN 22/24 - Ceilândia Sul
+53007840;EC 26 de Ceilândia;EQNN 03/05 - Ceilândia Norte
+53007859;EC 27 de Ceilândia;EQNN 07/09 - Ceilândia Norte
+53007867;EC 28 de Ceilândia;EQNN 17/19 - Ceilândia Norte
+53007875;EC 29 de Ceilândia;EQNN 19/21 – Ceilândia Norte
+53008332;EC 31 de Ceilândia;EQNO 09/11 Setor”O” - Ceilândia Norte;JI e EC 31 de Ceilândia
+53007891;EC 33 de Ceilândia;EQNO 13/15 Setor”O”- Ceilândia Norte
+53007905;EC 34 de Ceilândia;EQNP 13/17 Setor”P” - Ceilândia Norte
+53008340;EC 35 de Ceilândia;EQNP 09/13 Setor”P” - Ceilândia Norte;JI e EC 35 de Ceilândia
+53007913;EC 36 de Ceilândia;EQNP 05/09 Setor”P” - Ceilândia Norte
+53007930;EC 38 de Ceilândia;EQNP 15/19 Setor”P” - Ceilândia Norte
+53007948;EC 39 de Ceilândia;EQNP 11/15 Setor”P - Ceilândia Norte
+53007956;EC 40 de Ceilândia;EQNP 07/11 Setor”P” - Ceilândia Norte
+53007964;EC 43 de Ceilândia;EQNP 14/18 Setor”P” - Ceilândia Sul
+53007980;EC 45 de Ceilândia;EQNP 12/16 Setor”P” - Ceilândia Sul
+53007999;EC 46 de Ceilândia;EQNP 16/20 Setor”P” - Ceilândia Sul
+53008006;EC 47 de Ceilândia;EQNP 22/26 Setor”P” - Ceilândia Sul
+53008014;EC 48 de Ceilândia;EQNP 26/30 Setor”P” - Ceilândia Sul
+53008022;EC 50 de Ceilândia;EQNP 24/28 Setor”P” – Ceilândia Sul
+53008030;EC 52 de Ceilândia;EQNP 32/36 Setor”P” - Ceilândia Sul
+53004353;EC 55 de Ceilândia;QNO 20 CONJ C Setor”O” - Ceilândia Norte
+53008057;EC 56 de Ceilândia;QNO 18/19 Setor”O” - Ceilândia Norte
+53008073;EC 59 de Ceilândia;QNN 36 AE 02
+53008090;EC 61 de Ceilândia;QNQ 4 - Ceilândia Norte
+11
+;;Histórico das Escolas públicas.xlsx - ATIVAS;;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+53008103;EC 62 de Ceilândia;QNQ 1 AE- Ceilândia Norte
+53008170;EC 64 de Ceilândia;EQNM 17/19 - Ceilândia Sul;CE de 1º G. 06 de Ceilândia
+CED nº 01 da Ceilândia
+CED 01 de Ceilândia
+CE de 1º Grau 06 de Ceilândia
+Escola de 2º Grau 01 de Ceilândia
+CED 08 de Ceilândia
+E. Normal de Ceilândia
+53014855;EC 65 de Ceilândia;QNR 2, AE 04
+53068130;EC 66 de Ceilândia;Córrego das Corujas – St Hab Sol Nascente
+53008120;EC Córrego das Corujas;;BR-070 - NR MACHADO
+53008138;EC do Setor P Norte;EQNP Rua da Cascalheira Setor “P” - Ceilândia Norte
+53008154;EC Jibóia;BR-060 - DF 280 - DF 001 - FAZENDA DOIS IRMAOS;E. Rural Jardim das Oliveiras
+E. Rural Jibóia
+53008162;EC Lajes da Jibóia;BR-060 - DF-180 - KM 05;;E. Rural Lajes da Jibóia
+53007280;CEF 02 de Ceilândia;EQNM 01/03 - Ceilândia Sul;Centro 02 de Ensino de 1º Grau
+CE de 1º Grau 02 de Ceilândia
+53007298;CEF 04 de Ceilândia;EQNM 21/23 - Ceilândia Sul;CE de 1º Grau 04 de Ceilândia
+53007301;CEF 07 de Ceilândia;EQNM 05/07 – Ceilândia Sul;CE de 1º Grau Nº 07
+CE de 1º Grau 07 de Ceilândia
+53007310;CEF 10 de Ceilândia;EQNN 23/25 - Ceilândia Norte;EC 53 de Ceilândia
+CE 1º Grau 10 de Ceilândia
+53007328;CEF 11 de Ceilândia;EQNN 24/26 - Ceilândia Sul;EC 54 de Ceilândia
+CE 1º Grau 11 de Ceilândia
+53007336;CEF 12 de Ceilândia;EQNO 02/04 Setor “O” - Ceilândia Norte;;EC 14 de Ceilândia
+CE 1º Grau 12 de Ceilândia
+53007344;CEF 13 de Ceilândia;EQNP 30/34 Setor “P” - Ceilândia Sul;EC 49 de Ceilândia
+CE 1º Grau 13 de Ceilândia
+53007352;CEF 14 de Ceilândia;EQNP 28/32 Setor “P” - Ceilândia Sul;EC 51 de Ceilândia
+CE 1º Grau 14 de Ceilândia
+53007379;CEF 16 de Ceilândia;EQNM 22/24 - Ceilândia Norte;EC Nº 34, em Taguatinga
+EC 04 de Ceilândia
+CE de 1º Grau 16 de Ceilândia
+53007395;CEF 18 de Ceilândia;QNP 10 Setor “P” - Ceilândia Sul;EC 41 de Ceilândia
+CE de 1º Grau 18 de Ceilândia
+53007409;CEF 19 de Ceilândia;EQNN 18/20 - Ceilândia Sul;EC 23 de Ceilândia
+CE de 1º Grau 01 de Ceilândia
+CE de 1º Grau 19 de Ceilândia
+53007417;CEF 20 de Ceilândia;EQNM 08/10 - Ceilândia Norte;EC Nº 35, em Taguatinga
+EC 05 de Ceilândia
+CE de 1º Grau 20 de Ceilândia
+53012100;CEF 24 de Ceilândia;QNQ 03 AE B - Ceilândia Norte;CE de 1º Grau 24 de Ceilândia
+53007522;CEF 25 de Ceilândia;QNP 09 Setor “P” - Ceilândia Norte;CED 05 de Ceilândia
+CEM 05 de Ceilândia
+53007883;CEF 26 de Ceilândia;EQNO 05/07 Setor”O” - Ceilândia Norte;;EC 30 de Ceilândia
+53068114;CEF 27 de Ceilândia;CNR 01 AE n° 03
+53068122;CEF 28 de Ceilândia;QNP 21, St Hab Sol Nascente (Parque da Vaquejada)
+53011589;CEF 30 de Ceilândia;Condomínio Privê Lucena Roriz;EC 63 de Ceilândia
+12
+;;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+53008049;CEF 31 de Ceilândia;QNO 17 Setor”O” - Ceilândia Norte;;EC 53 de Ceilândia
+53068149;CEF 32 de Ceilândia;EQ 500/700 – St Hab Por do Sol;EC 67 de Ceilândia
+CED 32 de Ceilândia
+53007972;CEF 33 de Ceilândia;QNP 12 AE Setor”P” - Ceilândia Sul;;EC 44 de Ceilândia
+53008081;CEF 34 de Ceilândia;QNO 19 Setor”O” - Ceilândia Norte;;EC 60 de Ceilândia
+53007689;CEF 35 de Ceilândia;EQNN 01/03 - Ceilândia Norte;EC Nº 37, em Taguatinga
+EC 07 de Ceilândia
+
+
+
+
+13
+;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+53008111;CEF Boa Esperança;BR-070 - DF-180/190;;E. Rural Boa Esperança
+EC Boa Esperança
+53007450;CEF Profª Maria do Rosário Gondim da Silva;EQNN 21/23 - Ceilândia Norte;CE de 1º Grau nº 08
+CE de 1º Grau 08 de Ceilândia
+CE de 1º Grau Professora Maria do Rosário Gondim da Silva
+53007530;CED 06 de Ceilândia;QNP 16 Setor “P” – Ceilândia Sul;CED 06 de Ceilândia
+CEM 06 de Ceilândia
+53007549;CED 07 de Ceilândia;QNN 13 - Ceilândia Norte;CE de 1º Grau Nº 03
+CE de 1º Grau 03 de Ceilândia
+53007921;CED 11 de Ceilândia;EQNP 01/05 Setor “P” - Ceilândia Norte;;EC 37 de Ceilândia
+CE de 1º Grau 23 de Ceilândia
+CED 13 de Ceilândia
+CED 11
+CEM 11
+53007360;CED 14 de Ceilândia;EQNO 11/13 Setor “O” - Ceilândia Norte;;EC 32 de Ceilândia
+CE 1º Grau 15 de Ceilândia
+CEF 15 de Ceilândia
+CED 13 de Ceilândia
+53007387;CED 15 de Ceilândia;QES - AE 01 - SIC;;CE de 1º Grau de Ceilândia
+CEF 17 de Ceilândia
+53008146;CED INCRA 09;;NR A GUSMAO - BR-070 - KM-16 - GLEBA 03;E. Rural INCRA 09
+EC INCRA 09
+CEF INCRA 09
+53007492;CEM 02 de Ceilândia;QNM 14 - Ceilândia Norte;CE de 1º Grau 05 de Ceilândia
+Centro Interescolar 02 de Ceilândia
+CED 02 de Ceilândia
+53007506;CEM 03 de Ceilândia;QNM 13 - Ceilândia Sul;CE de 1º Grau
+Centro Interescolar 01 de Ceilândia
+CED 03 de Ceilândia
+53007514;CEM 04 de Ceilândia;QNN 14 - Ceilândia Sul;CED 04 de Ceilândia
+53007557;CEM 09 de Ceilândia;EQNO 03/05 Setor “O” - Ceilândia Norte;;CE de 1º Grau 09 de Ceilândia
+CED 09 de Ceilândia
+53007565;CEM 10 de Ceilândia;QNP 30 Setor “P” - Ceilândia Sul;CED 10 de Ceilândia
+53007425;CEM 12 de Ceilândia;QNP 13 Setor “P” - Ceilândia Norte;;CE de 1º Grau 21 de Ceilândia
+CEF 21 de Ceilândia
+53007255;CAIC Bernardo Sayão;QNN 28 AE H,I,J,K - Ceilândia Sul;;CAIC QNM 28
+CAIC de Ceilândia (Bernardo Sayão)
+53007263;CAIC Profº Anísio Teixeira;;QNO 10/12 AE A Setor “O” - Ceilândia Norte;CAIC Anísio Teixeira
+X - GUARÁ
+53008561;EC 01 do Guará;;QE 01/03 AE A- Guará I;Escola Classe Nº 01
+53008570;EC 02 do Guará;;QE 02 Bloco A - Guará I;Escola Classe Nº 02
+53008588;EC 03 do Guará;;QE 07 AE Q LT J - Guará I;Escola Classe Nº 03
+53008596;EC 05 do Guará;;QE 20 LT K AE - Guará I;Escola Classe Nº 05
+53008600;EC 06 do Guará;;EQ 24/26 LT A AE - Guará II
+53008618;EC 07 do Guará;;QE 08 AE D - Guará II;;EC do Parque do Guará
+EC do Parque Guará
+53008626;EC do SRIA;;S.I.A – SAPS AE LT 01;;EC do S.I.A
+53008421;EC 08 do Guará;;EQ 28/30 LT A AE - Guará II;Centro de Ensino de 1º Grau nº 07 - Guará II
+CE de 1º Grau 07 do Guará
+CEF 07 do Guará
+14
+;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+53008391;CEF 01 do Guará;QE 04 AE J - Guará I;Centro 01 de Ensino de 1º Grau
+CE de 1º Grau 01 do Guará
+53008529;CEF 02 do Guará;QE 07 AE - Guará I;Centro 02 de Ensino de 1º Grau
+Centro Interescolar 01 do Guará
+53008405;CEF 04 do Guará;QE 12 Bloco A AE - Guará I;;Centro 04 de Ensino de 1º Grau
+CE de 1º Grau 04 do Guará
+53008413;CEF 05 do Guará;EQ 32/34 AE LT B - Guará II;;Centro de Ensino de 1º Grau nº 05 - Guará II
+CE de 1º Grau 05 do Guará
+53008430;CEF 08 do Guará;EQ 13/15 AE B - Guará II;;Centro de Ensino de 1º Grau nº 08 - Guará II
+CE de 1º Grau 08 do Guará
+53012046;CEF 10 do Guará;QE 46 AE 05;CE de 1º Grau 10 do Guará
+53008456;CED 01 do Guará;EQ 34/36 LT B AE - Guará II;;CE de 1º Grau 06 do Guará II
+
+CED Nº 01 do Guará
+53008464;CED 02 do Guará;QE 07 CONJ M AE - Guará I;Ginásio do Guará
+53008472;CED 03 do Guará;EQ 17/19 LT B AE A - Guará II;;CE de 1º Grau 09 do Guará
+53008480;CED 04 do Guará;QE 09 AE D - Guará I;Centro 03 de Ensino de 1º Grau
+CE de 1º Grau 03 do Guará
+XI - CRUZEIRO
+53008820;EC 04 do Cruzeiro;SHCES QD 407 LT 1;EC Nº 4 - Cruzeiro
+53008839;EC 05 do Cruzeiro;SHCES QD 203 LT 1;EC Nº 5 - Cruzeiro
+53008847;EC 06 do Cruzeiro;SHCES QD 805 LT 2C
+53008774;CEF 01 do Cruzeiro;SRES LT 6;;EC Nº1 do SRES - Cruzeiro
+CE de 1º Grau 01 do Cruzeiro
+Incorporação da EC 02 e 03 do Cruzeiro
+53008782;CEF Athos Bulcão;SHCES QD 309 LT 1;CE de 1º Grau Nº 02 do Cruzeiro
+CE de 1º Grau 02 do Cruzeiro
+CEF 02 do Cruzeiro
+53008790;CED 01 do Cruzeiro;SRES AE BLOCO G;Ginásio Noturno do Cruzeiro
+53008804;CED 02 do Cruzeiro;SHCES QD 805 LT 2A;Centro 01 de Ensino de 1º Grau
+Centro Interescolar 01 do Cruzeiro
+XII - SAMAMBAIA
+ENDEREÇO PROVISÓRIO - QN 307 - CONJ 08 - AE (QS 110 AE 01 -
+53009053;EC 108 de Samambaia
+Setor Sul )
+53009061;EC 111 de Samambaia;QS 111 AE 01 - Setor Sul
+ENDEREÇO PROVISÓRIO - QS 119 - SUBCENTRO OESTE (QR 121
+53009088;EC 121 de Samambaia
+CONJ 01 LT 01 - Setor Sul )
+53009096;EC 303 de Samambaia;QR 303 CONJ 12 LT 01 – Setor Sul
+53009118;EC 317 de Samambaia;QR 317 AE 03 - Setor Sul
+53009126;EC 318 de Samambaia;QN 318 CONJ 04 LT 01 - Setor Sul
+53009134;EC 325 de Samambaia;QR 325 AE 01 - Setor Sul
+53009142;EC 403 de Samambaia;QS 405 AE 01 - Setor Norte
+53009169;EC 410 de Samambaia;QN 410 AE 01 - Setor Norte
+53009185;EC 415 de Samambaia;QR 415 AE 01 - Setor Norte
+53009193;EC 419 de Samambaia;QS 419 AE 01 – Setor Norte
+53009207;EC 425 de Samambaia;QS 425 AE 02 - Setor Norte;;EC 611 de Samambaia
+53009215;EC 431 de Samambaia;QS 431 AE 01 - Setor Norte
+53009223;EC 501 de Samambaia;QN 501 CONJ 03 LT 1 - Setor Sul
+53009231;EC 510 de Samambaia;QR 510 CONJ 07 LT 01 - Setor Sul
+53009240;EC 511 de Samambaia;QR 511 AE 02 - Setor Sul
+53010060;EC 512 de Samambaia;QN 512 CONJ 06 LT 01 - Setor Sul
+15
+;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+53013867;EC 604 de Samambaia;QS 604 AE 01
+53009258;EC 614 de Samambaia;QS 614 AE 01 - Setor Norte
+53009266;EC Guariroba;BR-060 - KM-09 - DF-180;EC Rural da Guariroba
+53068173;EC 831 de Samambaia;QR 831, Conj 01 Lt 01
+53009070;CEF 120 de Samambaia;;QN 120/122 CONJ 04 LT 01 - Setor Sul;;EC 120 de Samambaia
+CE de 1º Grau 120 de Samambaia
+53008995;CEF 312 de Samambaia;;QN 312 CONJ 05 LT 01 - Setor Sul;CE de 1º Grau 312 de Samambaia
+53008987;CEF 404 de Samambaia;;QS 404 AE 01 LT 01 – Setor Norte;CE de 1º Grau 02 de Samambaia
+53009150;CEF 407 de Samambaia;;QN 407 AE 01 - Setor Norte;EC 407 de Samambaia
+53009002;CEF 411 de Samambaia;;QN 411 AE 01 – Setor Norte;CE de 1º Grau 411 de Samambaia
+53009177;CEF 412 de Samambaia;;QN 412 AE 01 - Setor Norte;EC 412 de Samambaia
+53011597;CEF 427 de Samambaia;;QN 427 AE 02 – Setor Norte;CE de 1º Grau 427 de Samambaia
+53010027;CEF 504 de Samambaia;;QR 504 CONJ 09 LT 01 - Setor Sul;CE de 1º Grau 504 de Samambaia
+53009010;CEF 507 de Samambaia;;QR 507 CONJ 07 LT 01 - Setor Sul;CE de 1º Grau 507 de Samambaia
+53011562;CEF 519 de Samambaia;;QS 519 AE 01 - Setor Sul;CE de 1º Grau 519 de Samambaia
+53008979;CED Myriam Ervilha;DF 280 Km 14;;E. Rural de Samambaia
+EC Samambaia
+CE de 1º Grau 01 de Samambaia
+CEF 01 de Samambaia
+CEF Myriam Ervilha
+53012097;CED 123 de Samambaia;;QR 123 CONJ 08 AE 01 - Setor Sul
+53010019;CED 619 de Samambaia;;QS 619 AE 01 - Setor Norte;CE de 1º Grau 619 de Samambaia
+CEF 619 de Samambaia
+53009029;CEM 304 de Samambaia;;QN 304 CONJ 04 LT 01 - Setor Sul;CED 304 de Samambaia
+53011996;CEM 414 de Samambaia;;QS 414 AE 01 – Setor Norte;CE de 1º Grau 414 de Samambaia
+CEF 414 de Samambaia
+53008944;CAIC Ayrton Senna;QR 117 AE -Setor Sul;CAIC Samambaia
+53008952;CAIC Helena Reis;QR 409 AE 01 - Setor Norte
+XIII - SANTA MARIA
+53068190;EC 01 do Porto Rico;;Cond Porto Rico
+53014235;EC 100 de Santa Maria;;QR 100, Conj T1, Lt 01
+53009681;EC 116 de Santa Maria;;QR 116 CONJ M LT 01
+53009703;EC 203 de Santa Maria;;CL 203 LT A1;;EC Santa Maria
+53009673;EC 206 de Santa Maria;;CL 206 LT C1;;EC 02 de Santa Maria
+53013565;EC 215 de Santa Maria;;CL 215 LT A;CEF 215 de Santa Maria
+53011511;EC 218 de Santa Maria;;EQ 217/318 LT J
+53012593;CEF 103 de Santa Maria;;QR 103 LT B;CE de 1º Grau 103 de Santa Maria
+53012062;CEF 201 de Santa Maria;;CL 201 LT A1;;CE de 1º Grau 201 de Santa Maria
+53011503;CEF 209 de Santa Maria;;CL 209 LT A;CE de 1º Grau 209 de Santa Maria
+53009851;CEF 213 de Santa Maria;;CL 213 LT G;CE de 1º Grau 213 de Santa Maria
+53009665;CEF 308 de Santa Maria;;CL 308 LT B1;;CE de 1º Grau 308 de Santa Maria
+53009690;CEF 316 de Santa Maria;;CL 316 LT A;EC 316 de Santa Maria
+53009878;CEF 403 de Santa Maria;;QR 403 LT A;CE de 1º Grau 403 de Santa Maria
+53014294;CEF 418 de Santa Maria;;Qd 418/518, Lt J
+53012054;CEF Santos Dumont;AV Salgado Filho s/n – Sítio do Gama;;CE de 1º Grau Santos Dumont
+53009711;CEF Sargento Lima;Área Alfa da Marinha – Santa Maria;;EC Vicentina Goulart
+EC Sargento Lima
+53068181;CED 310 de Santa Maria;;CL 310 conj H
+53010000;CED 416 de Santa Maria;;EQ 416/516 LT A;;CE de 1º Grau 416 de Santa Maria
+CEF 416 de Santa Maria
+53012623;CEM 404 de Santa Maria;;CL 404 LT A;CED 404 de Santa Maria
+53012607;CEM 417 de Santa Maria;;CL 417 LT A;CED 417 de Santa Maria
+16
+;;Histórico das Escolas públicas.xlsx - ATIVAS;;02/12/2015
+COD MEC;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;;DENOMINAÇÃO ANTERIOR
+53009649;CAIC Albert Sabin;EQ 304/307 CONJ D LT 1
+53009657;CAIC Santa Maria;EQ 215/315 LT B
+XIV - SÃO SEBASTIÃO
+53013484;EC 104 de São Sebastião;;QD 104 CONJ 01 LT 01 – Bairro Residencial Oeste
+53014286;EC 303 de São Sebastião;;Qd 303, Conj 1, Lt 34, Bairro Residencial Oeste
+53009754;EC Agrovila São Sebastião;;QD 100 CONJ Q AE 01 - Bairro Vila Nova
+53012070;EC Aguilhada;BR 251 Km 69 - ROD Brasília/Unaí
+53014588;EC Bela Vista;Rua 01, nº 221 Bairro São José, Bela Vista
+53009762;EC Cachoeirinha;BR 251 Km 73 - FAZ Santa Bárbara;E. Rural Cachoeirinha
+53009770;EC Cerâmica da Benção;Rua da Gameleira 331 – Centro;E. Rural Cerâmica da Benção
+53068220;EC Dom Bosco;Qd 05 Conj A AE – Centro;;CEI 02 de São Sebastião
+53012178;EC São Bartolomeu;Km 02 - NR São Bartolomeu
+53012496;EC Vila do Boa;Setor de Chácaras – Bairro Vila do Boa
+53014570;EC Vila Nova;Rua 31, nº 200 Bairro São José, Vila Nova
+53009738;CEF Cerâmica São Paulo;;Rua 01 nº 101 - Setor Tradicional;E. Rural Cerâmica São Paulo
+EC Cerâmica São Paulo
+CE de 1º Grau Cerâmica São Paulo
+53011040;CEF do Bosque;Área Institucional 02 - Residencial do Bosque;;CE de 1º Grau do Bosque
+53009797;CEF Jataí;;DF 140 Km 11 - FAZ Barreiros;;E. Rural Jataí
+EC Jataí
+53009746;CEF Nova Betânia;BR 251 Km 73 - Nova Betânia;E. Rural Nova Betânia
+EC Nova Betânia
+CE de 1º Grau Nova Betânia
+53011988;CEF São José;Rua Marginal do Agudo 400 – Vila São José;;CE de 1º Grau São José
+53014880;CED São Bartolomeu;Qd 02, Conj 03, lt 04, Bairro São Bartolomeu;CEF São Bartolomeu
+53019806;CED São Francisco;RUA 17 - LT 100 - Bairro São Francisco
+53011031;CEM 01 de São Sebastião;;QD 203 – Setor Residencial Oeste;CED de São Sebastião
+CED 01 de São Sebastião
+53009720;CAIC UNESCO;QD 05 CONJ A – AE;;CAIC da AE Qd 08 - Agrovila S. Sebastião
+XV - RECANTO DAS EMAS
+53009401;EC 102 do Recanto das Emas;QD 102 CONJ 3A LT 01;EC Recanto das Emas
+ENDEREÇO PROVISÓRIO QD 203, LT 32, AV REC DAS EMAS (QD
+53012887;EC 401 do Recanto das Emas
+401/402 CONJ 08 LT 01 – AE )
+53014600;EC 404 do Recanto das Emas;;Qd 404 Conj 09 Lt 01
+53013247;EC 510 do Recanto das Emas;;QD 510 CONJ 19 LTs 01/02 – AE;CEF 510 do Recanto das Emas
+53014618;EC 803 do Recanto das Emas;;QR 803 Lt 01
+53068238;EC Vila Buritis;DF 280 KM 09 – St Hab Água Quente
+53012186;CEF 101 do Recanto das Emas;QD 101 CONJ 10B LT 1/2 LT 02 – AE;CE de 1º Grau 101 do Recanto das Emas
+53009355;CEF 106 do Recanto das Emas;QD 106 CONJ 2B A LT1 – AE;CE de 1º Grau 106 do Recanto das Emas
+53018605;CEF 113 do Recanto das Emas;QD. 113 Conj 13-A Lt 01 – AE
+53009363;CEF 115 do Recanto das Emas;QR 115 - AE;CE de 1º Grau 115 do Recanto das Emas
+53011600;CEF 206 do Recanto das Emas;QD 206 CONJ 02 LT 02;CE de 1º Grau 206 do Recanto das Emas
+53013530;CEF 301 do Recanto das Emas;QD 301/302 AE n° 01
+53009860;CEF 306 do Recanto das Emas;QD 306 AV Monjolo LT 06 – AE;;CE de 1º Grau 306 do Recanto das Emas
+53012119;CEF 308 do Recanto das Emas;QD 308 CONJ 18 LT 01 – AE;CE de 1º Grau 308 do Recanto das Emas
+53012127;CEF 405 do Recanto das Emas;QD 405 CONJ 15 LT 01 – AE;CE de 1º Grau 405 do Recanto das Emas
+53014260;CEF 602 do Recanto das Emas;Qd 602, Conj 01, Lt 01
+53012828;CEF 801 do Recanto das Emas;QD 801 - Área Provisória;;CE de 1º Grau 801 do Recanto das Emas
+53013239;CEF 802 do Recanto das Emas;QD 802 CONJ 12 LT 01 – AE
+53009347;CEF Tamanduá;DF 180 Km 61 – Ponte Alta;E. Rural do Tamanduá
+17
+;Histórico das Escolas públicas.xlsx - ATIVAS;02/12/2015
+COD MEC;;INSTITUIÇÃO EDUCACIONAL;;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+EC do Tamanduá
+CE de 1º Grau 01 Tamanduá
+53011066;CED 104 do Recanto das Emas;;QD 104 CONJ 10A LT 01 – AE;CE de 1º Grau 104 do Recanto das Emas
+CEF 104 do Recanto das Emas
+53012194;CEM 111 do Recanto das Emas;QD 111 LT 01- AV Recanto das Emas;;CED 111 do Recanto das Emas
+53019407;CEM 804 do Recanto das Emas;QD. 804, Lt 01
+XVI - LAGO SUL
+53009525;EC 01 SHI-SUL;SHIS QI 05 CONJ 17 LT 15;EC Nº 01 do SHI/Sul
+53009584;CEF 06 de Brasília;SHIS QI 15 AE;CE de 1° Grau 06 de Brasília
+53009479;CED do Lago;SHIS QD 19 CONJ 10 LT H;Ginásio do Lago
+XVII - RIACHO FUNDO
+53007026;EC 01 do Riacho Fundo;;SHRF EQ 02/04 LT A;EC Assentamento Riacho Fundo
+53012089;EC 02 do Riacho Fundo;;QN 05 AE 07;CE de 1º Grau 03 do Riacho Fundo
+CEF 03 do Riacho Fundo
+DF-003 - KM-07 - GJ DO IPE - TREVO DE ACESSO AO
+53007000;EC Ipê;;E. Rural D. Nenem Hermes Lima
+N.BANDEIRANTE
+E. Rural da Granja do Ipê
+53007018;EC Kanegae;;EPNB - Colônia Agrícola Kanegae;;E. Rural do Kanegas
+53011015;EC Riacho Fundo;DF 075 EPNB - Granja Modelo do Riacho Fundo;E. Rural do Riacho Fundo
+53006976;CEF Telebrasília;QN 01 Praça Central LT 02;CE de 1º Grau Assentamento Telebrasília
+CE de 1º Grau Telebrasília
+53011023;CED 02 do Riacho Fundo;;QN 07 AE 12;CE de 1º Grau 02 do Riacho Fundo
+CEF 02 do Riacho Fundo
+53006984;CEM 01 do Riacho Fundo;;QS 14 LT A;;CE de 1º Grau 01 do Riacho Fundo
+CEF 01 do Riacho Fundo
+CED 01 do Riacho Fundo
+XVIII - LAGO NORTE
+53012798;EC Aspalha;SMLN TRECHO 4 CONJ 01 CHÁCARA 160
+53009444;EC Olhos D'Água;BR 020 - Chácara Olhos D’Água n° 22
+53009410;CEF 01 do Lago Norte;SHIN – QI 04/06 AE;EC e JI Lago Norte
+CE de 1º Grau 01 do Lago Norte
+53012356;CED do Lago Norte;SHIN – CA 02 LT 24
+XIX - CANDANGOLÂNDIA
+53009320;EC 01 da Candangolândia;;EQR 05/07;EC Candangolândia
+53009339;EC 02 da Candangolândia;;EQR 02/03;EC da Zoobotânica
+53009312;CEF 01 da Candangolândia;;EQR 02/04 AE 07;;CE de 1º Grau 02 do Núcleo Bandeirante
+CED 01 da Candangolândia
+53051009;CEM Júlia Kubitschek;;QRO - A, AE 01, na Candangolândia
+XX - ÁGUAS CLARAS
+53004388;CEF Vila Areal;QS 6 - BL B - CJ 430 - AE;EC Vila Areal
+53003381;CAIC Profº Walter José de Moura;QS 07 - AE 02 - LTS 04/10
+XXI - RIACHO FUNDO II
+53013557;EC 01 do Riacho Fundo II;;QC 04 CONJ 18 LT 02 - Riacho Fundo II;EC Riacho Fundo II
+53014863;EC 02 do Riacho Fundo II;;QN 14, Conj D, Lt A, Riacho Fundo II
+53006992;EC Agrovila II;Combinado Agrourbano de Brasília II
+53013034;CEF 01 do Riacho Fundo II;;QN 07 AE 01
+53068106;CEF 02 do Riacho Fundo II;;QS 08 - AE nº 02 – Riacho Fundo II
+53068092;CED 01 do Riacho Fundo II;;QS 18 - AE nº 02 – Riacho Fundo II;;CEF 03 do Riacho Fundo II
+53006968;CED Agrourbano Ipê Riacho Fundo;Combinado Agrourbano Granja Ipê;;CE de 1º Grau Agrourbano Ipê
+CEF Agrourbano Ipê Riacho Fundo
+XXII - SUDOESTE/OCTOGONAL
+18
+;;Histórico das Escolas públicas.xlsx - ATIVAS;;02/12/2015
+COD MEC;INSTITUIÇÃO EDUCACIONAL;ENDEREÇO;DENOMINAÇÃO ANTERIOR
+53008855;EC 08 do Cruzeiro;AOS 6/8 LT 03
+XXIII - VARJÃO
+53009436;EC Varjão;QD 07 - CONJ D - LT 02 - AE - VL VARJAO DO TORTO;EC do Varjão
+XXIV - PARK WAY
+53007034;CAIC Juscelino Kubitschek;;SMPW QD 06 AE 02
+XXV - SETOR COMPLEMENTAR DE INDÚSTRIA E ABASTECIMENTO
+ENDEREÇO PROVISÓRIO SGAS 907 CJ A - EAPE (Praça Central da
+53013980;EC 01 da Vila Estrutural
+Vila Estrutural )
+53068165;EC 02 da Estrutural;St Central - AE nº 06
+53048008;CEF 01 da Estrutural;St Central, AE n° 03
+53068157;CEF 02 da Estrutural;Qd 02 - AE conj 1/2
+XXVI - SOBRADINHO II
+53005686;EC 13 de Sobradinho;AR 05 AE 01 – Sobradinho II
+53013514;EC 14 de Sobradinho;AR 19 CONJ 07 LT 01- Sobradinho II
+53068041;EC 17 de Sobradinho;Av Central – AE 01 – Vl Rabelo Sobradinho II;;EC 01 da Vila Rabelo
+53012038;CEF 07 de Sobradinho;QR 13 CONJ 5 LT 01 - Sobradinho II;CE de 1º Grau 07 de Sobradinho
+53013522;CEF 08 de Sobradinho;AR 11, AE nº 01 – St Oeste
+53005406;CEF Queima Lençol;DF 205 Km 2,7 Leste;E. Rural Queima Lençol
+EC Queima Lençol
+CE de 1º Grau Queima Lençol
+53012542;CED 04 de Sobradinho;AR 10 CONJ 09 LT 01
+53005309;CAIC Júlia Kubitschek de Oliveira;QR 13 CONJ 03 AE 01;CAIC Júlia Kubitschek
+XXVII - JARDIM BOTÂNICO
+53009533;EC Jardim Botânico;DF 035 – Jardim Botânico;E. Rural Estação Florestal Cabeça de Veado
+EC Estação Florestal Cabeça de Veado
+XXVIII - ITAPOÃ
+53014871;EC 01 de Itapoã;Praça da Administração – Itapoã
+53068203;EC 02 do Itapoã;Qd 378 - AE
+53019601;CEF Doutora Zilda Arns;;QD 378 - CONJ L - AE 02;;CEF 01 de Itapoã
+XXX - VICENTE PIRES
+53004370;EC Colônia Agrícola Vicente Pires;EPTG - AE 01 - COL AGRIC VICENTE PIRES
+53068017;EC 02 de Vicente Pires;;Rua São Paulo – Qd 2E lt 01
+XXXI - FERCAL
+53005694;EC Boa Vista;;DF-205 - OESTE - KM-6 - FAZ BOA VISTA;E. Rural da Boa Vista
+53005708;EC Catingueiro;ROD DF-205 - KM 13 - CATINGUEIRO;;E. Rural Catingueiro
+53005724;EC Córrego do Ouro;DF 002 - FAZ Córrego do Ouro;;E. Rural Córrego do Ouro
+53005732;EC Engelho Velho;DF 150 Km 18 – Fercal;;E. Rural Engelho Velho
+53012550;EC Lobeiral;DF 330 Km 08 - Sítio Patrícia
+53005767;EC Ribeirão;DF 205 Km 11 Oeste – FAZ Ribeirão;E. Rural da Fazenda Ribeirão
+53005775;EC Rua do Mato;DF 150/DF 11;E. Rural da Rua do Mato
+53005805;EC Sonhém de Cima;ROD DF 330 – Leste Posto de Assentamento Contagem;;E. Rural Sonhém de Cima
+53005392;CED Fercal;;DF 205 Km 19 – Fercal;;E. Rural da FERCAL
+EC da FERCAL
+CE de 1º Grau FERCAL
+CEF Fercal
+
+
+
+
+19
+

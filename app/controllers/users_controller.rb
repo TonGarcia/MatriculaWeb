@@ -1,5 +1,8 @@
 class UsersController < ApplicationController
+  before_action :setup, only: [:new, :edit, :update]
   before_action :set_user, only: [:show, :edit, :update, :destroy]
+  before_action :configure_sign_up_params, only: [:create]
+  before_action :configure_account_update, only: [:update]
 
   # GET /admin/users
   # GET /admin/users.json
@@ -15,6 +18,8 @@ class UsersController < ApplicationController
   # GET /admin/users/new
   def new
     @user = User.new
+    @user.password = 123123
+    @user.password_confirmation = 123123
   end
 
   # GET /admin/users/1/edit
@@ -61,6 +66,33 @@ class UsersController < ApplicationController
     end
   end
 
+  protected
+    # If you have extra params to permit, append them to the sanitizer.
+    def configure_sign_up_params
+      devise_parameter_sanitizer.permit(:sign_up, keys: [:locale, :role])
+    end
+
+    # If you have extra params to permit, append them to the sanitizer.
+    def configure_account_update
+      devise_parameter_sanitizer.permit(:account_update, keys: [:locale])
+    end
+
+    # The path used after sign up.
+    def after_sign_up_path_for(resource)
+      super(resource)
+      # flash[:info] = t('devise.confirmations.send_instructions')
+      flash.keep(:notice)
+      new_session_path(resource)
+    end
+
+    # The path used after sign up for inactive accounts.
+    def after_inactive_sign_up_path_for(resource)
+      super(resource)
+      # flash[:info] = t('devise.confirmations.send_instructions')
+      flash.keep(:notice)
+      new_user_session_path(resource)
+    end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_user
@@ -69,6 +101,19 @@ class UsersController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def user_params
-    params.require(:user).permit(:name, :code, :user_id)
-  end
+      params.require(:user).permit(:name, :code, :user_id)
+    end
+
+    # Role setup
+    def setup
+      @roles = Role.all
+      @schools = School.all
+    end
+
+    # SignUp allowed params
+    def sign_up_params
+      sup = params.require(:user).permit(%i[locale name email password password_confirmation remember_me])
+      sup[:role] = Role.with_name :user
+      sup
+    end
 end

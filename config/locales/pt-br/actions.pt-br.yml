@@ -18,6 +18,7 @@ pt-br:
           password: Enviar instruções
           confirmation: Enviar confirmação
           unlock: Requisitar desbloqueio
+          third_register: Cadastrar usuário
     roles:
       index: Painel de Papéis/Cargos
     controllers:

@@ -1,0 +1,35 @@
+=form_for @user do |f|
+  .form-group
+    =f.label :name
+    =f.text_field :name, class: 'form-control', required: true, autofocus: true
+
+  .form-group
+    =f.label :gov_id
+    =f.text_field :gov_id, class: 'form-control', required: true
+
+  .form-group
+    =f.label :role
+    =f.select :role, @roles.map {|r| [r.title, r.id]}, {include_blank: "Selecione um Papel/Cargo/Função para este usuário"}, class: 'form-control', required: true
+
+  .form-group
+    =f.label :school
+    =f.select :school, @schools.map {|s| [s.name, s.id]}, {include_blank: "Selecione uma escola caso seja usuário PROFESSOR, ALUNO ou COORDENADOR"}, class: 'form-control', required: true
+
+  .form-group
+    =f.label :email
+    =f.email_field :email, class: 'form-control', required: true
+
+  .form-group
+    =f.label :password
+    -if @minimum_password_length
+      br
+      em="#{t('descriptions.min_password_length')}: #{@minimum_password_length }"
+    =f.password_field :password, class: 'form-control', required: true, autocomplete: 'off'
+
+    =f.hidden_field :locale, value: session[:locale] || 'pt-br'
+
+  .form-group
+    =f.label :password_confirmation
+    =f.password_field :password_confirmation, class: 'form-control', required: true
+  .footer.text-center
+  =f.submit t('actions.devise.new.button.third_register'), class: 'btn btn-fill btn-info btn-wd'

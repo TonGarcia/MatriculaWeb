@@ -6,7 +6,6 @@ class DeviseCreateUsers < ActiveRecord::Migration[5.1]
       t.column :locale, 'char(5)', null: false, default: 'pt-br' # Brazil Locale
       t.string :timezone, null: false, default: '-03:00' # Brazil Official TimeZone
       t.integer :role_id # TheRole gem field
-
       t.string :gov_id, null: false
 
       ## Database authenticatable
@@ -37,7 +36,6 @@ class DeviseCreateUsers < ActiveRecord::Migration[5.1]
       t.integer  :failed_attempts, default: 0, null: false # Only if lock strategy is :failed_attempts
       t.string   :unlock_token # Only if unlock strategy is :email or :both
       t.datetime :locked_at
-
 
       t.timestamps null: false
     end

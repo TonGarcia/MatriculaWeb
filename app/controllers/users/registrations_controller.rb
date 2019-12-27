@@ -39,38 +39,36 @@ class Users::RegistrationsController < Devise::RegistrationsController
   # end
 
   protected
+    # If you have extra params to permit, append them to the sanitizer.
+    def configure_sign_up_params
+      devise_parameter_sanitizer.permit(:sign_up, keys: [:locale, :role])
+    end
 
-  # If you have extra params to permit, append them to the sanitizer.
-  def configure_sign_up_params
-    devise_parameter_sanitizer.permit(:sign_up, keys: [:locale, :role])
-  end
+    # If you have extra params to permit, append them to the sanitizer.
+    def configure_account_update
+      devise_parameter_sanitizer.permit(:account_update, keys: [:locale])
+    end
 
-  # If you have extra params to permit, append them to the sanitizer.
-  def configure_account_update
-    devise_parameter_sanitizer.permit(:account_update, keys: [:locale])
-  end
+    # The path used after sign up.
+    def after_sign_up_path_for(resource)
+      super(resource)
+      # flash[:info] = t('devise.confirmations.send_instructions')
+      flash.keep(:notice)
+      new_session_path(resource)
+    end
 
-  # The path used after sign up.
-  def after_sign_up_path_for(resource)
-    super(resource)
-    # flash[:info] = t('devise.confirmations.send_instructions')
-    flash.keep(:notice)
-    new_session_path(resource)
-  end
-
-  # The path used after sign up for inactive accounts.
-  def after_inactive_sign_up_path_for(resource)
-    super(resource)
-    # flash[:info] = t('devise.confirmations.send_instructions')
-    flash.keep(:notice)
-    new_user_session_path(resource)
-  end
+    # The path used after sign up for inactive accounts.
+    def after_inactive_sign_up_path_for(resource)
+      super(resource)
+      # flash[:info] = t('devise.confirmations.send_instructions')
+      flash.keep(:notice)
+      new_user_session_path(resource)
+    end
 
   private
-
-  def sign_up_params
-    sup = params.require(:user).permit(%i[locale name email password password_confirmation remember_me])
-    sup[:role] = Role.with_name :user
-    sup
-  end
+    def sign_up_params
+      sup = params.require(:user).permit(%i[locale name email password password_confirmation remember_me])
+      sup[:role] = Role.with_name :user
+      sup
+    end
 end

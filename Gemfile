@@ -115,6 +115,9 @@ gem 'the_role', '~> 3.8.31'
 # Workflow for BPMN the process
 gem 'workflow', '~> 2.0', '>= 2.0.2'
 
+# Optimize massive data persistence
+gem 'activerecord-import', '~> 1.0.2'
+
 =begin
  ######################    Test & Debug GEMs    #################################
 =end

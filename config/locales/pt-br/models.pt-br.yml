@@ -14,7 +14,9 @@ pt-br:
       user:
         name: Nome completo
         email: E-mail
+        role: Papel/Função/Cargo
         locale: Idioma
+        gov_id: Matrícula/ID
         timezone: Fuso-horário
         password: Senha
         password_confirmation: Confirmação da Senha

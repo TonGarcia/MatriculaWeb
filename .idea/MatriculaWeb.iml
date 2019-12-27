@@ -29,6 +29,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activejob (v5.1.7, RVM: ruby-2.6.5 [matriculaweb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v5.1.7, RVM: ruby-2.6.5 [matriculaweb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v5.1.7, RVM: ruby-2.6.5 [matriculaweb]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord-import (v1.0.4, RVM: ruby-2.6.5 [matriculaweb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v5.1.7, RVM: ruby-2.6.5 [matriculaweb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.7.0, RVM: ruby-2.6.5 [matriculaweb]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ajax-datatables-rails (v1.1.0, RVM: ruby-2.6.5 [matriculaweb]) [gem]" level="application" />

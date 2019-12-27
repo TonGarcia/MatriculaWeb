@@ -7,8 +7,8 @@ pt-br:
     researcher_relation_subtitle: A lista abaixo permite apenas consulta simples por Pesquisadores
     users:
       new:
-        title: Nova Pesquisa
-        subtitle: Busca Semântica completa por pesquisador gerando histórico e métricas de busca
+        title: Novo Usuário
+        subtitle: Após o cadastro passe o link de confirmação e a senha padrão (123123) para que ele possa alterá-la
       index:
         title: Lista de Usuários Cadastrados
         subtitle: A Lista de usuários é uma tabela dinâmica que permite pesquisar e ordenar informações
