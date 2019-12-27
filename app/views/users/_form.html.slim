@@ -13,7 +13,7 @@
 
   .form-group
     =f.label :school
-    =f.select :school, @schools.map {|s| [s.name, s.id]}, {include_blank: "Selecione uma escola caso seja usuário PROFESSOR, ALUNO ou COORDENADOR"}, class: 'form-control', required: true
+    =f.select :school, @schools.map {|s| ["#{s.code} - #{s.name}", s.id]}, {include_blank: "Selecione uma escola caso seja usuário PROFESSOR, ALUNO ou COORDENADOR"}, class: 'form-control', required: true
 
   .form-group
     =f.label :email

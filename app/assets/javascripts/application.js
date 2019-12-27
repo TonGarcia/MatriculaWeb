@@ -12,7 +12,6 @@
 //
 //= require rails-ujs
 //= require turbolinks
-//= require datatables
 //= require jquery
 //= require jquery_ujs
 
@@ -33,6 +32,7 @@
 //= require creative-tim-pro/light_dashboard/jquery.bootstrap.wizard.min
 //= require creative-tim-pro/light_dashboard/bootstrap-table
 //= require creative-tim-pro/light_dashboard/jquery.datatables
+//= require datatables
 
 // Theme
 //= require creative-tim-pro/light_dashboard/light-bootstrap-dashboard

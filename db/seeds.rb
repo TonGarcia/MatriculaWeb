@@ -9,7 +9,7 @@
 # ROLES: admin
 puts 'Inserting Roles...'.colorize(:green)
   admin_role = Role.first
-  admin_role.title = 'Admin do Sistema'
+  admin_role.title = 'Administrador do Sistema'
   admin_role.save!
 
   Role.create name: 'moderator', title: 'Moderador da Secretaria de Educação', description: 'Este usuário tem permissão administrativa sobre os demais, porém não tem função administrativa sobre o sistema.',
@@ -42,6 +42,7 @@ puts '...AdminUser inserted.'.colorize(:light_blue)
 # Creates Sample Schools
 # SCHOOLS
 puts 'Inserting SampleSchools...'.colorize(:green)
+  School.create name: 'Secretaria de Educação', code: '001'
   Insertions::School.instance.load_and_persist(show_progress=true, pagination=10) #, pagination=350000
 puts '...SampleSchools inserted.'.colorize(:light_blue)
 # /SCHOOLS

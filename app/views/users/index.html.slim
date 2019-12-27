@@ -1,26 +1,28 @@
-table.table
-  thead
-    tr
-      th Nome
-      th Papel
-      th ID (Matrícula)
-      th E-mail
-      th Link de Confirmação
-      th
-      th
-      th
+.container-fluid
+  .row
+    table.table.col-md-12.col-xs-12
+      thead
+        tr
+          th Nome
+          th Papel
+          th ID (Matrícula)
+          th E-mail
+          th Link de Confirmação
+          th
+          th
+          th
 
-  tbody
-    - @users.each do |user|
-      tr
-        td = user.name
-        td = user.role.title
-        td = user.gov_id
-        td = user.email
-        td = user.confirmation_token
-        td = link_to user do
-          i.fa.fa-eye
-        td = link_to edit_user_path(user) do
-          i.fa.fa-edit
-        td = link_to user, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
-          i.fa.fa-trash.text-danger
+      tbody
+        - @users.each do |user|
+          tr
+            td = user.name
+            td = user.role.title
+            td = user.gov_id
+            td = user.email
+            td = user.confirmation_token
+            td = link_to user do
+              i.fa.fa-eye
+            td = link_to edit_user_path(user) do
+              i.fa.fa-edit
+            td = link_to user, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
+              i.fa.fa-trash.text-danger
