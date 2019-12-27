@@ -13,7 +13,7 @@ class User < ApplicationRecord
   belongs_to :school, class_name: 'School', optional: true
 
   # Validations
-  validates :name, length: { minimum: 8, maximum: 45 }, presence: true, on: [:create, :update]
+  validates :full_name, length: { minimum: 8, maximum: 45 }, presence: true, on: [:create, :update]
   validates :locale, length: { is: 5 }, presence: true, on: [:create, :update]
   validates :email, email: true, presence: true, on: [:create, :update]
   validates :gov_id, length: { minimum: 6, maximum: 45 }, presence: true, on: [:create, :update]
@@ -21,6 +21,11 @@ class User < ApplicationRecord
   validates_presence_of :role_id
 
   def administrative?
+    self.role = Role.find(self.role_id)
     self.role.admin? || self.role.name == 'moderator'
+  end
+
+  def first_name
+    self.full_name.split(' ')[0]
   end
 end

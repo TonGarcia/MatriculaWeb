@@ -53,7 +53,7 @@ ActiveRecord::Schema.define(version: 20191225213925) do
   end
 
   create_table "users", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
-    t.string "name", null: false
+    t.string "full_name", null: false
     t.string "locale", limit: 5, default: "pt-br", null: false
     t.string "timezone", default: "-03:00", null: false
     t.integer "role_id"

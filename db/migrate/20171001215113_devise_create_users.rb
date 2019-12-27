@@ -2,7 +2,7 @@ class DeviseCreateUsers < ActiveRecord::Migration[5.1]
   def change
     create_table :users do |t|
       ## Custom Additional attrs
-      t.string :name, null: false
+      t.string :full_name, null: false
       t.column :locale, 'char(5)', null: false, default: 'pt-br' # Brazil Locale
       t.string :timezone, null: false, default: '-03:00' # Brazil Official TimeZone
       t.integer :role_id # TheRole gem field

@@ -12,24 +12,27 @@ pt-br:
 
   # User -----------------------------------------------------
       user:
-        name: Nome completo
+        full_name: Nome completo
         email: E-mail
         role: Papel/Função/Cargo
+        role_id: Papel/Função/Cargo
         locale: Idioma
-        gov_id: Matrícula/ID Secretaria de Educação
+        gov_id: Matrícula (ID Secretaria)
+        confirmation_token: Token/Link de Confirmação
         timezone: Fuso-horário
         school: Código MEC - Nome
+        school_id: Código MEC - Nome
         password: Senha
         password_confirmation: Confirmação da Senha
         remember_me: Lembrar dados
 
-  # Degree -----------------------------------------------------
-      degree:
-        course: Curso
-        university: Universidade
-        level: Grau Acadêmico
-        start_year: Ano de Início
-        end_year: Ano de Conclusão
+  # School -----------------------------------------------------
+      school:
+        name: Nome
+        code: Código MEC
+        user: Criada por
+        created_at: Criada em
+        updated_at: Atualizada em
 
   # Researcher -----------------------------------------------------
       researcher:

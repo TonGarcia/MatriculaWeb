@@ -98,7 +98,7 @@ gem 'city-state', '~> 0.0.13'
 # IconFonts - Themify
 gem 'themify-icons-rails', github: 'scratch-soft/themify-icons-rails'
 
-# ionic IconFonts
+# ionic IconFonts (https://ionicons.com/v2/)
 gem 'ionicons-rails', '~> 2.0'
 
 # IconFonts - FontAwesome

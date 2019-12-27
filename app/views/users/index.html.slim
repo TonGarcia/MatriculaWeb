@@ -1,13 +1,13 @@
 .container-fluid
   .row
-    table.table.col-md-12.col-xs-12
+    table#data.table.table-striped.table-bordered.col-md-12.col-xs-12
       thead
         tr
-          th Nome
-          th Papel
-          th ID (Matrícula)
-          th E-mail
-          th Link de Confirmação
+          th =t('activerecord.attributes.user.full_name')
+          th =t('activerecord.attributes.user.role')
+          th =t('activerecord.attributes.user.gov_id')
+          th =t('activerecord.attributes.user.email')
+          th =t('activerecord.attributes.user.confirmation_token')
           th
           th
           th
@@ -15,7 +15,7 @@
       tbody
         - @users.each do |user|
           tr
-            td = user.name
+            td = user.full_name
             td = user.role.title
             td = user.gov_id
             td = user.email
@@ -26,3 +26,13 @@
               i.fa.fa-edit
             td = link_to user, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
               i.fa.fa-trash.text-danger
+
+javascript:
+  //"//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Portuguese.json"
+  $(document).ready(function () {
+      $('#data').DataTable({
+          "language": {
+              "url": "/Portuguese.json"
+          }
+      });
+  });

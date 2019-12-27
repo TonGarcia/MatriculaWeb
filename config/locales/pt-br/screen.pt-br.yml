@@ -5,6 +5,10 @@ pt-br:
     select: Selecione uma opção
     current_locale: Idioma Atual
     researcher_relation_subtitle: A lista abaixo permite apenas consulta simples por Pesquisadores
+    dashboard:
+      index:
+        title: Uso Global do GAESIResearchers por Localização
+        subtitle: Todos pesquisadores que foram aprovados como GAESIResearcher
     users:
       new:
         title: Novo Usuário
@@ -12,30 +16,13 @@ pt-br:
       index:
         title: Lista de Usuários Cadastrados
         subtitle: A Lista de usuários é uma tabela dinâmica que permite pesquisar e ordenar informações
-    searches:
-      new:
-        title: Nova Pesquisa
-        subtitle: Busca Semântica completa por pesquisador gerando histórico e métricas de busca
+      show:
+        title: Ficha do Usuário
+        subtitle: Dados completos do usuário (pode incluir desde dados da conta até indicadores)
+    schools:
       index:
-        title: Pesquisas Recentes
-        subtitle: Histórico de Buscas organizado por data
-    connections:
-      index:
-        title: Visualização em Grafo
-        subtitle: Networking/conexões entre os Pesquisadores
-    researchers:
-      index:
-        title: Listagem de Pesquisadores
-        subtitle: Lista os pesquisadores por filtros, por padrão mostra todos os Pesquisadores
-    degrees:
-      index:
-        title: Listagem Educacional
-        subtitle: Formações Acadêmicas e Cursos feitos pelos Pesquisadores da base
-    experiences:
-      index:
-        title: Listagem das Experiências
-        subtitle: Experiências Pesquisadores e/ou Acadêmicas dos Pesquisadores da base
-    dashboard:
-      index:
-        title: Uso Global do GAESIResearchers por Localização
-        subtitle: Todos pesquisadores que foram aprovados como GAESIResearcher
+        title: Lista de Escolas Cadastradas
+        subtitle: A Lista de escolas é uma tabela dinâmica que permite pesquisar e ordenar informações
+      show:
+        title: Ficha da Escola
+        subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)

@@ -51,7 +51,7 @@ html
                     .header
                       .row
                         .col-xs-12.col-sm-8
-                          -if params[:action] == 'index'
+                          -if params[:action] == 'index' || !t("screen.#{params[:controller]}.#{locale_action}.title").nil?
                             h4.title =t("screen.#{params[:controller]}.#{locale_action}.title")
                           -else
                             h4.title =t("actions.#{params[:controller]}.#{locale_action}")

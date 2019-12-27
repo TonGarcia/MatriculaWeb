@@ -33,7 +33,7 @@ puts '...Roles inserted.'.colorize(:light_blue)
 # Creates Root Admin user
 # ADMIN
 puts 'Inserting AdminUser...'.colorize(:green)
-  admin = User.create name: 'MatriculaWeb Admin', email: 'admin@matriculaweb.gov.br', password: '123123', gov_id: 'SystemAdmin'
+  admin = User.create full_name: 'MatriculaWeb Admin', email: 'admin@matriculaweb.gov.br', password: '123123', gov_id: '0001'
   admin.skip_confirmation!
   admin.save
 puts '...AdminUser inserted.'.colorize(:light_blue)
@@ -50,15 +50,15 @@ puts '...SampleSchools inserted.'.colorize(:light_blue)
 # Creates Sample Users
 # USERS
 puts 'Inserting SampleUsers...'.colorize(:green)
-  coordinator = User.create name: 'Coordenador Exemplo', email: 'coordenador@matriculaweb.gov.br', password: '123123', gov_id: 'SystemCoordinator', school_id: 1, role: Role.with_name(:coordinator)
+  coordinator = User.create full_name: 'Coordenador Exemplo', email: 'coordenador@matriculaweb.gov.br', password: '123123', gov_id: '032142', school_id: 1, role: Role.with_name(:coordinator)
   coordinator.skip_confirmation!
   coordinator.save
 
-  teacher = User.create name: 'Professor Exemplo', email: 'professor@matriculaweb.gov.br', password: '123123', gov_id: 'SystemProfessor', school_id: 1, role: Role.with_name(:teacher)
+  teacher = User.create full_name: 'Professor Exemplo', email: 'professor@matriculaweb.gov.br', password: '123123', gov_id: '3147362', school_id: 1, role: Role.with_name(:teacher)
   teacher.skip_confirmation!
   teacher.save
 
-  student = User.create name: 'Aluno Exemplo', email: 'aluno@matriculaweb.gov.br', password: '123123', gov_id: 'SystemStudent', school_id: 1, role: Role.with_name(:student)
+  student = User.create full_name: 'Aluno Exemplo', email: 'aluno@matriculaweb.gov.br', password: '123123', gov_id: '644837', school_id: 1, role: Role.with_name(:student)
   student.skip_confirmation!
   student.save
 puts '...SampleUsers inserted.'.colorize(:light_blue)
