@@ -1,18 +1,17 @@
 = form_for @school do |f|
   - if @school.errors.any?
     #error_explanation
-      h2 = "#{pluralize(@school.errors.count, "error")} prohibited this school from being saved:"
+      h2 = "#{pluralize(@school.errors.count, "erro(s)")} proibiram esta escola de ser registrada:"
       ul
         - @school.errors.full_messages.each do |message|
           li = message
 
-  .field
+  .form-group
     = f.label :name
-    = f.text_field :name
-  .field
+    = f.text_field :name, class: 'form-control', required: true
+  .form-group
     = f.label :code
-    = f.text_field :code
-  .field
-    = f.label :user
-    = f.text_field :user
-  .actions = f.submit
+    = f.text_field :code, class: 'form-control', required: true
+
+  .footer.text-center
+  =f.submit t("actions.schools.button.#{params[:action]}"), class: 'btn btn-fill btn-info btn-wd'

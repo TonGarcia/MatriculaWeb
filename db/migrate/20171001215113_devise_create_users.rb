@@ -9,6 +9,7 @@ class DeviseCreateUsers < ActiveRecord::Migration[5.1]
       t.string :gov_id, null: false
 
       ## Database authenticatable
+      t.string :phone_number,       null: true, default: ''
       t.string :email,              null: false, default: ''
       t.string :encrypted_password, null: false, default: ''
 

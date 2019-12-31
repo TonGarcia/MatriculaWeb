@@ -1,10 +1,14 @@
 .container-fluid
   .row
-    p.col-md-6
+    p.col-md-4
       b="#{t('activerecord.attributes.user.full_name')}: "
       =@user.full_name
 
-    p.col-md-6
+    p.col-md-4
+      b= "#{t('activerecord.attributes.user.phone')}: "
+      = @user.phone_number
+
+    p.col-md-4
       b="#{t('activerecord.attributes.user.email')}: "
       =@user.email
 

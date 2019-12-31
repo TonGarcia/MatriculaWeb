@@ -1,15 +1,23 @@
-p#notice = notice
+.container-fluid
+  .row
+    p.col-md-6
+      b="#{t('activerecord.attributes.school.name')}: "
+      =@school.name
 
-p
-  strong Name:
-  = @school.name
-p
-  strong Code:
-  = @school.code
-p
-  strong User:
-  = @school.user
+    p.col-md-6
+      b="#{t('activerecord.attributes.school.code')}: "
+      =@school.code
 
-=> link_to 'Edit', edit_school_path(@school)
-'|
-=< link_to 'Back', schools_path
+  .row
+    p.col-md-6
+      b="#{t('activerecord.attributes.school.coordinator')}: "
+      -if @school.coordinator.id.nil?
+        =@school.coordinator.full_name
+      -if !@school.coordinator.id.nil?
+        a href="#{user_path(@school.coordinator.id)}"
+          =@school.coordinator.full_name
+
+    p.col-md-6
+      b="#{t('activerecord.attributes.school.user')}: "
+      a href="#{user_path(@school.user.id)}"
+        =@school.user.full_name

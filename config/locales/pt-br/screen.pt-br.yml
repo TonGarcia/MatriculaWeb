@@ -26,6 +26,9 @@ pt-br:
       show:
         title: Ficha da Escola
         subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+      new:
+        title: Nova Escola
+        subtitle: Após o cadastro da escola, associe um coordenador à esta e este poderá cadastrar alunos e professores
     subjects:
       index:
         title: Lista de Disciplinas Cadastradas

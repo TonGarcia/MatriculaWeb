@@ -33,7 +33,7 @@ puts '...Roles inserted.'.colorize(:light_blue)
 # Creates Root Admin user
 # ADMIN
 puts 'Inserting AdminUser...'.colorize(:green)
-  admin = User.create full_name: 'MatriculaWeb Admin', email: 'admin@matriculaweb.gov.br', password: '123123', gov_id: '0001'
+  admin = User.create full_name: 'MatriculaWeb Admin', email: 'admin@matriculaweb.gov.br', password: '123123', gov_id: '000001'
   admin.skip_confirmation!
   admin.save
 puts '...AdminUser inserted.'.colorize(:light_blue)

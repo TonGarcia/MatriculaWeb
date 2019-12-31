@@ -65,10 +65,13 @@ class SchoolsController < ApplicationController
     # Use callbacks to share common setup or constraints between actions.
     def set_school
       @school = School.find(params[:id])
+      @current_obj = @school
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def school_params
-      params.require(:school).permit(:name, :code, :user_id)
+      base_params = params.require(:school).permit(:name, :code)
+      base_params[:user_id] = @current_user.id
+      base_params
     end
 end

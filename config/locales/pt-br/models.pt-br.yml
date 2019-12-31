@@ -14,6 +14,7 @@ pt-br:
       user:
         full_name: Nome completo
         email: E-mail
+        phone: Número de Telefone
         role: Papel/Função/Cargo
         role_id: Papel/Função/Cargo
         locale: Idioma
@@ -31,6 +32,7 @@ pt-br:
         name: Nome
         code: Código MEC
         user: Criada por
+        coordinator: Coordenador
         created_at: Criada em
         updated_at: Atualizada em
 
