@@ -1,31 +1,39 @@
-h1 Listing subjects
+.container-fluid
+  .row
+    table#data.table.col-md-12.col-xs-12
+      thead
+        tr
+          th =t('activerecord.attributes.subject.name')
+          th =t('activerecord.attributes.subject.description')
+          th =t('activerecord.attributes.subject.workload')
+          th =t('activerecord.attributes.subject.online_link')
+          th =t('activerecord.attributes.subject.class_schedule')
+          th
+          th
+          th
 
-table
-  thead
-    tr
-      th Name
-      th Description
-      th Workload
-      th Online link
-      th Class schedule
-      th User
-      th
-      th
-      th
+      tbody
+        - @subjects.each do |subject|
+          tr
+            td =subject.name
+            td =subject.description
+            td =subject.workload
+            td =subject.online_link
+            td =subject.class_schedule
+            td =link_to subject do
+              i.fa.fa-eye
+            td =link_to edit_school_path(subject) do
+              i.fa.fa-edit
+            td =link_to subject, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
+              i.fa.fa-trash.text-danger
 
-  tbody
-    - @subjects.each do |subject|
-      tr
-        td = subject.name
-        td = subject.description
-        td = subject.workload
-        td = subject.online_link
-        td = subject.class_schedule
-        td = subject.user
-        td = link_to 'Show', subject
-        td = link_to 'Edit', edit_subject_path(subject)
-        td = link_to 'Destroy', subject, data: { confirm: 'Are you sure?' }, method: :delete
 
-br
-
-= link_to 'New Subject', new_subject_path
+javascript:
+    //"//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Portuguese.json"
+    $(document).ready(function () {
+        $('#data').DataTable({
+            "language": {
+                "url": "/Portuguese.json"
+            }
+        });
+    });

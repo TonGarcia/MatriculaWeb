@@ -51,3 +51,7 @@ pt-br:
       edit: Editar escola
     subjects:
       name: Disciplinas
+      title: Disciplinas Cadastradas
+      subtitle: Todas as disciplinas  usuários do sistema são cadastrados por seus superiores
+      new: Cadastrar novo usuário
+      edit: Editar disciplina

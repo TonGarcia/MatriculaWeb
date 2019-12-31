@@ -34,23 +34,13 @@ pt-br:
         created_at: Criada em
         updated_at: Atualizada em
 
-  # Researcher -----------------------------------------------------
-      researcher:
-        full_name: Nome Completo
-        phone: Celular (whatsapp)
-        address: Endreço Postal Completo
-        zip: CEP
-        country: País
-        state: Estado
-        city: Cidade
-        company: Empresa
-        email: Endereço de E-mail
-        lattes: Link do currículo Lattes
-        facebook: Nome de usuário no Facebook
-        linked_in: Nome de usuário no LinkedIn
-        twitter: Nome de usuário no Twitter
-        cover_letter: Carta de Apresentação (forneça o máximo de informação, exemplo resumo Lattes)
-
+  # Subject -----------------------------------------------------
+      subject:
+        name: Nome
+        description: Descrição
+        workload: Carga Horária
+        online_link: Aula online
+        class_schedule: Agendamento
 
   # KnowHow -----------------------------------------------------
       experience:
