@@ -1,0 +1,33 @@
+.container-fluid
+  .row
+    table#data.table.col-md-12.col-xs-12
+      thead
+        tr
+          th =t('activerecord.attributes.knowledge_area.name')
+          th =t('activerecord.attributes.knowledge_area.knowledge_area')
+          th
+          th
+          th
+
+      tbody
+        - @knowledge_areas.each do |knowledge_area|
+          tr
+            td =knowledge_area.name
+            td =knowledge_area.parent_knowledge_area.name
+            td =link_to knowledge_area do
+              i.fa.fa-eye
+            td =link_to edit_knowledge_area_path(knowledge_area) do
+              i.fa.fa-edit
+            td =link_to knowledge_area, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
+              i.fa.fa-trash.text-danger
+
+
+javascript:
+    //"//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Portuguese.json"
+    $(document).ready(function () {
+        $('#data').DataTable({
+            "language": {
+                "url": "/Portuguese.json"
+            }
+        });
+    });

@@ -1,0 +1,12 @@
+p#notice = notice
+
+p
+  strong Name:
+  = @knowledge_area.name
+p
+  strong Knowledge area:
+  = @knowledge_area.knowledge_area
+
+=> link_to 'Edit', edit_knowledge_area_path(@knowledge_area)
+'|
+=< link_to 'Back', knowledge_areas_path

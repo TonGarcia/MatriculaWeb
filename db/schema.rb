@@ -12,6 +12,15 @@
 
 ActiveRecord::Schema.define(version: 20191225213925) do
 
+  create_table "knowledge_areas", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.string "name", null: false
+    t.text "description"
+    t.bigint "knowledge_area_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["knowledge_area_id"], name: "index_knowledge_areas_on_knowledge_area_id"
+  end
+
   create_table "roles", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string "name", null: false
     t.string "title", null: false
@@ -36,6 +45,9 @@ ActiveRecord::Schema.define(version: 20191225213925) do
     t.integer "workload"
     t.string "online_link"
     t.string "class_schedule"
+    t.integer "structural_axes_id"
+    t.integer "sub_knowledge_area_id"
+    t.integer "super_knowledge_area_id"
     t.bigint "user_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -86,6 +98,7 @@ ActiveRecord::Schema.define(version: 20191225213925) do
     t.index ["unlock_token"], name: "index_users_on_unlock_token", unique: true
   end
 
+  add_foreign_key "knowledge_areas", "knowledge_areas"
   add_foreign_key "subjects", "users"
   add_foreign_key "subscriptions", "subjects"
   add_foreign_key "subscriptions", "users"

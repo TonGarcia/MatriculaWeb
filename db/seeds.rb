@@ -63,3 +63,29 @@ puts 'Inserting SampleUsers...'.colorize(:green)
   student.save
 puts '...SampleUsers inserted.'.colorize(:light_blue)
 # /USERS
+
+# Creates Knowledge Areas
+# KNOWLEDGE AREAS
+puts 'Inserting KnowledgeAreas...'.colorize(:green)
+  # Super KnowledgeArea
+  fgb = KnowledgeArea.create name: 'Formação Geral Básica'
+  it_fom = KnowledgeArea.create name: 'Itinerários Formativos'
+
+  # KnowledgeArea
+  KnowledgeArea.create name: 'Linguagens e suas Tecnologias', knowledge_area_id: fgb.id
+  KnowledgeArea.create name: 'Matemática e suas Tecnologias', knowledge_area_id: fgb.id
+  KnowledgeArea.create name: 'Ciências da Natureza e suas Tecnologias', knowledge_area_id: fgb.id
+  KnowledgeArea.create name: 'Ciências Humanas e Sociais Aplicadas', knowledge_area_id: fgb.id
+
+  # Structural Axes (Eixos Estruturantes)
+  KnowledgeArea.create name: 'Investigação Científica', knowledge_area_id: it_fom.id
+  KnowledgeArea.create name: 'Processos Criativos', knowledge_area_id: it_fom.id
+  KnowledgeArea.create name: 'Empreendedorismo', knowledge_area_id: it_fom.id
+  KnowledgeArea.create name: 'Mediação e Intervenção Sociocultural', knowledge_area_id: it_fom.id
+
+  # Sub KnowledgeArea
+  KnowledgeArea.create name: 'Projeto de Vida', knowledge_area_id: it_fom.id, description: 'O projeto de vida é visto como uma estratégia pedagógica cuja intenção é proporcionar o autoconhecimento do estudante e sua dimensão cidadã, de modo a orientar o planejamento da carreira almejada com base em seus interesses, talentos, desejos e potencialidades. Assim, as unidades escolares devem desenvolver ações curriculares que apoiem o desenvolvimento do projeto de vida dos estudantes, as quais ampliem o universo dos estudantes e a percepção desses sobre a vida, discorrendo sobre as possibilidades de escolha presentes em seu itinerário formativo e nas diversas dimensões da vida'
+  KnowledgeArea.create name: 'Eletivas Orientada', knowledge_area_id: it_fom.id, description: 'As Eletivas Orientadas são unidades curriculares de duração semestral, com carga horária definida conforme a intencionalidade pedagógica, nas quais os estudantes serão matriculados de acordo com suas escolhas, porém de maneira orientada.'
+  KnowledgeArea.create name: 'Trilhas', knowledge_area_id: it_fom.id, description: 'As Trilhas de Aprendizagem são compostas por uma sequência de quatro unidades curriculares e possuem a duração total de quatro semestres, que irão possibilitar o aprofundamento progressivo das aprendizagens em uma área do conhecimento e/ou na Formação Profissional e Técnica.'
+puts '...KnowledgeAreas inserted.'.colorize(:light_blue)
+# /KNOWLEDGE AREAS

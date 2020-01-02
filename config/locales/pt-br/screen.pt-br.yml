@@ -32,7 +32,20 @@ pt-br:
     subjects:
       index:
         title: Lista de Disciplinas Cadastradas
-        subtitle: As disciplinas foram divididas em 3 tipos, porém o sistema permite criar novos e exluir/editar os existentes
+        subtitle: Disciplinas divididas nas categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
       show:
         title: Ficha da Disciplina
         subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+      new:
+        title: Nova Disciplina
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
+    knowledge_areas:
+      index:
+        title: Lista de Áreas e sub-áreas do Conhecimento
+        subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino médio do MEC, porém podem ser alteradas
+      show:
+        title: Ficha da Disciplina
+        subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+      new:
+        title: Nova Área do Conhecimento
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável

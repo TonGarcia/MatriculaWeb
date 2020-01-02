@@ -25,7 +25,18 @@ ul.nav
         =t('actions.schools.name')
 
   li class=(('active ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
-    a href="#{subjects_path}"
+    a data-toggle="collapse" href="#subjectActions" aria-expanded=(('true ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
       i.ion-briefcase
       p
         =t('actions.subjects.name')
+        b.caret
+    #subjectActions.collapse class=(('collapse in' if current_page?(subjects_path) || current_page_includes?('subjects'))) aria-expanded=(('true ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
+      ul.nav
+        li
+          a href="#{knowledge_areas_path}"
+            / i.ion-android-apps
+            =t('actions.knowledge_areas.name')
+        li
+          a href="#{subjects_path}"
+            / i.ion-university
+            =t('actions.subjects.action_name')

@@ -30,6 +30,10 @@ Rails.application.routes.draw do
     resources :users
   end
 
+  scope "/subjects" do
+    resources :knowledge_areas
+  end
+
   # Not Persistence actions
   get 'dashboard', to: 'dashboard#index', as: :dashboard
 

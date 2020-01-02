@@ -1,0 +1,15 @@
+= form_for @knowledge_area do |f|
+  - if @knowledge_area.errors.any?
+    #error_explanation
+      h2 = "#{pluralize(@knowledge_area.errors.count, "error")} prohibited this knowledge_area from being saved:"
+      ul
+        - @knowledge_area.errors.full_messages.each do |message|
+          li = message
+
+  .field
+    = f.label :name
+    = f.text_field :name
+  .field
+    = f.label :knowledge_area
+    = f.text_field :knowledge_area
+  .actions = f.submit

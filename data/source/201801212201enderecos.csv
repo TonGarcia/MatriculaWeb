@@ -1,0 +1,812 @@
+﻿"cod_coordenacao_regional","coordenacao_regional","cod_escola","escola","tipo_escola","endereco_cep","endereco_uf","endereco_localidade","endereco_regiao_administrativa","endereco_bairro","endereco_logradouro","endereco_complemento"
+7,CRE - Guará,61,Centro de Ensino Fundamental 08 do Guará,pública,"71050135",DF,Brasília,Guará                         ,Guará II,EQ 13/15 ,area especial
+3,CRE - Plano Piloto e Cruzeiro,8,CENTRO DE ENSINO FUNDAMENTAL 01 DE BRASÍLIA,pública,"70345000",DF,Brasília,Brasília                      ,Asa Sul,SQS 106 ,AE
+8,CRE - Núcleo Bandeirante,454,Centro de Ensino Médio 01 do Núcleo Bandeirante,pública,"71720592",DF,Brasília,Núcleo Bandeirante            ,Núcleo Bandeirante,Terceira Avenida Área Especial 4 ,Praça Oficial
+8,CRE - Núcleo Bandeirante,728,"7 -  INAV_Instituto Nair Valadares",privada,"71880110",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,QN 8A ,Conjunto 5  Lote 1/2
+8,CRE - Núcleo Bandeirante,72,Centro Educacional Agrourbano Ipê do Riacho Fundo,pública,"71884690",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,CAUB I ,GRANJA IPÊ DF 001
+4,CRE - Ceilândia,383,Centro Educacional 06 de Ceilândia,pública,"72231600",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNP 16 ,Area Especial
+16,CRE - Recanto das Emas,786,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA ARARA CANINDÉ,pública,"72621412",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 307 Conjunto 11 ,lote 01
+12,CRE - Samambaia,209,ESCOLA CLASSE 317 DE SAMAMBAIA,pública,"72307800",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 317 ,SAMAMBAIA
+12,CRE - Samambaia,576,ESCOLA CLASSE 425 DE SAMAMBAIA,pública,"72327520",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 425 ,AREA ESPECIAL N.º 02
+6,CRE - Brazlândia,504,Escola Classe 07 de Brazlândia,pública,"72738000",DF,Brasília,Brazlândia                    ,Vila São José (Brazlândia),Quadra 38 ,Área especial nº 2
+16,CRE - Recanto das Emas,799,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA BEIJA FLOR,pública,"72601309",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 107 Conjunto 8 ,Lote 01
+16,CRE - Recanto das Emas,787,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA QUERO QUERO,pública,"72631227",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 406 Conjunto Z1 ,Lote 01
+7,CRE - Guará,393,Escola Classe 01 do Guará,pública,"71020003",DF,Brasília,Guará                         ,Guará I,QE 3 ,AREA ESPECIAL LOTE A
+9,CRE - Planaltina,521,ESCOLA CLASSE 06 DE PLANALTINA,pública,"73360500",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),Quadra 5 ,EQ 5/6 EP02 Proj G Vila Buriti
+15,CRE - São Sebastião,733,OÁSIS- OBRAS ASSISTENCIAIS A INFANCIA E A SOCIEDADE,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,CL 103 LOTE F - ÁREA ESPECIAL - SANTA MA
+16,CRE - Recanto das Emas,775,ASSOCIAÇÃO BENÉFICA CORAÇÃO DE CRISTO,privada,"72620200",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 301 ,LOTE 26
+4,CRE - Ceilândia,379,Centro de Ensino Médio 02 de Ceilândia,pública,"72210141",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNM 14 Área Especial A ,AE
+7,CRE - Guará,876,CRECHE COMUNITÁRIA DA QE 38 DO GUARÁ,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,ED. PHENÍCIA
+11,CRE - Taguatinga,309,CENTRO DE ENSINO FUNDAMENTAL 21 DE TAGUATINGA,pública,"72161800",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNL 28 ,EQNL28/30  A/E 27
+5,CRE - Gama,47,ESCOLA CLASSE 29 DO GAMA,pública,"72410730",DF,Brasília,Gama                          ,Setor Sul (Gama),EQ 13/15 (Áreas Especiais),area especial
+11,CRE - Taguatinga,293,ESCOLA CLASSE 10 DE TAGUATINGA,pública,"72020180",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSD 18 ,Area especial 23
+3,CRE - Plano Piloto e Cruzeiro,163,ESCOLA CLASSE 711 NORTE,pública,"72220140",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNN 14 ,qw
+10,CRE - Sobradinho,95,CENTRO DE ENSINO FUNDAMENTAL 07 DE SOBRADINHO,pública,"73062303",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 13 Conjunto 3 ,CONJUNTO 5 LOTE 1
+11,CRE - Taguatinga,331,CAIC PROFESSOR WALTER JOSÉ DE MOURA,pública,"71966700",DF,Brasília,Águas Claras                  ,Areal (Águas Claras),QS 7 ,AE 02 LOTES 04/10
+11,CRE - Taguatinga,299,ESCOLA CLASSE 17 DE TAGUATINGA,pública,"72015034",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSA 3/5 Área Especial 1 ,QSA 03/05 Área Especial 1
+3,CRE - Plano Piloto e Cruzeiro,272,CENTRO DE ENSINO MÉDIO SETOR OESTE,pública,"70390120",DF,Brasília,Brasília                      ,Asa Sul,SGAS 912 ,MOD D
+3,CRE - Plano Piloto e Cruzeiro,828,Escola Parque 303/304 Norte,pública,"70735400",DF,Brasília,Brasília                      ,Asa Norte,EQN 303/304 ,area especial
+8,CRE - Núcleo Bandeirante,455,Centro de Ensino Médio Júlia Kubitschek,pública,"71727200",DF,Brasília,Candangolândia                ,Candangolândia,Quadra QRO A ,AE 01
+7,CRE - Guará,400,Centro Educacional 01 do Guará,pública,"71065345",DF,Brasília,Guará                         ,Guará II,EQ 34/36 ,AREA ESPECIAL - GUARÁ II
+12,CRE - Samambaia,819,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA ANGICO,pública,"72311400",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 503 ,QN 503
+16,CRE - Recanto das Emas,142,CENTRO EDUCACIONAL 104 DO RECANTO DAS EMAS,pública,"72600412",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 104 Conjunto 10-A ,AE
+13,CRE - Paranoá,872,TIA NAIR - PARANOÁ,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,"10º"
+9,CRE - Planaltina,84,CENTRO EDUCACIONAL TAQUARA,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,DF 230 KM 22 NUCLEO RURAL TAQUARA
+10,CRE - Sobradinho,815,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA CANELA - DE - EMA,pública,"73062508",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 15 Conjunto 8 ,AR 15 Conjunto 08
+9,CRE - Planaltina,205,CENTRO EDUCACIONAL OSÓRIO BACCHIN,pública,"73380160",DF,Brasília,Planaltina                    ,Setor Residencial Mestre D'Armas (Planaltina),Núcleo Rural Jardim Morumbí ,QD. G LOTE 22
+3,CRE - Plano Piloto e Cruzeiro,277,CENTRO EDUCACIONAL DO LAGO,pública,"71625100",DF,Brasília,Lago Sul                      ,Setor de Habitações Individuais Sul,SHIS QI 9 Conjunto 10 ,LT H AE
+16,CRE - Recanto das Emas,873,PROJETO INTEGRAL PRÓ VIDA,privada,"72610350",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Avenida Vargem da Bênção ,NÚCLEO RURAL VARGEM DA BENÇÃO CHA 29
+8,CRE - Núcleo Bandeirante,717,"8 - São Lucas_Centro Comunitário São Lucas - Unidade II - Candangolândia",privada,"71725300",DF,Brasília,Candangolândia                ,Candangolândia,QR 3 ,PRAÇA DO BOSQUE 4
+6,CRE - Brazlândia,871,TIA NAIR - Unidade 3,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,SEDF sede I
+15,CRE - São Sebastião,635,CENTRO EDUCACIONAL SÃO FRANCISCO,pública,"71693317",DF,Brasília,São Sebastião                 ,São Francisco (São Sebastião),Quadra 17 ,lote 100
+11,CRE - Taguatinga,399,ESCOLA CLASSE COLÔNIA AGRÍCOLA VICENTE PIRES,pública,"72110800",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),Setor Habitacional Vicente Pires ,Area esp. 01
+16,CRE - Recanto das Emas,112,CENTRO EDUCACIONAL MYRIAM ERVILHA,pública,"72669425",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Condomínio Residencial Salomão Elias Área Especial ,DF 280 KM 02 Setor Água Quente
+11,CRE - Taguatinga,638,CENTRO DE EDUCAÇÃO INFANTIL ÁGUAS CLARAS,pública,"71978700",DF,Brasília,Águas Claras                  ,Areal (Águas Claras),QS 11 ,Conj R Área Especial
+6,CRE - Brazlândia,516,Escola Normal de Brazlândia,pública,"73100300",DF,Brasília,Sobradinho                    ,Núcleo Rural Lago Oeste (Sobradinho),Rua 10 ,
+3,CRE - Plano Piloto e Cruzeiro,155,CENTRO DE ENSINO FUNDAMENTAL 214 SUL,pública,"70293000",DF,Brasília,Brasília                      ,Asa Sul,SQS 214 ,AE S/N
+6,CRE - Brazlândia,501,Escola Classe 03 de Brazlândia,pública,"72710067",DF,Brasília,Brazlândia                    ,Setor Norte (Brazlândia),EQ 6/8 ,lote 
+14,CRE - Santa Maria,338,CENTRO DE ENSINO MÉDIO 417 DE SANTA MARIA,pública,"72547240",DF,Brasília,Santa Maria                   ,Santa Maria,CL 417 ,Lote A 
+14,CRE - Santa Maria,618,JARDIM DE INFÂNCIA 116 DE SANTA MARIA,pública,"72546400",DF,Brasília,Santa Maria                   ,Santa Maria,QR 116 ,CONJUNTO H LOTE 09 ÁREA ESPECIAL
+13,CRE - Paranoá,204,CENTRO DE ENSINO FUNDAMENTAL JARDIM II DO PARANOÁ,pública,"73370994",DF,Brasília,,,Núcleo Rural do Jardim - Rodovia DF 285 km 23,BR 251 DF 285
+13,CRE - Paranoá,636,Centro de Ensino Fundamental Doutora Zilda Arns,pública,"71590000",DF,Brasília,Itapoã                        ,Itapoã I,Itapoã ,QD 378 CONJUNTO N AE 02
+5,CRE - Gama,483,ESCOLA CLASSE 18 DO GAMA,pública,"72410300",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 5 ,Conjunto D Área Especial
+16,CRE - Recanto das Emas,147,Centro Educacional 308 do Recanto das Emas,pública,"72622112",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 308 Conjunto 12 ,Lote 01 - AE
+12,CRE - Samambaia,581,ESCOLA CLASSE 512 DE SAMAMBAIA,pública,"72312706",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 512 Conjunto 6 ,Area Especial S/N
+10,CRE - Sobradinho,436,CENTRO EDUCACIONAL 04 DE SOBRADINHO,pública,"73062109",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 10 Conjunto 9 ,LOTE  01 SETOR OESTE
+3,CRE - Plano Piloto e Cruzeiro,843,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA GAVIÃO,pública,"71530200",DF,Brasília,Lago Norte                    ,Setor de Habitações Individuais Norte,SHIN QI 16 ,Lotes A e B
+4,CRE - Ceilândia,719,SOCIEDADE SÃO VICENTE PAULO - C FREDERICO OZANAM,privada,"72215310",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNM 31 ,a
+11,CRE - Taguatinga,450,ESCOLA CLASSE ARNIQUEIRA,pública,"71994010",DF,Brasília,Águas Claras                  ,Setor Habitacional Arniqueira (Águas Claras),SHA Conjunto 4 ,LOTE 05 AREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,747,ASSOCIAÇÃO CRUZ DE MALTA - NOSSA SRA DO FILERMO,privada,"70790080",DF,Brasília,Brasília                      ,Asa Norte,SGAN 908 ,a
+8,CRE - Núcleo Bandeirante,69,Centro de Ensino Fundamental Telebrasília,pública,"71805132",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,QN 1 Conjunto 32 ,Lote 1/2
+9,CRE - Planaltina,523,ESCOLA CLASSE 09 DE PLANALTINA,pública,"73350163",DF,Brasília,Planaltina                    ,Setor Residencial Norte (Planaltina),Conjunto C ,Via WL 01
+7,CRE - Guará,660,CENTRO DE ENSINO FUNDAMENTAL 02 DA ESTRUTURAL,pública,"71300000",DF,Brasília,SCIA                          ,Vila Estrutural (Guará),Vila Estrutural ,area especial
+9,CRE - Planaltina,527,ESCOLA CLASSE 02 DO ARAPOANGA,pública,"73370100",DF,Brasília,Planaltina                    ,Arapoanga (Planaltina),Condomínio Arapoanga ,Q 21 Conj F AE
+5,CRE - Gama,770,Obras Assistenciais São Sebastião - Nssa Sra do Carmo,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,s
+9,CRE - Planaltina,82,CENTRO EDUCACIONAL 03 DE PLANALTINA,pública,"73350161",DF,Brasília,Planaltina                    ,Setor Residencial Norte (Planaltina),Conjunto A ,"EQ.: 02/03, Área especial nº01"
+9,CRE - Planaltina,88,CENTRO DE ENSINO FUNDAMENTAL PIPIRIPAU II,pública,"73310901",DF,Brasília,Planaltina                    ,Setor Administrativo (Planaltina),Administração Regional de Planaltina (RA-VI) - Setor Administrativo,BR 020 DF 365/DF 017 NR PIPIRIPAU
+11,CRE - Taguatinga,831,CONVENIO APAED,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,"1"
+6,CRE - Brazlândia,507,Escola Classe Bucanhão,pública,"72770100",DF,Brasília,Brazlândia                    ,Brazlândia,Rodovia DF-001 ,Bucanhao - Brazlândia DF
+11,CRE - Taguatinga,305,ESCOLA CLASSE 29 DE TAGUATINGA,pública,"72140180",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNJ 18 ,Area Esp 10
+4,CRE - Ceilândia,30,Centro de Ensino Fundamental 14 de Ceilândia,pública,"72235560",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 28/32 ,AE
+11,CRE - Taguatinga,166,ESCOLA CLASSE 41 DE TAGUATINGA,pública,"72151515",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNL 13/15 Área Especial s/n ,Área especial 01
+8,CRE - Núcleo Bandeirante,654,Centro de Ensino Fundamental 02 do Riacho Fundo II,pública,"71884330",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,QS 8 ,AE 02
+12,CRE - Samambaia,782,INSTITUTO BRAZIL GLOBAL,privada,"72314703",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),ADE Conjunto 3 ,LOTE 40/41
+3,CRE - Plano Piloto e Cruzeiro,274,Centro Educacional 01 do Cruzeiro - CED01 ,pública,"70640002",DF,Brasília,Cruzeiro                      ,Cruzeiro Velho,SRES Quadra 1 ,Setor Residencial econômico S/N área especial F
+11,CRE - Taguatinga,766,LAR DA CRIANÇA PADRE CÍCERO - UNIDADE 2,privada,"72130005",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNG Áreas Especiais 15 a 19 e 24 a 25 e 39 a 44 ,s
+13,CRE - Paranoá,801,INSTITUTO EDUCAR,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,PARANOA
+11,CRE - Taguatinga,758,OBRA SOCIAL NOSSA SENHORA DE FÁTIMA,privada,"72110600",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),Colônia Agrícola Samambaia ,a
+5,CRE - Gama,486,ESCOLA CLASSE 21 DO GAMA,pública,"72465445",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 44/45 ,Área especial
+11,CRE - Taguatinga,657,ESCOLA CLASSE 02 DE VICENTE PIRES,pública,"72110800",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),Setor Habitacional Vicente Pires ,Rua 11 área especial s//n Vila São José
+11,CRE - Taguatinga,765,LAR DA CRIANÇA PADRE CÍCERO - UNIDADE 1-,privada,"72130270",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNG 27 ,Area esp. 4
+4,CRE - Ceilândia,874,ESCOLA CLASSE 68 DE CEILÂNDIA,pública,"72275250",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNR 2 ,LOTE 02 
+8,CRE - Núcleo Bandeirante,616,Jardim de Infância 01 do Riacho Fundo II,pública,"71880137",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,QN 8C Área Especial 1 ,.
+5,CRE - Gama,479,ESCOLA CLASSE 14 DO GAMA,pública,"72460295",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 29/33 ,PRACA 03
+5,CRE - Gama,478,JARDIM DE INFÂNCIA 03 DO GAMA,pública,"72450030",DF,Brasília,Gama                          ,Setor Leste (Gama),Quadra 3 ,area especial
+11,CRE - Taguatinga,735,SOCIEDADE ESPÍRITA DE AMPARO AO MENOR CASA DO CAMINHO,privada,"72140100",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNJ 10 ,a
+13,CRE - Paranoá,769,INSTITUTO EDUCACIONAL SÃO JUDAS TADEU,privada,"71655720",DF,Brasília,Lago Sul                      ,Setor de Habitações Individuais Sul,SHIS QI 19 Chácaras 7 a 12 ,SHIS QI 19 Chácaras 11/12 LAGO SUL - DF
+14,CRE - Santa Maria,734,OBRAS ASSISTENCIAIS SÃO SEBASTIÃO - CENTRO DE CONVIVÊNCIA E EDUCAÇÃO INFANTIL SAGRADA FAMÍLIA,privada,"72503400",DF,Brasília,Santa Maria                   ,Santa Maria,QR 103 ,LOTE 01
+13,CRE - Paranoá,542,ESCOLA CLASSE LAMARÃO,pública,"71570800",DF,Brasília,Paranoá                       ,Paranoá,Quadra 8 ,NÚCLEO RURAL LAMARÃO - ROD. DF-285 KM 223 DF-285 VC-441
+8,CRE - Núcleo Bandeirante,642,Centro de Ensino Fundamental 01 da Candangolândia,pública,"71725250",DF,Brasília,Candangolândia                ,Candangolândia,EQR 2/4 ,AE 07
+13,CRE - Paranoá,425,ESCOLA CLASSE NATUREZA,pública,"71586100",DF,Brasília,Paranoá                       ,Paranoá,Sobradinho dos Melos ,"BR 250, KM 08, Nucleo Rural Sobradinho dos Melos"
+13,CRE - Paranoá,465,CENTRO DE ENSINO MÉDIO 01 DO PARANOÁ,pública,"71570401",DF,Brasília,Paranoá                       ,Paranoá,Quadra 4 Conjunto A ,AE 02
+9,CRE - Planaltina,535,ESCOLA CLASSE CÓRREGO DO MEIO,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,BR 020 KM 18 DF-444-  CH CORREGO DO MEIO
+14,CRE - Santa Maria,334,ESCOLA CLASSE 203 DE SANTA MARIA,pública,"72503221",DF,Brasília,Santa Maria                   ,Santa Maria,CL 203 Bloco A ,LOTE 1A
+11,CRE - Taguatinga,324,CENTRO EDUCACIONAL 02 DE TAGUATINGA,pública,"72015240",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSA 24 ,/25 QSD 09/11 ÁREA ESPECIAL
+5,CRE - Gama,55,Centro de Ensino Fundamental Ponte Alta do Baixo,pública,"72426000",DF,Brasília,Gama                          ,Setor Oeste (Gama),Núcleo Rural Ponte Alta de Cima ,nucleo rural ponte alta do baixo
+7,CRE - Guará,726,ASSOCIAÇÃO DE INTEGRAÇÃO SOCIAL DE BRASÍLIA - CRECHE SORRISO DE MARIA,privada,"71070703",DF,Brasília,Guará                         ,Guará II,Área Especial 10 Módulo C ,a
+7,CRE - Guará,59,CENTRO DE ENSINO FUNDAMENTAL 05 DO GUARÁ,pública,"71065325",DF,Brasília,Guará                         ,Guará II,EQ 32/34 ,AREA ESPECIAL
+5,CRE - Gama,54,Centro de Ensino Fundamental Tamanduá,pública,"72426000",DF,Brasília,Gama                          ,Setor Oeste (Gama),Núcleo Rural Ponte Alta de Cima ,DF 180 KM 61
+14,CRE - Santa Maria,802,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA CURIÓ,pública,"72548226",DF,Brasília,Santa Maria                   ,Santa Maria,CL 218 Bloco F ,Santa maria
+11,CRE - Taguatinga,325,Centro Educacional 04 de Taguatinga,pública,"72130005",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNG Áreas Especiais 15 a 19 e 24 a 25 e 39 a 44 ,QNG 06/07 AREA ESPECIAL 20
+11,CRE - Taguatinga,291,ESCOLA CLASSE 06 DE TAGUATINGA,pública,"72115125",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),CNB 12 ,Area esp.01
+9,CRE - Planaltina,720,LAR FABIANO DE CRISTO - UPI CASA LÍVIA,privada,"72215290",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNM 29 ,a
+11,CRE - Taguatinga,297,ESCOLA CLASSE 15 DE TAGUATINGA,pública,"72120430",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QND 43 ,lote 23 Area especial
+10,CRE - Sobradinho,417,ESCOLA CLASSE BROCHADO DA ROCHA,pública,"73307993",DF,Brasília,,,Núcleo Rural DVO - BR-020 Km 17 - (Entre Planaltina e Sobradinho - entrada próximo a EMBRAPA),Acampamento DVO
+8,CRE - Núcleo Bandeirante,711,Centro de Educação Infantil 01 do Riacho Fundo I,pública,"71805731",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,QN 7 Área Especial 1 ,AE 10
+10,CRE - Sobradinho,94,ESCOLA CLASSE 15 DE SOBRADINHO,pública,"73030030",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 3 ,AE 01/02
+14,CRE - Santa Maria,333,CENTRO DE EDUCAÇÃO INFANTIL 416/516 DE SANTA MARIA,pública,"72546332",DF,Brasília,Santa Maria                   ,Santa Maria,EQ 416/516 Bloco B ,.
+6,CRE - Brazlândia,509,Escola Classe INCRA 06,pública,"72772010",DF,Brasília,Brazlândia                    ,Brazlândia,Incra 6 ,dcag df 180-km 06
+14,CRE - Santa Maria,793,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA ANGELINS,pública,"72548210",DF,Brasília,Santa Maria                   ,Santa Maria,CL 118 Bloco J ,Lote J
+4,CRE - Ceilândia,385,Centro de Ensino Médio 10 de Ceilândia,pública,"72265010",DF,Brasília,Ceilândia                     ,Setor Industrial (Ceilândia),Quadra 1 ,QES ÁREA ESPECIAL 01
+16,CRE - Recanto das Emas,617,JARDIM DE INFÂNCIA 603 DO RECANTO DAS EMAS,pública,"72640309",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 603 Conjunto 9 ,Lt 01
+16,CRE - Recanto das Emas,143,CENTRO DE ENSINO FUNDAMENTAL 106 DO RECANTO DAS EMAS,pública,"72601204",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 106 Conjunto 2-B ,Lt 01 - AE
+11,CRE - Taguatinga,311,ESCOLA CLASSE 50 DE TAGUATINGA,pública,"72155505",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNL 2/4 Área Especial s/n ,Setor L Norte
+6,CRE - Brazlândia,511,ESCOLA CLASSE PÓLO AGRÍCOLA DA TORRE,pública,"72770300",DF,Brasília,Brazlândia                    ,Brazlândia,Rodovia DF-220 ,BR 180 KM 05 Radiobraz
+4,CRE - Ceilândia,26,CENTRO DE ENSINO FUNDAMENTAL 10 DE CEILÂNDIA,pública,"72225590",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNN 23/25 ,AE
+4,CRE - Ceilândia,360,ESCOLA CLASSE 27 DE CEILÂNDIA,pública,"72225550",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNN 7/9 ,AE
+14,CRE - Santa Maria,335,ESCOLA CLASSE 206 DE SANTA MARIA,pública,"72506223",DF,Brasília,Santa Maria                   ,Santa Maria,CL 206 Bloco C ,Lote 01
+10,CRE - Sobradinho,413,ESCOLA CLASSE 13 DE SOBRADINHO,pública,"73060500",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 5 ,AE 01
+11,CRE - Taguatinga,313,ESCOLA CLASSE 52 DE TAGUATINGA,pública,"72145517",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNM 36/38 Área Especial s/n ,AREA ESPECIAL 01
+3,CRE - Plano Piloto e Cruzeiro,15,CENTRO DE ENSINO ESPECIAL 02 DE BRASÍLIA,pública,"70200720",DF,Brasília,Brasília                      ,Asa Sul,SGAS 612 ,s/ complemento
+3,CRE - Plano Piloto e Cruzeiro,833,ESCOLA PARQUE 210/211 NORTE,pública,"70862400",DF,Brasília,Brasília                      ,Asa Norte,EQN 210/211 ,"1"
+12,CRE - Samambaia,762,FENAÇÕES INTEGRAÇÃO SOCIAL - RENASCER,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,.
+7,CRE - Guará,727,ASSOCIAÇÃO DOS MORADORES DO PROJETO LÚCIO COSTA,privada,"71100000",DF,Brasília,Guará                         ,Quadras Econômicas Lúcio Costa (Guará),EPTG QE 1 ,s
+3,CRE - Plano Piloto e Cruzeiro,748,AÇÃO SOCIAL PAULA FRASSINETTI,privada,"70790110",DF,Brasília,Brasília                      ,Asa Norte,SGAN 911 ,s
+5,CRE - Gama,42,CENTRO DE ENSINO FUNDAMENTAL 03 DO GAMA,pública,"72450065",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 6/11 ,AREA ESPECIAL
+10,CRE - Sobradinho,752,INSTITUTO VITÓRIA RÉGIA PARA O DESENVOLVIMENTO HUMANO,privada,"73025040",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 4 ,QUADRA 04 ÁREA ESPECIAL N° 03 - SOBRADIN
+4,CRE - Ceilândia,376,ESCOLA CLASSE 61 DE CEILÂNDIA,pública,"72270400",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNQ 4 ,AE
+8,CRE - Núcleo Bandeirante,66,Centro de Ensino Fundamental 01 do Núcleo Bandeirante,pública,"71705040",DF,Brasília,Núcleo Bandeirante            ,Núcleo Bandeirante,Avenida Contorno Área Especial 7 ,Sem número
+8,CRE - Núcleo Bandeirante,441,Centro de Educação Infantil do Núcleo Bandeirante,pública,"71715060",DF,Brasília,Núcleo Bandeirante            ,Núcleo Bandeirante,Segunda Avenida Entre Bloco 960/1060 ,Entre Blocos 960/1060
+8,CRE - Núcleo Bandeirante,442,Centro de Educação Infantil do Riacho Fundo II,pública,"71881118",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,QN 14A Área Especial 1 ,.
+9,CRE - Planaltina,77,CENTRO DE ENSINO FUNDAMENTAL NOSSA SENHORA DE FÁTIMA,pública,"73340791",DF,Brasília,Planaltina                    ,Vila Nossa Senhora de Fátima (Planaltina),Área Especial 1 ,AE 01
+9,CRE - Planaltina,550,ESCOLA CLASSE RAJADINHA,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,DF-250 - DF-06
+11,CRE - Taguatinga,109,CENTRO DE ENSINO FUNDAMENTAL 15 DE TAGUATINGA,pública,"72015034",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSA 3/5 Área Especial 1 , Area especial 01 bloco D 
+15,CRE - São Sebastião,137,CENTRO DE ENSINO FUNDAMENTAL CERÂMICA SÃO PAULO,pública,"71691101",DF,Brasília,São Sebastião                 ,Setor Tradicional (São Sebastião),Rua 1 ,LOTE 101
+11,CRE - Taguatinga,110,CENTRO DE ENSINO FUNDAMENTAL 16 DE TAGUATINGA,pública,"72161200",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNL 22 ,AREA ESPECIAL Nº 24
+3,CRE - Plano Piloto e Cruzeiro,16,CENTRO DE ENSINO ESPECIAL DE DEFICIENTES VISUAIS,pública,"70200720",DF,Brasília,Brasília                      ,Asa Sul,SGAS 612 ,s/complemento
+3,CRE - Plano Piloto e Cruzeiro,601,ESCOLA MENINOS E MENINAS DO PARQUE,pública,"70610300",DF,Brasília,Brasília                      ,Asa Sul,Parque Recreativo Sarah Kubitschek ,ESTACIONAMENTO 6
+12,CRE - Samambaia,754,ASS. BENEF. EVANG. - CRECHE PR FRANCISCO MIRANDA,privada,"72308300",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 314 ,QS 314 ÁREA ESPECIAL N° 04 - SAMAMBAIA S
+14,CRE - Santa Maria,135,CENTRO DE ENSINO FUNDAMENTAL 103 DE SANTA MARIA,pública,"72503202",DF,Brasília,Santa Maria                   ,Santa Maria,CL 103 Bloco B ,Lote 1B
+8,CRE - Núcleo Bandeirante,456,CAIC Juscelino Kubitschek,pública,"71740600",DF,Brasília,ParkWay                       ,Setor de Mansões Park Way,SMPW Quadra 6 ,AE 02
+12,CRE - Samambaia,768,PROJETO SÓCIO EDUCATIVO SANTA LUZIA,privada,"72312205",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 508 Conjunto 5 ,QN 508 CONJUNTO 05 LOTE 05
+14,CRE - Santa Maria,129,CENTRO DE ENSINO FUNDAMENTAL 308 DE SANTA MARIA,pública,"72508232",DF,Brasília,Santa Maria                   ,Santa Maria,CL 308 Bloco B ,LOTE 1B
+4,CRE - Ceilândia,41,CENTRO DE ENSINO ESPECIAL 02 DE CEILÂNDIA,pública,"72255207",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 12 Área Especial G ,s
+6,CRE - Brazlândia,22,Centro de Ensino Especial 01 de Brazlândia,pública,"72710026",DF,Brasília,Brazlândia                    ,Setor Norte (Brazlândia),EQ 2/4 ,E/Q
+6,CRE - Brazlândia,834,Escola Parque da Natureza de Brazlândia,pública,"72715700",DF,Brasília,Brazlândia                    ,Setor Sul (Brazlândia),Setor de Chácaras ,"1"
+4,CRE - Ceilândia,366,ESCOLA CLASSE 36 DE CEILÂNDIA,pública,"72240520",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNP 5/9 ,AE
+4,CRE - Ceilândia,318,ESCOLA CLASSE LAJES DA JIBÓIA,pública,"72215000",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),Área Especial 1 ,BR 060 DF 190 KM 5 NR LAJES DA JIBOIA
+5,CRE - Gama,56,CENTRO DE ENSINO ESPECIAL 01 DO GAMA,pública,"72405555",DF,Brasília,Gama                          ,Setor Central (Gama),EQ 55/56 ,s
+14,CRE - Santa Maria,332,CENTRO DE EDUCAÇÃO INFANTIL 210 DE SANTA MARIA,pública,"72510300",DF,Brasília,Santa Maria                   ,Santa Maria,EQ 210/310 ,lote a
+14,CRE - Santa Maria,794,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA CORUJINHA DO CERRADO,pública,"72502208",DF,Brasília,Santa Maria                   ,Santa Maria,CL 102 Bloco H ,Bloco H
+10,CRE - Sobradinho,99,CENTRO DE ENSINO ESPECIAL 01 DE SOBRADINHO,pública,"73150040",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),Engenho Velho Quadra 12 ,s
+12,CRE - Samambaia,121,CENTRO DE ENSINO FUNDAMENTAL 427 DE SAMAMBAIA,pública,"72327540",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 427 ,AREA ESPECIAL 02
+11,CRE - Taguatinga,312,CENTRO DE EDUCAÇÃO INFANTIL 03 DE TAGUATINGA,pública,"72145632",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNM 36 Conjunto B2 ,lote 60
+12,CRE - Samambaia,750,FENAÇÕES INTEGRAÇÃO SOCIAL - CANTINHO DA AMIZADE,privada,"72333500",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 617 ,.
+12,CRE - Samambaia,800,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA JABUTI,pública,"72320560",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 414 ,Área Especial 01
+4,CRE - Ceilândia,184,CENTRO DE ENSINO FUNDAMENTAL 31 DE CEILÂNDIA,pública,"72260700",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 17 ,AE
+12,CRE - Samambaia,792,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA TAMANDUÁ BANDEIRA,pública,"72308208",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 314 Conjunto 8 ,Lote 01
+15,CRE - São Sebastião,138,CENTRO DE ENSINO FUNDAMENTAL DO BOSQUE,pública,"71694049",DF,Brasília,São Sebastião                 ,Residencial do Bosque (São Sebastião),Especial CEF ,Area institucional nº 02 Res. do Bosque
+7,CRE - Guará,403,CENTRO EDUCACIONAL 04 DO GUARÁ,pública,"71020095",DF,Brasília,Guará                         ,Guará I,QE 9 ,Área Especial D/E
+5,CRE - Gama,192,CENTRO EDUCACIONAL CASA GRANDE,pública,"72428010",DF,Brasília,Gama                          ,Setor Oeste (Gama),Núcleo Rural Casa Grande ,Modulo agrícola 16 Chácara 1  
+12,CRE - Samambaia,753,LAR ASSISTENCIAL MARIA DE NAZARÉ - CRECHE LAR DE MARIA,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,a
+12,CRE - Samambaia,586,CAIC AYRTON SENNA,pública,"72301700",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 115 ,AREA URBANA QUADRA 117
+7,CRE - Guará,58,CENTRO DE ENSINO FUNDAMENTAL 04 DO GUARÁ,pública,"71010111",DF,Brasília,Guará                         ,Guará I,QE 12 ,area especial
+9,CRE - Planaltina,203,CENTRO DE ENSINO FUNDAMENTAL CERÂMICAS REUNIDAS DOM BOSCO,pública,"73307992",DF,Brasília,Planaltina                    ,,Pipiripau - Rodovia DF-205 km 03 (Acesso P/Rod.DF-345 BSB S João D'Aliança),BR 020 KM 54
+4,CRE - Ceilândia,625,Centro de Educação Profissional Escola Técnica de Ceilândia - CEP-ETC,pública,"72220140",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNN 14 ,a
+11,CRE - Taguatinga,772,ASSOCIAÇÃO CAMINHO DE LUZ - AREAL,privada,"71966180",DF,Brasília,Águas Claras                  ,Areal (Águas Claras),QS 6 Conjunto 430A ,LOTE 01
+12,CRE - Samambaia,208,CENTRO DE EDUCAÇÃO INFANTIL 307 DE SAMAMBAIA,pública,"72313107",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 507 Conjunto 7 ,A
+12,CRE - Samambaia,755,ASSOCIAÇÃO  NOSSA SENHORA MÃE DOS HOMENS,privada,"72325000",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QR 419 ,a
+3,CRE - Plano Piloto e Cruzeiro,10,CENTRO DE ENSINO FUNDAMENTAL 05 DE BRASÍLIA,pública,"70257000",DF,Brasília,Brasília                      ,Asa Sul,SQS 408 ,AE
+16,CRE - Recanto das Emas,149,CENTRO DE ENSINO FUNDAMENTAL 801 DO RECANTO DAS EMAS,pública,"72650000",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 801 ,Conjunto 01 AE
+12,CRE - Samambaia,759,AFMA - AÇÃO SOCIAL COMUNITÁRIA,privada,"72320541",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 412 Conjunto A Comércio,z
+8,CRE - Núcleo Bandeirante,760,"4 -  Cantinho da Paz_Casa Transitória de Brasília - Unidade III",privada,"71725250",DF,Brasília,Candangolândia                ,Candangolândia,EQR 2/4 ,ESPAÇO CULTURAL 14
+14,CRE - Santa Maria,136,CENTRO DE ENSINO ESPECIAL 01 DE SANTA MARIA,pública,"72508220",DF,Brasília,Santa Maria                   ,Santa Maria,CL 208 ,AREA ESPECAL
+12,CRE - Samambaia,751,ASSOCIAÇÃO MARIA DE NAZARÉ,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,a
+3,CRE - Plano Piloto e Cruzeiro,213,CENTRO DE EDUCAÇÃO INFANTIL 01 DE BRASÍLIA,pública,"70830503",DF,Brasília,Brasília                      ,Asa Norte,SGAN 611 Módulo C ,AE
+12,CRE - Samambaia,756,SOCIEDADE ESPÍRITA DE EDUCAÇÃO - SEMENTE LUZ,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,a
+6,CRE - Brazlândia,499,Centro de Educação Infantil 01 de Brazlândia,pública,"72726100",DF,Brasília,Brazlândia                    ,Veredas (Brazlândia),Quadra 5 ,PIQ 05 LOTE 01 
+3,CRE - Plano Piloto e Cruzeiro,156,ESCOLA CLASSE 315 SUL,pública,,,,,,,ASSAS
+4,CRE - Ceilândia,170,Centro de Ensino Fundamental Boa Esperança,pública,"72215000",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),Área Especial 1 ,ÁREA RURAL
+5,CRE - Gama,194,CENTRO DE ENSINO FUNDAMENTAL PONTE ALTA NORTE,pública,"72426100",DF,Brasília,Gama                          ,Ponte Alta (Gama),Avenida Ponte Alta Norte ,BR 475 KM 05
+12,CRE - Samambaia,122,CENTRO DE ENSINO FUNDAMENTAL 120 DE SAMAMBAIA,pública,"72304104",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 122 Conjunto 4 ,LOTE 01
+3,CRE - Plano Piloto e Cruzeiro,835,ESCOLA PARQUE 307/308 SUL,pública,"70347000",DF,Brasília,Brasília                      ,Asa Sul,SQS 108 ,"1"
+7,CRE - Guará,65,CENTRO DE ENSINO ESPECIAL 01 DO GUARÁ,pública,"71015205",DF,Brasília,Guará                         ,Guará I,QE 20 ,lote A A/E
+12,CRE - Samambaia,850,Centro de Educação da Primeira Infância Cutia,pública,"72303530",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QS 127 ,Àrea especial 01
+12,CRE - Samambaia,562,ESCOLA CLASSE 108 DE SAMAMBAIA,pública,"72302530",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QS 110 ,Área Especial 01 
+12,CRE - Samambaia,849,Centro de Educação da Primeira Infância Mangabeira,pública,"72321570",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 413 ,Àrea especial 02 
+11,CRE - Taguatinga,745,CASA TRANSITÓRIA DE BRASÍLIA - LAR CRIANÇAS - CTB,privada,"72115150",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNB 15 ,a
+11,CRE - Taguatinga,767,LAR DA CRIANÇA DE BRASILIA,privada,"72115050",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNB 5 ,QNB A/E 04B
+16,CRE - Recanto das Emas,803,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA SABIÁ - DO - CAMPO,pública,"72621203",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 305 Conjunto 2 ,lote 01
+3,CRE - Plano Piloto e Cruzeiro,746,ASSOCIAÇÃO CRUZ DE MALTA,privada,"70740535",DF,Brasília,Brasília                      ,Asa Norte,SCLRN 707 Bloco E ,a
+11,CRE - Taguatinga,101,CENTRO DE ENSINO FUNDAMENTAL 04 DE TAGUATINGA,pública,"72150517",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNL 5/7 Área Especial s/n ,Setor L Norte
+3,CRE - Plano Piloto e Cruzeiro,233,CENTRO DE ENSINO ESPECIAL 01 DE BRASÍLIA,pública,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,phenicia
+6,CRE - Brazlândia,505,Escola Classe 08 de Brazlândia,pública,"72725400",DF,Brasília,Brazlândia                    ,Veredas (Brazlândia),Quadra 4 ,PIQ 04 LOTE 01
+3,CRE - Plano Piloto e Cruzeiro,270,CENTRO DE ENSINO MÉDIO PAULO FREIRE,pública,"70830451",DF,Brasília,Brasília                      ,Asa Norte,SGAN 610 Módulo A ,"610"
+3,CRE - Plano Piloto e Cruzeiro,264,ESCOLA CLASSE 308 SUL,pública,"70354400",DF,Brasília,Brasília                      ,Asa Sul,EQS 307/308 ,AE
+3,CRE - Plano Piloto e Cruzeiro,857,Escola da Natureza,pública,"70610300",DF,Brasília,Brasília                      ,Asa Sul,Parque Recreativo Sarah Kubitschek ,PARQUE DA CIDADE SARA KUBITSCHEK PORTÃO Nº 5
+12,CRE - Samambaia,114,CENTRO DE ENSINO FUNDAMENTAL 404 DE SAMAMBAIA,pública,"72318550",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 404 ,AREA ESPECIAL
+8,CRE - Núcleo Bandeirante,188,Escola Classe Agrovila II,pública,"71884300",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,CAUB II ,.
+9,CRE - Planaltina,608,CENTRO EDUCACIONAL VALE DO AMANHECER,pública,"73370077",DF,Brasília,Planaltina                    ,Vale do Amanhecer (Planaltina),Conjunto Residencial 77 ,Área Especial 03 Lote 01 Vila Pacheco
+12,CRE - Samambaia,563,ESCOLA CLASSE 111 DE SAMAMBAIA,pública,"72301545",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QS 111 ,ÁREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,224,JARDIM DE INFÂNCIA 114 SUL,pública,"70377000",DF,Brasília,Brasília                      ,Asa Sul,SQS 114 ,AE
+15,CRE - São Sebastião,860,Centro Interescolar de Línguas 01 de São Sebastião,pública,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,RUA 01 - LT 101
+14,CRE - Santa Maria,171,ESCOLA CLASSE 116 DE SANTA MARIA,pública,"72546200",DF,Brasília,Santa Maria                   ,Santa Maria,CL 116 ,LOTE 1 - M
+3,CRE - Plano Piloto e Cruzeiro,252,ESCOLA CLASSE 411 NORTE,pública,"70866000",DF,Brasília,Brasília                      ,Asa Norte,SQN 411 ,AE
+3,CRE - Plano Piloto e Cruzeiro,838,ESCOLA PARQUE 210/211 SUL,pública,"70273400",DF,Brasília,Brasília                      ,Asa Sul,EQS 210/211 ,"1"
+3,CRE - Plano Piloto e Cruzeiro,225,JARDIM DE INFÂNCIA 208 SUL,pública,"70254000",DF,Brasília,Brasília                      ,Asa Sul,SQS 208 ,AE
+3,CRE - Plano Piloto e Cruzeiro,220,JARDIM DE INFÂNCIA 312 NORTE,pública,"70765000",DF,Brasília,Brasília                      ,Asa Norte,SQN 312 ,AE
+3,CRE - Plano Piloto e Cruzeiro,221,JARDIM DE INFÂNCIA 404 NORTE,pública,"70845000",DF,Brasília,Brasília                      ,Asa Norte,SQN 404 ,AEÁREA ESPECIAL
+4,CRE - Ceilândia,390,Centro de  Atenção Integral a Criança Bernardo Sayão,pública,"72220280",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNN 28 ,"MÓDULO 01 LTS H,I,J,K"
+4,CRE - Ceilândia,658,Centro de Ensino Fundamental 32 de Ceilândia,pública,"72238000",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),Setor Habitacional Por do Sol ,Área Especial
+3,CRE - Plano Piloto e Cruzeiro,232,ESCOLA CLASSE ASPALHA,pública,"71540045",DF,Brasília,Lago Norte                    ,Setor de Mansões do Lago Norte,SMLN MI Trecho 04 ,CONJ 1 CH 160
+12,CRE - Samambaia,861,Centro de Educação da Primeira Infância Capim Estrela,pública,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,QS 613 AE 02
+13,CRE - Paranoá,632,ESCOLA CLASSE 01 DO ITAPOÃ,pública,"71591525",DF,Brasília,Itapoã                        ,Del Lago I (Itapoã),Quadra 61 Conjunto E ,AE - DEL LAGO I
+3,CRE - Plano Piloto e Cruzeiro,275,Centro Educacional 02 do Cruzeiro - CED02,pública,"70655850",DF,Brasília,Cruzeiro                      ,Cruzeiro Novo,SHCES Quadra 805 ,LT 02 S/N
+12,CRE - Samambaia,574,ESCOLA CLASSE 415 DE SAMAMBAIA,pública,"72323540",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 417 ,QN 415/ 417 AREA ESPECIAL 01
+8,CRE - Núcleo Bandeirante,440,Centro de Educação Infantil da Candangolândia,pública,"71727100",DF,Brasília,Candangolândia                ,Candangolândia,QR 1-A ,PRAÇA DO BOSQUE
+12,CRE - Samambaia,646,ESCOLA CLASSE 831 DE SAMAMBAIA,pública,"72338711",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QR 831 Conjunto 1 ,SAMAMBAIA
+10,CRE - Sobradinho,424,ESCOLA CLASSE MORRO DO SANSÃO,pública,"73080350",DF,Brasília,Sobradinho                    ,Setor de Mansões de Sobradinho,QMS 45 ,Fazenda Sobradinho-Próximo ao Cemitério
+16,CRE - Recanto das Emas,146,CENTRO DE ENSINO FUNDAMENTAL 306 DO RECANTO DAS EMAS,pública,"72621300",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 306 ,AV MONJOLO - LOTE 06
+10,CRE - Sobradinho,405,CENTRO DE EDUCAÇÃO INFANTIL 01 DE SOBRADINHO,pública,"73015100",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 2 ,RUA 1 AE
+11,CRE - Taguatinga,862,Centro de Educação da Primeira Infância Rosa do Cerrado,pública,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,QS 07 Lote 10 ? Águas Claras
+4,CRE - Ceilândia,347,ESCOLA CLASSE 12 DE CEILÂNDIA,pública,"72210560",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNM 20/22 ,AE
+10,CRE - Sobradinho,429,ESCOLA CLASSE SANTA HELENA,pública,"73252010",DF,Brasília,Sobradinho                    ,Região dos Lagos (Sobradinho),"Rodovia DF-440 - até km 2,000 - lado esquerdo","KM 5,5 CHA. 13/14 N.R. 01 SOBRADINHO DF"
+3,CRE - Plano Piloto e Cruzeiro,840,CENTRO INTEGRADO DE EDUCACAO FISICA,pública,"70390075",DF,Brasília,Brasília                      ,Asa Sul,SGAS 907/908 ,"1"
+3,CRE - Plano Piloto e Cruzeiro,7,CENTRO DE ENSINO FUNDAMENTAL 03 DE BRASÍLIA,pública,"70342000",DF,Brasília,Brasília                      ,Asa Sul,SQS 103 ,AE
+10,CRE - Sobradinho,422,ESCOLA CLASSE ENGENHO VELHO,pública,"73150100",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),"Rodovia DF-150 - do km 11,000 ao km 18,000",KM 12 AV ENGENHO  VELHO
+3,CRE - Plano Piloto e Cruzeiro,223,JARDIM DE INFÂNCIA 108 SUL,pública,"70347000",DF,Brasília,Brasília                      ,Asa Sul,SQS 108 ,AE
+7,CRE - Guará,780,ASSOCIAÇÃO BENÉFICA CRISTÃ PROMOTORA DO DESENVOLVIMENTO INTEGRAL- PRODEIN,privada,"71300990",DF,Brasília,,,Vila Estrutural - Baixa Estrutural - Entrada do Aterro Sanitário,ÁREA ESPCIAL 22 PARTE 1
+9,CRE - Planaltina,561,Caic Assis Chateaubriand,pública,"73350100",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),Quadra 1 ,Via NS 02-AE 04
+12,CRE - Samambaia,864,Escola Classe 502 de Samambaia,pública,"72310520",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QS 502 ,Qs 502 - s/n CJ09 LT01
+10,CRE - Sobradinho,428,ESCOLA CLASSE RUA DO MATO,pública,"73150100",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),"Rodovia DF-150 - do km 11,000 ao km 18,000",CH 04
+12,CRE - Samambaia,117,CENTRO DE ENSINO FUNDAMENTAL 312 DE SAMAMBAIA,pública,"72308005",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 312 Conjunto 5 ,LOTE 01
+6,CRE - Brazlândia,650,Escola Classe 09 de Brazlândia,pública,"72755000",DF,Brasília,Brazlândia                    ,Vila São José (Brazlândia),Quadra 55 ,"45/55 Aréa especial Vila São José"
+4,CRE - Ceilândia,377,CENTRO DE ENSINO FUNDAMENTAL 30 DE CEILÂNDIA,pública,"72280100",DF,Brasília,Ceilândia                     ,Condomínio Privê Lucena Roriz (Ceilândia),Rua 1 ,ÁREA ESPECIAL FRENTE/MODULO 7 CONDOMINIO PRIVÊ
+4,CRE - Ceilândia,381,CENTRO DE ENSINO MÉDIO 04 DE CEILÂNDIA,pública,"72220140",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNN 14 ,AE
+4,CRE - Ceilândia,348,ESCOLA CLASSE 13 DE CEILÂNDIA,pública,"72210580",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNM 24/26 ,AE
+4,CRE - Ceilândia,351,ESCOLA CLASSE 17 DE CEILÂNDIA,pública,"72250500",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNO 1/3 (Comércio),AE
+4,CRE - Ceilândia,355,ESCOLA CLASSE 21 DE CEILÂNDIA,pública,"72220520",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNN 4/6 ,AE
+4,CRE - Ceilândia,370,ESCOLA CLASSE 50 DE CEILÂNDIA,pública,"72235520",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 24/28 ,AE
+11,CRE - Taguatinga,107,CENTRO DE ENSINO FUNDAMENTAL 12 DE TAGUATINGA,pública,"72130390",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNG 39 ,nº 03
+8,CRE - Núcleo Bandeirante,189,Escola Classe 01 do Riacho Fundo II,pública,"71882168",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,Quadra QC 4 Conjunto 18 ,LOTE 02
+3,CRE - Plano Piloto e Cruzeiro,276,CENTRO EDUCACIONAL GISNO,pública,"70790070",DF,Brasília,Brasília                      ,Asa Norte,SGAN 907 ,MOD A
+10,CRE - Sobradinho,433,CENTRO DE ENSINO MÉDIO 01 DE SOBRADINHO,pública,"73025040",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 4 ,AE 04
+10,CRE - Sobradinho,435,CENTRO EDUCACIONAL 03 DE SOBRADINHO,pública,"73030050",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 5 ,AE 05
+7,CRE - Guará,397,ESCOLA CLASSE 06 DO GUARÁ,pública,"71060245",DF,Brasília,Guará                         ,Guará II,EQ 24/26 ,Area especial A
+3,CRE - Plano Piloto e Cruzeiro,267,ESCOLA CLASSE 410 SUL,pública,"70276000",DF,Brasília,Brasília                      ,Asa Sul,SQS 410 ,AE
+7,CRE - Guará,398,ESCOLA CLASSE 07 DO GUARÁ,pública,"71070040",DF,Brasília,Guará                         ,Guará II,QE 38 Conjunto D ,A/E 12
+3,CRE - Plano Piloto e Cruzeiro,217,JARDIM DE INFÂNCIA 106 NORTE,pública,"70742000",DF,Brasília,Brasília                      ,Asa Norte,SQN 106 ,Área Especial
+15,CRE - São Sebastião,598,ESCOLA CLASSE CERÂMICA DA BENÇÃO,pública,"71691085",DF,Brasília,São Sebastião                 ,Centro (São Sebastião),Rua da Gameleira - até 951 - lado ímpar,Rua da Gameleira n 331 Centro
+4,CRE - Ceilândia,371,ESCOLA CLASSE 52 DE CEILÂNDIA,pública,"72236530",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 32/36 ,AE
+3,CRE - Plano Piloto e Cruzeiro,859,Biblioteca EQS104/304 SUL,pública,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,EQS104/304 SUL
+12,CRE - Samambaia,115,CENTRO DE ENSINO FUNDAMENTAL 411 DE SAMAMBAIA,pública,"72321549",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 411 Área Especial 1 ,SAMAMBAIA NORTE - DF
+9,CRE - Planaltina,713,CENTRO DE EDUCAÇAO INFANTIL 01 DE PLANALTINA,pública,"73380100",DF,Brasília,Planaltina                    ,Setor Residencial Mestre D'Armas (Planaltina),Condomínio Estância Mestre D'Armas I ,I a V Área especial
+8,CRE - Núcleo Bandeirante,776,"2 -  Casa da Mãe Preta do Brasil",privada,"71735201",DF,Brasília,ParkWay                       ,Setor de Mansões Park Way,SMPW Quadra 2 Conjunto 1 ,ÁREA ESPECIAL 3
+3,CRE - Plano Piloto e Cruzeiro,858,Biblioteca Escolar e Comunitária da EQS 108/308 Professora Tatiana Eliza Nogueira,pública,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,SGAS 909 - CONJ 
+4,CRE - Ceilândia,29,CENTRO DE ENSINO FUNDAMENTAL 13 DE CEILÂNDIA,pública,"72236500",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 30/34 ,AE
+7,CRE - Guará,779,CRECHE RENASCER,privada,"71261710",DF,Brasília,SCIA                          ,Setor Leste (Vila Estrutural - Guará),Quadra 6 Conjunto 2 ,lotes 01 a 26
+15,CRE - São Sebastião,620,ESCOLA CLASSE VILA NOVA,pública,"71693032",DF,Brasília,São Sebastião                 ,Vila São José (São Sebastião),Quadra 31 ,Rua 31 n. 200
+10,CRE - Sobradinho,415,ESCOLA CLASSE BASEVI,pública,"73100000",DF,Brasília,Sobradinho                    ,Núcleo Rural Lago Oeste (Sobradinho),Núcleo Rural Lago Oeste ,DF 001 KM 127 CHAPADA DA CONTAGEM
+10,CRE - Sobradinho,418,ESCOLA CLASSE CATINGUEIRO,pública,"73151010",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),Rodovia DF-205 ,OESTE KM 13 CATINGUEIRO
+4,CRE - Ceilândia,386,CENTRO EDUCACIONAL 07 DE CEILÂNDIA,pública,"72225130",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNN 13 ,AE
+10,CRE - Sobradinho,430,ESCOLA CLASSE SÍTIO DAS ARAUCÁRIAS,pública,"73271010",DF,Brasília,Sobradinho                    ,Nova Colina (Sobradinho),"Rodovia DF-440 - do km 17,000 ao km 19,000 - lado direito",NR01 corrego do meio DF 440 vc 257
+10,CRE - Sobradinho,432,ESCOLA CLASSE SONHÉM DE CIMA,pública,"73151010",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),Rodovia DF-205 ,LESTE VC 201 KM 4 ASSENTAMENTO CONTAGEM
+4,CRE - Ceilândia,175,CENTRO DE ENSINO FUNDAMENTAL 35 DE CEILÂNDIA,pública,"72225520",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNN 1/3 (Comércio),AE
+4,CRE - Ceilândia,349,ESCOLA CLASSE 15 DE CEILÂNDIA,pública,"72220540",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNN 8/10 ,AE
+4,CRE - Ceilândia,368,ESCOLA CLASSE 45 DE CEILÂNDIA,pública,"72231520",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 12/16 ,AE
+4,CRE - Ceilândia,375,ESCOLA CLASSE 59 DE CEILÂNDIA,pública,"72220360",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNN 36 ,AE
+4,CRE - Ceilândia,841,ESCOLA PARQUE ANISIO TEIXEIRA,pública,"72215200",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNM 19 Conjunto J ,"1"
+5,CRE - Gama,470,ESCOLA CLASSE 02 DO GAMA,pública,"72425020",DF,Brasília,Gama                          ,Setor Oeste (Gama),Quadra 2 ,E/Q 02/04 Área Especial
+12,CRE - Samambaia,569,ESCOLA CLASSE 325 DE SAMAMBAIA,pública,"72309700",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 325 ,AREA ESPECIAL 01
+5,CRE - Gama,476,ESCOLA CLASSE 10 DO GAMA,pública,"72425107",DF,Brasília,Gama                          ,Setor Oeste (Gama),EQ 10/21 ,Área Especial
+7,CRE - Guará,605,ESCOLA CLASSE 01 DA VILA ESTRUTURAL,pública,"71300000",DF,Brasília,SCIA                          ,Vila Estrutural (Guará),Vila Estrutural ,A/E VILA ESTRUTURAL
+13,CRE - Paranoá,466,CAIC SANTA PAULINA,pública,"71570513",DF,Brasília,Paranoá                       ,Paranoá,Quadra 5 Área Especial s/n ,QD 05 AE S/Nº
+7,CRE - Guará,647,Escola Classe 02 da Estrutural,pública,"71255060",DF,Brasília,SCIA                          ,Setor Central (Vila Estrutural - Guará),Área Especial 6 ,CONJ A 
+13,CRE - Paranoá,555,ESCOLA CLASSE SUSSUARANA,pública,"71570800",DF,Brasília,Paranoá                       ,Paranoá,Quadra 8 ,DF 270 KM 04 - CHÁCARA SÃO FRANCISCO - NÚCLEO RURAL SUSSUARANA
+4,CRE - Ceilândia,797,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA ESTRELA DO CERRADO,pública,"72235800",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNP 28 ,Área Especial 
+10,CRE - Sobradinho,423,ESCOLA CLASSE LOBEIRAL,pública,"73017017",DF,Brasília,Sobradinho                    ,Sobradinho,Sobradinho I ,DF 326 KM 02 SITIO PATRICIA  LOBEIRAL FERCAL
+9,CRE - Planaltina,524,ESCOLA CLASSE 10 DE PLANALTINA,pública,"73340100",DF,Brasília,Planaltina                    ,Jardim Roriz (Planaltina),Quadra 1 ,QD 01 AE
+9,CRE - Planaltina,525,ESCOLA CLASSE 11 DE PLANALTINA,pública,"73340500",DF,Brasília,Planaltina                    ,Jardim Roriz (Planaltina),Quadra 5 ,Q 05 AE 01
+9,CRE - Planaltina,201,ESCOLA CLASSE 14 DE PLANALTINA,pública,"73355300",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),Quadra 13 ,Q 13 Conj A lote 01
+5,CRE - Gama,45,CENTRO DE ENSINO FUNDAMENTAL 05 DO GAMA,pública,"72420265",DF,Brasília,Gama                          ,Setor Oeste (Gama),EQ 26/29 ,area especial
+6,CRE - Brazlândia,515,CENTRO INTERESCOLAR DE LÍNGUAS DE BRAZLÂNDIA,pública,"72720660",DF,Brasília,Brazlândia                    ,Setor Tradicional (Brazlândia),Área Especial 6 ,a
+15,CRE - São Sebastião,573,CAIC UNESCO,pública,"71691047",DF,Brasília,São Sebastião                 ,Centro (São Sebastião),Rua do CAIC ,conj A area especial
+12,CRE - Samambaia,783,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA IPÊ ROSA,pública,"72312206",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 508 Conjunto 6 ,LOTE 01
+11,CRE - Taguatinga,108,CENTRO DE ENSINO FUNDAMENTAL 14 DE TAGUATINGA,pública,"72115150",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNB 15 ,Area Especial 02
+9,CRE - Planaltina,639,ESCOLA CLASSE 16 DE PLANALTINA,pública,"73380750",DF,Brasília,Planaltina                    ,Setor Residencial Mestre D'Armas (Planaltina),Condomínio Residencial Nova Planaltina ,Res Nova Plan QD 01 Rua A AE Educ
+9,CRE - Planaltina,637,ESCOLA CLASSE 01 DO ARAPOANGA,pública,"73370100",DF,Brasília,Planaltina                    ,Arapoanga (Planaltina),Condomínio Arapoanga ,EQ 16 Conj I AE
+15,CRE - São Sebastião,580,ESCOLA CLASSE 104 DE SÃO SEBASTIÃO,pública,"71692300",DF,Brasília,São Sebastião                 ,Setor Residencial Oeste (São Sebastião),Quadra 104 ,AREA ESPECIAL 01
+4,CRE - Ceilândia,356,ESCOLA CLASSE 22 DE CEILÂNDIA,pública,"72220530",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNN 6/8 ,AE
+6,CRE - Brazlândia,513,Centro Educacional 02 de Brazlândia,pública,"72705030",DF,Brasília,Brazlândia                    ,Setor Norte (Brazlândia),Quadra 3 ,ÁREA ESPECIAL
+12,CRE - Samambaia,785,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA ONÇA PINTADA,pública,"72305704",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 309 Conjunto 4 ,lote 01
+7,CRE - Guará,394,Escola Classe 02 do Guará,pública,"71010003",DF,Brasília,Guará                         ,Guará I,QE 2 ,BL A 
+6,CRE - Brazlândia,503,Escola Classe 06 DE Brazlandia,pública,"72738000",DF,Brasília,Brazlândia                    ,Vila São José (Brazlândia),Quadra 38 ,ÁREA ESPECIAL 01
+6,CRE - Brazlândia,508,Escola Classe Chapadinha,pública,"72710990",DF,Brasília,,,"Chapadinha e Circunvizinhas - Rodovia DF-435 km 6,5",.
+16,CRE - Recanto das Emas,589,ESCOLA CLASSE 102 DO RECANTO DAS EMAS,pública,"72600203",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 102 Conjunto 3 ,Conjunto 3A Lt 01
+14,CRE - Santa Maria,133,CENTRO DE ENSINO FUNDAMENTAL 201 DE SANTA MARIA,pública,"72501401",DF,Brasília,Santa Maria                   ,Santa Maria,QR 201 Conjunto A ,LOTE 1A
+10,CRE - Sobradinho,420,ESCOLA CLASSE CÓRREGO DO ARROZAL,pública,"73007995",DF,Brasília,,,Córrego do Arrozal - Rodovia BR-020 km 13 (entrada após o Bar do Mocotó),BR 020 KM 13/14 S/N
+3,CRE - Plano Piloto e Cruzeiro,271,CENTRO DE ENSINO MÉDIO SETOR LESTE,pública,"70200715",DF,Brasília,Brasília                      ,Asa Sul,SGAS 611/612 ,CONJ E S/N
+10,CRE - Sobradinho,93,CENTRO DE ENSINO FUNDAMENTAL 05 DE SOBRADINHO,pública,"73005100",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 10 ,RUA 04 AE 04/05.
+7,CRE - Guará,402,CENTRO EDUCACIONAL 03 DO GUARÁ,pública,"71050175",DF,Brasília,Guará                         ,Guará II,EQ 17/19 ,area especial
+3,CRE - Plano Piloto e Cruzeiro,13,CENTRO DE ENSINO FUNDAMENTAL 104 NORTE,pública,"70733000",DF,Brasília,Brasília                      ,Asa Norte,SQN 104 ,Área Especial
+12,CRE - Samambaia,118,Centro Educacional 619 de Samambaia,pública,"72333100",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QR 619 ,SAMAMBAIA DF
+9,CRE - Planaltina,517,JARDIM DE INFÂNCIA CASA DA VIVÊNCIA,pública,"73350100",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),Quadra 1 ,Avenida NS 01 AE 09
+15,CRE - São Sebastião,667,CENTRO DE EDUCAÇÃO INFANTIL 03 DE SÃO SEBASTIÃO,pública,"71692510",DF,Brasília,São Sebastião                 ,Setor Residencial Oeste (São Sebastião),Quadra 202 Conjunto 4 ,LOTE 01
+3,CRE - Plano Piloto e Cruzeiro,607,CENTRO DE ENSINO FUNDAMENTAL 07 DE BRASÍLIA,pública,"70790120",DF,Brasília,Brasília                      ,Asa Norte,SGAN 912 ,MOD A/B
+3,CRE - Plano Piloto e Cruzeiro,279,CENTRO DE EDUCAÇÃO DE JOVENS E ADULTOS DA ASA SUL - CESAS,pública,"70200620",DF,Brasília,Brasília                      ,Asa Sul,SGAS 602 ,s
+3,CRE - Plano Piloto e Cruzeiro,673,CENTRO INTERESCOLAR DE LÍNGUAS 02 DE BRASÍLIA,pública,"70200710",DF,Brasília,Brasília                      ,Asa Sul,SGAS 611 ,a
+3,CRE - Plano Piloto e Cruzeiro,260,ESCOLA CLASSE 206 SUL,pública,"70252000",DF,Brasília,Brasília                      ,Asa Sul,SQS 206 ,AE
+3,CRE - Plano Piloto e Cruzeiro,214,JARDIM DE INFÂNCIA 21 DE ABRIL,pública,"70390088",DF,Brasília,Brasília                      ,Asa Sul,SEPS 708/908 ,AE
+10,CRE - Sobradinho,91,CENTRO DE ENSINO FUNDAMENTAL 03 DE SOBRADINHO,pública,"73025060",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 6 ,AE 2
+15,CRE - São Sebastião,596,ESCOLA CLASSE AGUILHADA,pública,"71693994",DF,Brasília,,,Associação dos Produtores Rurais da Colônia Agrícola Aguilhada - Rodovia BR-251 - Km 69,BR 251 KM 35 NUCLEO RURAL AGUILHADA Nº 250
+12,CRE - Samambaia,804,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA PAINEIRA,pública,"72315200",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 517 ,qd 01
+12,CRE - Samambaia,584,Centro de Ensino Médio 304 de Samambaia,pública,"72306004",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 304 Conjunto 4 ,LOTE 01
+15,CRE - São Sebastião,595,ESCOLA CLASSE AGROVILA SÃO SEBASTIÃO,pública,"71693107",DF,Brasília,São Sebastião                 ,Vila Nova (São Sebastião),Quadra 100 ,QUADRA 100 CONJ Q ÁREA ESPECIAL 01
+15,CRE - São Sebastião,612,ESCOLA CLASSE 303 DE SÃO SEBASTIÃO,pública,"71692805",DF,Brasília,São Sebastião                 ,Setor Residencial Oeste (São Sebastião),Quadra 303 Conjunto 1 ,lote 04
+13,CRE - Paranoá,606,Centro de Ensino Fundamental 03 do Paranoá,pública,"71572608",DF,Brasília,Paranoá                       ,Paranoá,Quadra 26 Área Especial s/n ,CJ G LT 01
+4,CRE - Ceilândia,378,ESCOLA CLASSE DO SETOR P NORTE,pública,"72215000",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),Área Especial 1 ,EQNP RUA DA CASCALHEIRA
+9,CRE - Planaltina,89,CENTRO DE ENSINO ESPECIAL 01 DE PLANALTINA,pública,"73310100",DF,Brasília,Planaltina                    ,Setor Administrativo (Planaltina),Setor Administrativo ,s
+13,CRE - Paranoá,458,ESCOLA CLASSE 01 DO PARANOÁ,pública,"71572608",DF,Brasília,Paranoá                       ,Paranoá,Quadra 26 Área Especial s/n ,QD 26 CJ G AE 01
+9,CRE - Planaltina,85,CENTRO DE ENSINO FUNDAMENTAL RIO PRETO,pública,"73390200",DF,Brasília,Planaltina                    ,Planaltina,Núcleo Rural Rio Preto ,DF 320 KM 10 SEDE
+9,CRE - Planaltina,81,CENTRO DE ENSINO FUNDAMENTAL ARAPOANGA,pública,"73370100",DF,Brasília,Planaltina                    ,Arapoanga (Planaltina),Condomínio Arapoanga ,Área Central - Rua 08 I
+15,CRE - São Sebastião,140,CENTRO DE ENSINO FUNDAMENTAL NOVA BETÂNIA,pública,"71693990",DF,Brasília,,,Nova Betânia - Rodovia BR_251 Km 56,Rodovia BR_ Brasília/ Unai
+15,CRE - São Sebastião,619,ESCOLA CLASSE BELA VISTA,pública,"71694102",DF,Brasília,São Sebastião                 ,Bela Vista (São Sebastião),Bela Vista Rua 1 ,nº 221
+16,CRE - Recanto das Emas,633,CENTRO DE ENSINO FUNDAMENTAL 113 DO RECANTO DAS EMAS,pública,"72603109",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 113 Conjunto 8-A ,Lt 01 AE ( H 01 )
+10,CRE - Sobradinho,648,CENTRO DE EDUCAÇÃO INFANTIL 04 DE SOBRADINHO,pública,"73025040",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 4 ,AE 04
+11,CRE - Taguatinga,289,CENTRO DE EDUCAÇÃO INFANTIL 01 DE TAGUATINGA,pública,"72025140",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSE 14 ,Área especial Vila Dimas
+3,CRE - Plano Piloto e Cruzeiro,254,ESCOLA CLASSE 708 NORTE,pública,"70740730",DF,Brasília,Brasília                      ,Asa Norte,SHCGN 707 ,SHCGN 707/708 AE
+7,CRE - Guará,392,JARDIM DE INFÂNCIA LÚCIO COSTA,pública,"71100017",DF,Brasília,Guará                         ,Quadras Econômicas Lúcio Costa (Guará),EPTG QE 1 Bloco B-2 ,QELC 01
+3,CRE - Plano Piloto e Cruzeiro,5,CENTRO DE ENSINO FUNDAMENTAL 01 DO PLANALTO,pública,"70804260",DF,Brasília,Brasília                      ,Vila Planalto,Área da Fazendinha (Acamp Pacheco Fernandes),AE S/N
+7,CRE - Guará,63,CEF 11 DO GUARÁ,pública,"73100300",DF,Brasília,Sobradinho                    ,Núcleo Rural Lago Oeste (Sobradinho),Rua 10 ,
+9,CRE - Planaltina,666,Escola Classe 15 de Planaltina,pública,"73380150",DF,Brasília,Planaltina                    ,Setor Residencial Mestre D'Armas (Planaltina),Rodovia DF-128 ,Via de Ligação BR 020 DF126 CdNova Pla  
+3,CRE - Plano Piloto e Cruzeiro,278,CENTRO EDUCACIONAL DO LAGO NORTE,pública,"71503502",DF,Brasília,Lago Norte                    ,Setor de Habitações Individuais Norte,CA 2 (Centro de Atividades),LOTE 24
+9,CRE - Planaltina,86,CENTRO DE ENSINO FUNDAMENTAL SÃO JOSÉ,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,DF-250 S/N
+10,CRE - Sobradinho,187,ESCOLA CLASSE BOA VISTA,pública,"73151010",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),Rodovia DF-205 ,OESTE KM 6
+16,CRE - Recanto das Emas,645,CENTRO DE EDUCAÇÃO INFANTIL 310 DO RECANTO DAS EMAS,pública,"72622309",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 310 Conjunto 7-A ,Lote 1
+10,CRE - Sobradinho,774,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA FLOR DE LIS,pública,"73062100",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 10 ,CONJUNTO 06 LOTE 01
+4,CRE - Ceilândia,644,CENTRO DE ENSINO FUNDAMENTAL 27 DE CEILÂNDIA,pública,"72275126",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNR 1 Área Especial 3 ,ÁREA ESPECIAL
+16,CRE - Recanto das Emas,593,CENTRO DE ENSINO MÉDIO 111 DO RECANTO DAS EMAS,pública,"72602314",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 111 Área Especial 1 ,Lote 01
+5,CRE - Gama,468,Centro de Educação Infantil 01 do Gama,pública,"72410520",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 9 Área Especial CEI 01 ,SETOR SUL GAMA
+3,CRE - Plano Piloto e Cruzeiro,246,ESCOLA CLASSE 302 NORTE,pública,"70723000",DF,Brasília,Brasília                      ,Asa Norte,SQN 302 ,AE
+15,CRE - São Sebastião,212,CENTRO DE ENSINO FUNDAMENTAL JATAÍ,pública,"71617990",DF,Brasília,,,Barreiro - Rodovia DF- 140 km 11,RODOVIA DIOGO MACHADO
+16,CRE - Recanto das Emas,656,ESCOLA CLASSE VILA BURITIS,pública,"72669329",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Condomínio Residencial Buritis Área Especial 2 ,Área Especial 2
+7,CRE - Guará,675,CENTRO DE EDUCAÇÃO INFANTIL 01 DA ESTRUTURAL,pública,"71258230",DF,Brasília,SCIA                          ,Setor Norte (Vila Estrutural - Guará),Quadra 3 Área Especial 1 ,AREA ESPECIAL
+8,CRE - Núcleo Bandeirante,448,Escola Classe 04 do Núcleo Bandeirante,pública,"71715058",DF,Brasília,Núcleo Bandeirante            ,Núcleo Bandeirante,Segunda Avenida Entre Bloco 440/540 ,.
+5,CRE - Gama,668,CENTRO INTERESCOLAR DE LÍNGUAS DO GAMA,pública,"72405060",DF,Brasília,Gama                          ,Setor Central (Gama),Quadra 6 ,a
+7,CRE - Guará,669,CENTRO INTERESCOLAR DE LÍNGUAS DO GUARÁ,pública,"71020007",DF,Brasília,Guará                         ,Guará I,QE 7 ,A/E Q
+9,CRE - Planaltina,80,CENTRO EDUCACIONAL CONDOMÍNIO ESTÂNCIA III,pública,"73380300",DF,Brasília,Planaltina                    ,Setor Residencial Mestre D'Armas (Planaltina),Condomínio Estância Mestre D'Armas III ,Módulo 01 Rua 01 Cond A16 Estancia III
+9,CRE - Planaltina,526,ESCOLA CLASSE ALTA - MIR,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,"DF-128 - KM-8,5 - BICA DO DER"
+9,CRE - Planaltina,547,ESCOLA CLASSE PALMEIRAS,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,BR-020 - DF-205 - KM 15
+9,CRE - Planaltina,549,ESCOLA CLASSE PEDRA FUNDAMENTAL,pública,"73377010",DF,Brasília,Planaltina                    ,Planaltina,"Rodovia DF-230 - até km 0,010",BR 020 - DF 230 - CH 15 - LARGA DA PEDRA
+9,CRE - Planaltina,551,ESCOLA CLASSE REINO DAS FLORES,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,CH SINHA CRISTINA - FAZ MESTRE D ARMAS
+9,CRE - Planaltina,613,ESCOLA CLASSE VALE VERDE,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,"QUINTAS DO VALE VERDE - KM 6,5 - CH 133"
+9,CRE - Planaltina,202,ESCOLA CLASSE ESTÂNCIA DE PLANALTINA,pública,"73380050",DF,Brasília,Planaltina                    ,Setor Residencial Mestre D'Armas (Planaltina),Condomínio Estância Planaltina ,Estância Planaltina Lotes 64 a 67 e 75
+9,CRE - Planaltina,553,ESCOLA CLASSE SANTOS DUMONT,pública,"73365429",DF,Brasília,Planaltina                    ,Planaltina,Rodovia DF-130 ,DF-130 - KM-28
+10,CRE - Sobradinho,674,CENTRO INTERESCOLAR DE LÍNGUAS DE SOBRADINHO,pública,"73040110",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 11 ,a
+10,CRE - Sobradinho,649,ESCOLA CLASSE 16 DE SOBRADINHO,pública,"73270010",DF,Brasília,Sobradinho                    ,Nova Colina (Sobradinho),"Rodovia BR-020 - do km 11,001 ao km 12,000 - lado direito",COND. NOVO SETOR DE MANSÕES NOVA COLINA
+12,CRE - Samambaia,805,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA ANDORINHA,pública,"72339135",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 827 ,conj 1
+5,CRE - Gama,623,Centro de Ensino Médio Integrado à Educação Profissional do Gama - CEMI,pública,"72425125",DF,Brasília,Gama                          ,Setor Oeste (Gama),EQ 12/16 ,a
+6,CRE - Brazlândia,21,Centro Educacional Irmã Maria Regina Velanes Regis,pública,"72770100",DF,Brasília,Brazlândia                    ,Brazlândia,Rodovia DF-001 ,EPTC 430 RODEADOR 
+14,CRE - Santa Maria,845,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA ARARAÚNA,pública,"72542507",DF,Brasília,Santa Maria                   ,Santa Maria,QR 312 Conjunto G ,asasdsf
+16,CRE - Recanto das Emas,761,FENAÇÕES INTEGRAÇÃO SOCIAL - RECANTO FELIZ,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,"2"
+11,CRE - Taguatinga,306,CENTRO DE EDUCAÇÃO INFANTIL 02 DE TAGUATINGA,pública,"72120590",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QND 59 ,Área especial 37
+12,CRE - Samambaia,124,CENTRO DE ENSINO ESPECIAL 01 DE SAMAMBAIA,pública,"72341010",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),EQ 201/401 ,lkllklk
+8,CRE - Núcleo Bandeirante,449,Escola Classe 05 do Núcleo Bandeirante,pública,"71715062",DF,Brasília,Núcleo Bandeirante            ,Núcleo Bandeirante,Segunda Avenida Entre Bloco 1400/1500 ,.
+3,CRE - Plano Piloto e Cruzeiro,258,ESCOLA CLASSE 114 SUL,pública,"70377000",DF,Brasília,Brasília                      ,Asa Sul,SQS 114 ,AE
+13,CRE - Paranoá,653,ESCOLA CLASSE 02 DO ITAPOÃ,pública,"71593631",DF,Brasília,Itapoã                        ,Del Lago II (Itapoã),Quadra 378 Conjunto L ,AE 03
+8,CRE - Núcleo Bandeirante,190,Escola Classe 01 da Candangolândia,pública,"71725510",DF,Brasília,Candangolândia                ,Candangolândia,EQR 5/7 ,.
+11,CRE - Taguatinga,168,ESCOLA CLASSE 46 DE TAGUATINGA,pública,"72152505",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNL 21/23 Área Especial s/n ,area especial 01
+4,CRE - Ceilândia,353,Escola Classe 19 de Ceilândia,pública,"72215550",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNM 7/9 ,AE
+4,CRE - Ceilândia,796,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA IPÊ BRANCO,pública,"72225130",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNN 13 ,Área Especial 
+3,CRE - Plano Piloto e Cruzeiro,231,ESCOLA CLASSE 01 SHI - SUL,pública,"71600500",DF,Brasília,Lago Sul                      ,Setor de Habitações Individuais Sul,SHIS QI 5 ,AE
+15,CRE - São Sebastião,665,ESCOLA CLASSE DOM BOSCO,pública,"71691047",DF,Brasília,São Sebastião                 ,Centro (São Sebastião),Rua do CAIC ,AV. COMERCIAL QD 05 AREA ESPECIAL
+7,CRE - Guará,64,CENTRO DE ENSINO FUNDAMENTAL 02 DO GUARÁ,pública,"71020007",DF,Brasília,Guará                         ,Guará I,QE 7 ,Área Especial
+7,CRE - Guará,807,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA LOBO - GUARÁ,pública,"71100000",DF,Brasília,Guará                         ,Quadras Econômicas Lúcio Costa (Guará),EPTG QE 1 ,conjunto 01
+8,CRE - Núcleo Bandeirante,443,Escola Classe 02 da Candangolândia,pública,"71725250",DF,Brasília,Candangolândia                ,Candangolândia,EQR 2/4 ,EQR2/3
+16,CRE - Recanto das Emas,622,ESCOLA CLASSE 803 DO RECANTO DAS EMAS,pública,"72650400",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 803 ,LT 01 - AE
+9,CRE - Planaltina,528,ESCOLA CLASSE BARRA ALTA,pública,"73390100",DF,Brasília,Planaltina                    ,Planaltina,Núcleo Rural Tabatinga ,DF 260 CH 210
+6,CRE - Brazlândia,18,Centro de Ensino Fundamental 02 de Brazlândia,pública,"72710120",DF,Brasília,Brazlândia                    ,Setor Norte (Brazlândia),Quadra 12 ,especial 05 
+9,CRE - Planaltina,539,ESCOLA CLASSE ETA 44,pública,"73380990",DF,Brasília,,,Núcleo Rural Sarandy - Rodovia BR-020 km 18 Entrada da Embrapa CPAC Planaltina,BR 020 KM 18 EMBRAPA
+9,CRE - Planaltina,557,ESCOLA CLASSE VALE DO SOL,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,COND VALE DO SOL - AE - LTS 01 A 06
+4,CRE - Ceilândia,341,ESCOLA CLASSE 01 DE CEILÂNDIA,pública,"72215590",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNM 23/25 ,AE
+4,CRE - Ceilândia,346,ESCOLA CLASSE 11 DE CEILÂNDIA,pública,"72210530",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNM 6/8 ,AE
+4,CRE - Ceilândia,180,ESCOLA CLASSE 43 DE CEILÂNDIA,pública,"72231540",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 14/18 ,Área ESpecial
+9,CRE - Planaltina,546,ESCOLA CLASSE NÚCLEO RURAL CÓRREGO DO ATOLEIRO,pública,"73377003",DF,Brasília,Planaltina                    ,Planaltina,DF-345 ,DF-345 - KM 18 Núcleo Rural Córrego do Atoleiro
+14,CRE - Santa Maria,664,ESCOLA CLASSE 01 DO PORTO RICO,pública,"72504003",DF,Brasília,Santa Maria                   ,Santa Maria,Condomínio Porto Rico ,lote 01
+10,CRE - Sobradinho,97,CENTRO DE ENSINO FUNDAMENTAL QUEIMA LENÇOL,pública,"73062301",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 13 Conjunto 1 ,AE 03
+6,CRE - Brazlândia,715,Congregação das Irmãs Oblatas do Menino Jesus,privada,"72705620",DF,Brasília,Brazlândia                    ,Setor Norte (Brazlândia),Área Especial 2 ,QUADRA 10
+3,CRE - Plano Piloto e Cruzeiro,283,Escola Normal de Brasília                                   ,pública,,,,,,,
+13,CRE - Paranoá,463,ESCOLA CLASSE ALTO INTERLAGOS,pública,"71617991",DF,Brasília,,,Altiplano Leste - Rodovia DF- 463,CHACARA INTERLAGOS 10 - A
+8,CRE - Núcleo Bandeirante,778,"6 - Luiz Hermani_Lar das Crianças Luiz Hermani",privada,"71825400",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,QS 14 ,LOTE F
+12,CRE - Samambaia,604,ESCOLA CLASSE 604 DE SAMAMBAIA,pública,"72322626",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 604 Área Especial 1 ,SAMAMBAIA
+10,CRE - Sobradinho,406,CENTRO DE EDUCAÇÃO INFANTIL 02 DE SOBRADINHO,pública,"73030030",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 3 ,AE S/N
+9,CRE - Planaltina,200,ESCOLA CLASSE 13 DE PLANALTINA,pública,"73340700",DF,Brasília,Planaltina                    ,Jardim Roriz (Planaltina),Quadra 7 ,AE 01
+11,CRE - Taguatinga,627,Centro de Educação Profissional Escola Técnica de Brasília - CEP-ETB,pública,"72150000",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNL AE ,QWQSSV
+10,CRE - Sobradinho,412,ESCOLA CLASSE 12 DE SOBRADINHO,pública,"73020112",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 1 Conjunto B-1 ,SETOR INDUSTRIAL
+3,CRE - Plano Piloto e Cruzeiro,672,CENTRO INTERESCOLAR DE LÍNGUAS 01 DE BRASÍLIA,pública,"70390075",DF,Brasília,Brasília                      ,Asa Sul,SGAS 907/908 ,a
+3,CRE - Plano Piloto e Cruzeiro,600,PROEM - ESCOLA DO PARQUE DA CIDADE,pública,"70390090",DF,Brasília,Brasília                      ,Asa Sul,SGAS 909 ,CONJ A FUNDOS
+9,CRE - Planaltina,624,CEP- ESCOLA TECNICA DE SAÚDE DE PLANALTINA -ETSP,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,a
+4,CRE - Ceilândia,195,Centro Educacional Incra 09,pública,"72701991",DF,Brasília,,,"INCRA 09 (Alexandre Gusmão) - Rodovia BR-070, km 17 - Salão Comunitário (St de Chácaras A.Gusmão)",NRA GUSMÃO BR- 070 KM 16 GL.3
+6,CRE - Brazlândia,710,Centro de Educação Infantil 02 de Brazlândia,pública,"72745000",DF,Brasília,Brazlândia                    ,Vila São José (Brazlândia),Quadra 45 ,Area Especial nº 02 vila são José
+3,CRE - Plano Piloto e Cruzeiro,266,ESCOLA CLASSE 316 SUL,pública,"70387000",DF,Brasília,Brasília                      ,Asa Sul,SQS 316 ,AE
+4,CRE - Ceilândia,344,ESCOLA CLASSE 08 DE CEILÂNDIA,pública,"72225540",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNN 5/7 ,AE
+4,CRE - Ceilândia,357,ESCOLA CLASSE 24 DE CEILÂNDIA,pública,"72220560",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNN 20/22 ,AE
+11,CRE - Taguatinga,671,CENTRO INTERESCOLAR DE LÍNGUAS DE TAGUATINGA,pública,"72015520",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSB 2 ,a
+3,CRE - Plano Piloto e Cruzeiro,268,ESCOLA CLASSE 416 SUL,pública,"70299000",DF,Brasília,Brasília                      ,Asa Sul,SQS 416 ,AE
+3,CRE - Plano Piloto e Cruzeiro,228,JARDIM DE INFÂNCIA 308 SUL,pública,"70355000",DF,Brasília,Brasília                      ,Asa Sul,SQS 308 ,AE
+4,CRE - Ceilândia,32,CENTRO DE ENSINO FUNDAMENTAL 16 DE CEILÂNDIA,pública,"72210570",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNM 22/24 ,AE
+4,CRE - Ceilândia,670,CENTRO INTERESCOLAR DE LÍNGUAS DE CEILÂNDIA,pública,"72215130",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNM 13 ,a
+4,CRE - Ceilândia,364,ESCOLA CLASSE 33 DE CEILÂNDIA,pública,"72255520",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNO 13/15 ,AE
+5,CRE - Gama,491,ESCOLA CLASSE PONTE ALTA DE CIMA,pública,"72426000",DF,Brasília,Gama                          ,Setor Oeste (Gama),Núcleo Rural Ponte Alta de Cima ,DF 290 km 14 FAZENDA PAC
+3,CRE - Plano Piloto e Cruzeiro,229,JARDIM DE INFÂNCIA 314 SUL,pública,"70383000",DF,Brasília,Brasília                      ,Asa Sul,SQS 314 ,AE
+3,CRE - Plano Piloto e Cruzeiro,844,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA JACARANDÁ,pública,,,,,,,ASASASA
+16,CRE - Recanto das Emas,144,CENTRO DE ENSINO FUNDAMENTAL 115 DO RECANTO DAS EMAS,pública,"72600101",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 101 Conjunto 1 ,sdsd
+7,CRE - Guará,395,ESCOLA CLASSE 03 DO GUARÁ,pública,"71020007",DF,Brasília,Guará                         ,Guará I,QE 7 ,Área Especial
+7,CRE - Guará,396,ESCOLA CLASSE 05 DO GUARÁ,pública,"71015205",DF,Brasília,Guará                         ,Guará I,QE 20 ,LT B
+15,CRE - São Sebastião,567,CENTRO DE ENSINO MÉDIO 01 DE SÃO SEBASTIÃO,pública,"71692690",DF,Brasília,São Sebastião                 ,Setor Residencial Oeste (São Sebastião),Quadra 203 Área Especial s/n ,residencial oeste
+10,CRE - Sobradinho,408,ESCOLA CLASSE 05 DE SOBRADINHO,pública,"73035090",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 9 ,AE 05
+4,CRE - Ceilândia,179,ESCOLA CLASSE 40 DE CEILÂNDIA,pública,"72241100",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNP 11 ,AE
+4,CRE - Ceilândia,361,ESCOLA CLASSE 28 DE CEILÂNDIA,pública,"72225560",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNN 17/19 ,AE
+4,CRE - Ceilândia,374,ESCOLA CLASSE 57 DE CEILÂNDIA,pública,"72231400",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNP 14 ,AE
+11,CRE - Taguatinga,105,CENTRO DE ENSINO FUNDAMENTAL 10 DE TAGUATINGA,pública,"72025050",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSE 5 ,Area esp.01
+10,CRE - Sobradinho,98,CENTRO EDUCACIONAL PROFESSOR CARLOS RAMOS MOTA,pública,"73100000",DF,Brasília,Sobradinho                    ,Núcleo Rural Lago Oeste (Sobradinho),Núcleo Rural Lago Oeste ,DF 001 km 13
+11,CRE - Taguatinga,300,ESCOLA CLASSE 18 DE TAGUATINGA,pública,"72120120",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QND 12 ,area esp.
+4,CRE - Ceilândia,659,CENTRO DE ENSINO FUNDAMENTAL 28 DE CEILÂNDIA,pública,"72242000",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNP 21 ,AE
+3,CRE - Plano Piloto e Cruzeiro,12,CENTRO DE ENSINO FUNDAMENTAL 06 DE BRASÍLIA,pública,"71635600",DF,Brasília,Lago Sul                      ,Setor de Habitações Individuais Sul,SHIS QI 15 Área Especial s/n ,AE
+11,CRE - Taguatinga,167,ESCOLA CLASSE 45 DE TAGUATINGA,pública,"72146507",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNM 40/42 Área Especial s/n ,ÁREA ESPECIAL S/N
+11,CRE - Taguatinga,307,ESCOLA CLASSE 39 DE TAGUATINGA,pública,"72115650",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNC 15 ,Área Especial 15/17
+4,CRE - Ceilândia,718,COMUNIDADE EVANGÉLICA CONF LUTERANA GIRASSOL,privada,"72210300",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNM 30 ,a
+4,CRE - Ceilândia,354,ESCOLA CLASSE 20 DE CEILÂNDIA,pública,"72220510",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNN 2/4 ,AE
+14,CRE - Santa Maria,173,ESCOLA CLASSE 100 DE SANTA MARIA,pública,"72500429",DF,Brasília,Santa Maria                   ,Santa Maria,QR 100 Conjunto T-1 ,LOTE 01
+4,CRE - Ceilândia,724,CENTRO COMUNITÁRIO DA CRIANÇA - CEL 1,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,a
+3,CRE - Plano Piloto e Cruzeiro,240,ESCOLA CLASSE 06 DO CRUZEIRO,pública,"70655870",DF,Brasília,Cruzeiro                      ,Cruzeiro Novo,SHCES Quadra 807 ,AE
+6,CRE - Brazlândia,512,Centro de Ensino Médio 01 de Brazlândia,pública,"72715620",DF,Brasília,Brazlândia                    ,Setor Sul (Brazlândia),Área Especial 2 ,.
+16,CRE - Recanto das Emas,590,ESCOLA CLASSE 401 DO RECANTO DAS EMAS,pública,"72630108",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 401 Conjunto 8 ,Lt 01 - AE
+14,CRE - Santa Maria,339,CAIC ALBERT SABIN,pública,"72504305",DF,Brasília,Santa Maria                   ,Santa Maria,EQ 304/307 Módulo E ,Lote E
+10,CRE - Sobradinho,427,ESCOLA CLASSE RIBEIRÃO,pública,"73151010",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),Rodovia DF-205 ,DF 205 OESTE KM 18 FAZ RIBEIRÃO
+12,CRE - Samambaia,712,CENTRO DE EDUCAÇÃO INFANTIL 210 DE SAMAMBAIA,pública,"72316528",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 210 Área Especial 1 ,a
+3,CRE - Plano Piloto e Cruzeiro,238,ESCOLA CLASSE 04 DO CRUZEIRO,pública,"70650470",DF,Brasília,Cruzeiro                      ,Cruzeiro Novo,SHCES Quadra 407 ,AE
+7,CRE - Guará,62,Centro de Ensino Fundamental 10 do Guará,pública,"71070460",DF,Brasília,Guará                         ,Guará II,QE 46 ,Área Especial 05
+4,CRE - Ceilândia,725,CENTRO COMUNITÁRIO DA CRIANÇA - CEL 2,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,a
+12,CRE - Samambaia,577,ESCOLA CLASSE 431 DE SAMAMBAIA,pública,"72329550",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 431 ,área especial 01
+4,CRE - Ceilândia,31,CENTRO EDUCACIONAL 14 DE CEILÂNDIA,pública,"72255510",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNO 11/13 ,AE
+8,CRE - Núcleo Bandeirante,70,Centro Educacional 02 do Riacho Fundo,pública,"71805740",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,QN 7 Área Especial 12 ,AE 1/2
+8,CRE - Núcleo Bandeirante,451,Escola Classe Ipê,pública,"71740820",DF,Brasília,ParkWay                       ,Setor de Mansões Park Way,SMPW Quadra 8 Área Especial Escola Classe Ipê,GRANJA IPÊ
+4,CRE - Ceilândia,391,Centro de Atenção Integral a Criança Professor Anísio Teixeira,pública,"72255000",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 10 ,AE
+11,CRE - Taguatinga,303,CENTRO DE EDUCAÇÃO INFANTIL 05 DE TAGUATINGA,pública,"72140230",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNJ 23 ,area esp 09
+13,CRE - Paranoá,530,Escola Classe Café sem Troco,pública,"71570990",DF,Brasília,,,Quebrada dos Neres e Quebrada dos Guimarães - Rodovia DF-130 Km 31 Escola Classe Café sem Troco,DF 130 KM 33 - 32
+11,CRE - Taguatinga,290,ESCOLA CLASSE 01 DE TAGUATINGA,pública,"72016010",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSC 1 ,AE 01
+11,CRE - Taguatinga,102,Centro de Ensino Fundamental 05 de Taguatinga,pública,"72025220",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSE 22 ,Area especial 09/10
+5,CRE - Gama,492,CENTRO DE ENSINO MÉDIO 01 DO GAMA,pública,"72460185",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 18/19 ,Praça 02
+11,CRE - Taguatinga,314,ESCOLA CLASSE 53 DE TAGUATINGA,pública,"72160600",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNL 16 ,via 02 lote 01
+14,CRE - Santa Maria,773,CENTRO DE EDUCAÇÃO INFANTIL 203 DE SANTA MARIA,pública,"72503221",DF,Brasília,Santa Maria                   ,Santa Maria,CL 203 Bloco A ,LOTE 1-A
+13,CRE - Paranoá,541,ESCOLA CLASSE ITAPETI,pública,"71570990",DF,Brasília,,,Quebrada dos Neres e Quebrada dos Guimarães - Rodovia DF-130 Km 31 Escola Classe Café sem Troco,BR 251 DF 100
+13,CRE - Paranoá,531,ESCOLA CLASSE CAPÃO SECO,pública,"71570050",DF,Brasília,Paranoá                       ,Paranoá,Praça Central ,BR 251 KM 13 DF 270 KM 28
+13,CRE - Paranoá,464,ESCOLA CLASSE QUEBRADA DOS NÉRIS,pública,"71570990",DF,Brasília,,,Quebrada dos Neres e Quebrada dos Guimarães - Rodovia DF-130 Km 31 Escola Classe Café sem Troco,PARANOA - BR 251 KM 23
+13,CRE - Paranoá,459,ESCOLA CLASSE 02 DO PARANOÁ,pública,"71573025",DF,Brasília,Paranoá                       ,Paranoá,Quadra 30 Conjunto E ,LT 17
+9,CRE - Planaltina,75,CENTRO DE ENSINO FUNDAMENTAL 02 DE PLANALTINA,pública,"73330010",DF,Brasília,Planaltina                    ,Setor Tradicional (Planaltina),"Avenida São Paulo (Quadras 49,50,51,52,63 e 64)",Quadra: 52-Lotes 02/06
+9,CRE - Planaltina,534,ESCOLA CLASSE COPERBRÁS,pública,"73390100",DF,Brasília,Planaltina                    ,Planaltina,Núcleo Rural Tabatinga ,DF-250/355 - CH 172
+16,CRE - Recanto das Emas,145,CENTRO DE ENSINO FUNDAMENTAL 206 DO RECANTO DAS EMAS,pública,"72610600",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 206 ,Conjunto 2 lote 2
+14,CRE - Santa Maria,154,ESCOLA CLASSE 215 DE SANTA MARIA,pública,"72545221",DF,Brasília,Santa Maria                   ,Santa Maria,CL 215 Bloco A ,LOTE A
+3,CRE - Plano Piloto e Cruzeiro,628,Centro de Educação Profissional Escola de Música de Brasília - CEP-EMB,pública,"70200620",DF,Brasília,Brasília                      ,Asa Sul,SGAS 602 ,a
+3,CRE - Plano Piloto e Cruzeiro,265,ESCOLA CLASSE 314 SUL,pública,"70383000",DF,Brasília,Brasília                      ,Asa Sul,SQS 314 ,AE
+3,CRE - Plano Piloto e Cruzeiro,161,ESCOLA CLASSE 405 NORTE,pública,"70846000",DF,Brasília,Brasília                      ,Asa Norte,SQN 405 ,área especial
+11,CRE - Taguatinga,111,CENTRO DE ENSINO FUNDAMENTAL 17 DE TAGUATINGA,pública,"72145527",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNM 38/40 Área Especial s/n ,Setor M Norte
+12,CRE - Samambaia,579,ESCOLA CLASSE 510 DE SAMAMBAIA,pública,"72312400",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 510 ,CONJ 07 LOTE 01 AREA ESPECIAL
+12,CRE - Samambaia,582,ESCOLA CLASSE 614 DE SAMAMBAIA,pública,"72322586",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 614 Área Especial 1 Escola Classe 614,Norte
+4,CRE - Ceilândia,731,CENTRO COMUNITÁRIO SÃO LUCAS (U1),privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,s
+11,CRE - Taguatinga,295,ESCOLA CLASSE 12 DE TAGUATINGA,pública,"72130570",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNH 7 ,Área Especial
+5,CRE - Gama,481,ESCOLA CLASSE 16 DO GAMA,pública,"72415300",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 6 ,AREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,159,ESCOLA CLASSE 113 NORTE,pública,"70763000",DF,Brasília,Brasília                      ,Asa Norte,SQN 113 ,AE
+11,CRE - Taguatinga,304,ESCOLA CLASSE 27 DE TAGUATINGA,pública,"72125690",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNF 19 ,Area esp
+15,CRE - São Sebastião,566,ESCOLA CLASSE VILA DO BOA,pública,"71697305",DF,Brasília,São Sebastião                 ,Vila do Boa (São Sebastião),Vila do Boa Rua 1B ,Rua NACIONAL AREA ESPECIAL 
+12,CRE - Samambaia,784,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA JURITI,pública,"72329548",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 431 Área Especial 2 ,Área Especial 02
+8,CRE - Núcleo Bandeirante,730,"3 - Cantinho de Você_Centro Comunitário de Assistência da Candangolândia",privada,"71725300",DF,Brasília,Candangolândia                ,Candangolândia,QR 3 ,PRAÇA DO BOSQUE 8
+9,CRE - Planaltina,518,ESCOLA CLASSE 01 DE PLANALTINA,pública,"73320000",DF,Brasília,Planaltina                    ,Vila Vicentina (Planaltina),"Avenida Independência (Q 02,05,10,12,14,16,18,129, 130 e 1)",Quadra 01 Nº 102
+11,CRE - Taguatinga,106,CENTRO DE ENSINO FUNDAMENTAL 11 DE TAGUATINGA,pública,"72120055",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),CND 5 ,Area especial - fone: 3901-6689
+4,CRE - Ceilândia,384,CENTRO DE ENSINO MÉDIO 09 DE CEILÂNDIA,pública,"72250510",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNO 3/5 ,AE
+8,CRE - Núcleo Bandeirante,71,Escola Classe 02 do Riacho Fundo,pública,"71805400",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,QN 5 ,AE 07
+9,CRE - Planaltina,609,CENTRO EDUCACIONAL POMPÍLIO MARQUES DE SOUZA,pública,"73403303",DF,Brasília,Planaltina                    ,Condomínio Mestre D'Armas (Planaltina),Módulo 1 ,LOTE 13 AREA SUB- URBANA
+13,CRE - Paranoá,126,CENTRO DE ENSINO FUNDAMENTAL 01 DO PARANOÁ,pública,"71570030",DF,Brasília,Paranoá                       ,Paranoá,Área Especial Barragem do Paranoá ,AE 06
+8,CRE - Núcleo Bandeirante,453,Escola Classe Kanegae,pública,"71828314",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,Colônia Agrícola Riacho Fundo I - de 8/9 a 13/14,FAZENDA SUCUPIRA
+13,CRE - Paranoá,127,Centro de Ensino Fundamental 02 do Paranoá,pública,"71570401",DF,Brasília,Paranoá                       ,Paranoá,Quadra 4 Conjunto A ,AE LT 05
+5,CRE - Gama,488,Jardim de Infância 05 do Gama,pública,"72415500",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 10 ,area especial
+10,CRE - Sobradinho,421,ESCOLA CLASSE CÓRREGO DO OURO,pública,"73150100",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),"Rodovia DF-150 - do km 11,000 ao km 18,000",DF 205 OESTE FERCAL
+4,CRE - Ceilândia,37,CENTRO DE ENSINO MÉDIO 12 DE CEILÂNDIA,pública,"72241300",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNP 13 ,Área Especial Setor P. Norte
+4,CRE - Ceilândia,382,Centro de Ensino Fundamental 25 de Ceilândia,pública,"72240800",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNP 9 ,AREA ESPECIAL
+4,CRE - Ceilândia,369,ESCOLA CLASSE 46 DE CEILÂNDIA,pública,"72231560",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 16/20 ,AE
+4,CRE - Ceilândia,182,ESCOLA CLASSE 47 DE CEILÂNDIA,pública,"72235500",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 22/26 ,AE
+4,CRE - Ceilândia,630,ESCOLA CLASSE 65 DE CEILÂNDIA,pública,"72275250",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNR 2 ,AE
+4,CRE - Ceilândia,315,Escola Classe Córrego das Corujas,pública,"72215000",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),Área Especial 1 ,BR 070 NR RAUL MACHADO
+13,CRE - Paranoá,532,Escola Classe Cariru,pública,"71586300",DF,Brasília,Paranoá                       ,Paranoá,Rodovia DF-260 ,COLÔNIA AGRÍCOLA CARIRU
+12,CRE - Samambaia,791,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA IPÊ ROXO,pública,"72547400",DF,Brasília,Santa Maria                   ,Santa Maria,QR 117 ,Área especial 
+12,CRE - Samambaia,123,CENTRO DE ENSINO MÉDIO 414 DE SAMAMBAIA,pública,"72320588",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 414 Área Especial 1 Centro de Ensino Medio 414,SAMAMBAIA DF
+5,CRE - Gama,48,Centro de Ensino Fundamental 10 do Gama,pública,"72420167",DF,Brasília,Gama                          ,Setor Oeste (Gama),EQ 16/26 ,e EQ 19/22  area especial
+4,CRE - Ceilândia,790,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA FLOR DE PEQUI,pública,"72241600",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNP 15 ,Área Especial
+4,CRE - Ceilândia,716,CASA DA CRIANÇA E DO ADOLESCENTE,privada,"72237100",DF,Brasília,Ceilândia                     ,Área de Desenvolvimento Econômico (Ceilândia),ADE Quadra 1 ,a
+9,CRE - Planaltina,199,CENTRO DE ENSINO FUNDAMENTAL 08 DE PLANALTINA,pública,"73350350",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),EQ 3/4 ,projeção H
+9,CRE - Planaltina,538,ESCOLA CLASSE ESTÂNCIA DO PIPIRIPAU,pública,"73377003",DF,Brasília,Planaltina                    ,Planaltina,DF-345 ,NUCLEO RURAL PIPIRIPAU
+4,CRE - Ceilândia,317,ESCOLA CLASSE JIBÓIA,pública,"72227991",DF,Brasília,,,Boa Esperança - BR-190 km 02 (Entrada do Núcleo Rural Boa Esperança),BR 070 DF 180 DF 190 Km 06 Fazenda Dois Irmãos
+9,CRE - Planaltina,540,ESCOLA CLASSE FRIGORÍFICO INDUSTRIAL,pública,"73377010",DF,Brasília,Planaltina                    ,Planaltina,"Rodovia DF-230 - até km 0,010",cvcvsds
+3,CRE - Plano Piloto e Cruzeiro,6,CENTRO DE ENSINO FUNDAMENTAL 02 DE BRASÍLIA,pública,"70346000",DF,Brasília,Brasília                      ,Asa Sul,SQS 107 ,AE / SN
+9,CRE - Planaltina,788,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA CANÁRIO DA TERRA,pública,"73340400",DF,Brasília,Planaltina                    ,Jardim Roriz (Planaltina),Quadra 4 ,Área Especial 01
+3,CRE - Plano Piloto e Cruzeiro,250,ESCOLA CLASSE 403 NORTE,pública,"70835000",DF,Brasília,Brasília                      ,Asa Norte,SQN 403 ,ÁREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,236,ESCOLA CLASSE GRANJA DO TORTO,pública,"70636000",DF,Brasília,Brasília                      ,Granja do Torto,Granja do Torto ,AE - S/N - FAZENDA MODELO
+3,CRE - Plano Piloto e Cruzeiro,3,CENTRO DE ENSINO FUNDAMENTAL 01 DO CRUZEIRO,pública,"70640002",DF,Brasília,Cruzeiro                      ,Cruzeiro Velho,SRES Quadra 1 ,SETOR ESCOLCAR LOTE 5
+10,CRE - Sobradinho,434,CENTRO EDUCACIONAL 02 DE SOBRADINHO,pública,"73010120",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 12 ,Area Especial nº 04
+9,CRE - Planaltina,520,Escola Classe 04 de Planaltina,pública,"73350350",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),EQ 3/4 , EP 02 Proj G
+4,CRE - Ceilândia,359,ESCOLA CLASSE 26 DE CEILÂNDIA,pública,"72225535",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNN 3/5 Bloco E ,AE
+9,CRE - Planaltina,206,ESCOLA CLASSE APRODARMAS,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,FAZENDA MESTRE DARMAS DF 130 CH. 67
+4,CRE - Ceilândia,367,ESCOLA CLASSE 39 DE CEILÂNDIA,pública,"72241520",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNP 11/15 ,Ára Especial
+11,CRE - Taguatinga,330,ESCOLA CLASSE 54 DE TAGUATINGA,pública,"72020320",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSD 32 ,área especial 1 e 2
+4,CRE - Ceilândia,643,Escola Classe 66 de Ceilândia,pública,"72236800",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),Setor Habitacional Sol Nascente ,Avenida Córrego das Corujas - SHSN
+6,CRE - Brazlândia,500,Escola Classe  01 DE Brazlândia,pública,"72720630",DF,Brasília,Brazlândia                    ,Setor Tradicional (Brazlândia),Área Especial 3 ,Setor tradicional Brazlândia
+5,CRE - Gama,53,CENTRO DE ENSINO FUNDAMENTAL 01 DO GAMA,pública,"72430150",DF,Brasília,Gama                          ,Setor Norte (Gama),EQ 1/2 (Áreas Especiais),Área Especial
+5,CRE - Gama,46,CENTRO DE ENSINO FUNDAMENTAL 08 DO GAMA,pública,"72415100",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 2 ,area especial
+16,CRE - Recanto das Emas,151,CENTRO DE ENSINO FUNDAMENTAL 802 DO RECANTO DAS EMAS,pública,"72650315",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 802 Conjunto 21 ,AE 01
+8,CRE - Núcleo Bandeirante,445,Escola Classe Riacho Fundo,pública,"71881661",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,QN 16 Conjunto 1 ,EPNB  DF 075 GRANJA MODELO RF
+13,CRE - Paranoá,125,CENTRO EDUCACIONAL DARCY RIBEIRO,pública,"71573106",DF,Brasília,Paranoá                       ,Paranoá,Quadra 31 Conjunto F ,AE S/N
+13,CRE - Paranoá,460,ESCOLA CLASSE 03 DO PARANOÁ,pública,"71571703",DF,Brasília,Paranoá                       ,Paranoá,Quadra 17 Conjunto C ,CJ C LT 08
+9,CRE - Planaltina,207,CENTRO DE ENSINO FUNDAMENTAL BONSUCESSO,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,DF 128 KM 07 N.R. BONSUCESSO
+5,CRE - Gama,472,JARDIM DE INFÂNCIA 04 DO GAMA,pública,"72420227",DF,Brasília,Gama                          ,Setor Oeste (Gama),EQ 22/32 ,area especial
+11,CRE - Taguatinga,326,CENTRO EDUCACIONAL 05 DE TAGUATINGA,pública,"72140560",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNJ 56 ,Área Especial 16
+3,CRE - Plano Piloto e Cruzeiro,241,Escola Classe da Vila do Regimento de Cavalaria de Guarda,pública,"70631015",DF,Brasília,Brasília                      ,Setor Militar Urbano,Rua C (Vila do RCG),RUA 
+15,CRE - São Sebastião,594,CENTRO DE EDUCAÇÃO INFANTIL 01 DE SÃO SEBASTIÃO,pública,"71692050",DF,Brasília,São Sebastião                 ,Setor Residencial Oeste (São Sebastião),Quadra 101 Conjunto 10 ,AREA ESPECIAL
+11,CRE - Taguatinga,103,CENTRO DE ENSINO FUNDAMENTAL 08 DE TAGUATINGA,pública,"72110520",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNA 52 ,QNA 52 lote 26
+4,CRE - Ceilândia,723,CENTRO COMUNITÁRIO DA CRIANÇA - MATRIZ,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,a
+16,CRE - Recanto das Emas,634,CENTRO DE ENSINO MÉDIO 804 DO RECANTO DAS EMAS,pública,"72650600",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 804 ,Lt 01 AE
+11,CRE - Taguatinga,323,CENTRO DE ENSINO MÉDIO TAGUATINGA NORTE,pública,"72115510",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNC 1 ,"Area esp. 01, 02, 03"
+5,CRE - Gama,498,Caic Carlos Castello Branco,pública,"72420205",DF,Brasília,Gama                          ,Setor Oeste (Gama),EQ 20/23 ,area especial
+11,CRE - Taguatinga,298,ESCOLA CLASSE 16 DE TAGUATINGA,pública,"72130005",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNG Áreas Especiais 15 a 19 e 24 a 25 e 39 a 44 ,EQNG 5/6 Área especial 5
+9,CRE - Planaltina,798,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA PEQUIZEIRO,pública,"73365061",DF,Brasília,Planaltina                    ,Nossa Senhora de Fátima (Planaltina),Quadra 18 ,Conjunto 08 Lote 01
+3,CRE - Plano Piloto e Cruzeiro,226,JARDIM DE INFÂNCIA 303 SUL,pública,"70336000",DF,Brasília,Brasília                      ,Asa Sul,SQS 303 ,AE
+3,CRE - Plano Piloto e Cruzeiro,249,CENTRO DE ENSINO FUNDAMENTAL 316 NORTE,pública,"70775000",DF,Brasília,Brasília                      ,Asa Norte,SQN 316 ,ÁREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,219,JARDIM DE INFÂNCIA 304 NORTE,pública,"70736000",DF,Brasília,Brasília                      ,Asa Norte,SQN 304 ,ÁREA ESPECIAL
+4,CRE - Ceilândia,358,ESCOLA CLASSE 25 DE CEILÂNDIA,pública,"72220570",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNN 22/24 ,AE
+4,CRE - Ceilândia,365,ESCOLA CLASSE 35 DE CEILÂNDIA,pública,"72240560",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNP 9/13 ,AE
+4,CRE - Ceilândia,183,ESCOLA CLASSE 48 DE CEILÂNDIA,pública,"72235540",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNP 26/30 ,AE
+4,CRE - Ceilândia,389,ESCOLA CLASSE 64 DE CEILÂNDIA,pública,"72215560",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNM 17/19 ,AE
+3,CRE - Plano Piloto e Cruzeiro,216,JARDIM DE INFÂNCIA 01 DO CRUZEIRO,pública,"70640005",DF,Brasília,Cruzeiro                      ,Cruzeiro Velho,SRES Quadra 5 ,AE
+3,CRE - Plano Piloto e Cruzeiro,215,JARDIM DE INFÂNCIA VI COMAR,pública,"71603000",DF,Brasília,Lago Sul                      ,Setor de Habitações Individuais Sul,Vila do NPV dos Oficiais ,AE AERONAUTICA
+10,CRE - Sobradinho,96,CENTRO EDUCACIONAL FERCAL,pública,"73151010",DF,Brasília,Fercal                        ,Setor Habitacional Fercal (Sobradinho),Rodovia DF-205 ,SOBRADINHO
+4,CRE - Ceilândia,809,Centro de Educação Infantil 01 de Ceilândia,pública,"72231400",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNP 14 ,QNP 14 Ceilândia Sul
+11,CRE - Taguatinga,328,CENTRO EDUCACIONAL 07 DE TAGUATINGA,pública,"72145517",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNM 36/38 Área Especial s/n ,Setor M Norte
+3,CRE - Plano Piloto e Cruzeiro,757,GRUPO DA FRATERNIDADE CÍCERO PEREIRA,privada,"70790150",DF,Brasília,Brasília                      ,Asa Norte,SGAN 915 ,a
+12,CRE - Samambaia,572,ESCOLA CLASSE 410 DE SAMAMBAIA,pública,"72320500",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 410 ,AREA ESPECIAL 01
+9,CRE - Planaltina,558,CENTRO DE ENSINO MÉDIO 02 DE PLANALTINA,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,Lotes J/L
+3,CRE - Plano Piloto e Cruzeiro,263,ESCOLA CLASSE 305 SUL,pública,"70352000",DF,Brasília,Brasília                      ,Asa Sul,SQS 305 ,AE
+16,CRE - Recanto das Emas,152,ESCOLA CLASSE 510 DO RECANTO DAS EMAS,pública,"72660333",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 511 Conjunto 11 ,EPC 02
+5,CRE - Gama,49,CENTRO DE ENSINO FUNDAMENTAL 11 DO GAMA,pública,"72410100",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 1 ,area especial
+10,CRE - Sobradinho,439,CAIC JÚLIA KUBITSCHEK DE OLIVEIRA,pública,"73062303",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 13 Conjunto 3 ,AE 01 SETOR OESTE
+11,CRE - Taguatinga,100,CENTRO DE ENSINO FUNDAMENTAL 03 DE TAGUATINGA,pública,"72015250",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSA 25 ,QSA 24/25 área especial
+11,CRE - Taguatinga,301,ESCOLA CLASSE 19 DE TAGUATINGA,pública,"72110390",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNA 39 ,Área Especial
+13,CRE - Paranoá,431,ESCOLA CLASSE SOBRADINHO DOS MELOS,pública,"71586100",DF,Brasília,Paranoá                       ,Paranoá,Sobradinho dos Melos ,DF 250 KM 07 - FAZ PARANOA
+8,CRE - Núcleo Bandeirante,641,Centro Educacional 01 do Riacho Fundo II,pública,"71884680",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,QS 18 Área Especial 2 ,AE 2
+14,CRE - Santa Maria,172,ESCOLA CLASSE 218 DE SANTA MARIA,pública,"72548226",DF,Brasília,Santa Maria                   ,Santa Maria,CL 218 Bloco F ,LOTE 1F
+3,CRE - Plano Piloto e Cruzeiro,244,ESCOLA CLASSE 106 NORTE,pública,"70742000",DF,Brasília,Brasília                      ,Asa Norte,SQN 106 ,ÁREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,256,ESCOLA CLASSE 108 SUL,pública,"70347000",DF,Brasília,Brasília                      ,Asa Sul,SQS 108 ,AE
+12,CRE - Samambaia,120,CENTRO DE ENSINO FUNDAMENTAL 519 DE SAMAMBAIA,pública,"72315300",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 519 ,AS 519 AREA ESPECIAL 01
+3,CRE - Plano Piloto e Cruzeiro,257,ESCOLA CLASSE 111 SUL,pública,"70374000",DF,Brasília,Brasília                      ,Asa Sul,SQS 111 ,AE
+5,CRE - Gama,490,ESCOLA CLASSE CÓRREGO BARREIRO,pública,"72426000",DF,Brasília,Gama                          ,Setor Oeste (Gama),Núcleo Rural Ponte Alta de Cima ,BR 06 DF 180 KM 08
+10,CRE - Sobradinho,878,CENTRO DE ENSINO FUNDAMENTAL 09 DE SOBRADINHO,pública,"73062301",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 13 Conjunto 1 ,Area Especial 03
+3,CRE - Plano Piloto e Cruzeiro,262,ESCOLA CLASSE 304 SUL,pública,"70337000",DF,Brasília,Brasília                      ,Asa Sul,SQS 304 ,AE
+4,CRE - Ceilândia,387,CENTRO EDUCACIONAL 11 DE CEILÂNDIA,pública,"72240500",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNP 1/5 (Comércio),AE
+4,CRE - Ceilândia,362,ESCOLA CLASSE 29 DE CEILÂNDIA,pública,"72225570",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNN 19/21 ,Área Especial
+4,CRE - Ceilândia,186,ESCOLA CLASSE 62 DE CEILÂNDIA,pública,"72270100",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNQ 1 ,AREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,234,ESCOLA CLASSE DO SETOR MILITAR URBANO,pública,"70630000",DF,Brasília,Brasília                      ,Setor Militar Urbano,Avenida do Exército ,QRO - área especial
+4,CRE - Ceilândia,722,INSTITUTO PAZ E VIDA,privada,"70040020",DF,Brasília,Brasília                      ,Asa Norte,SBN Quadra 2 ,a
+3,CRE - Plano Piloto e Cruzeiro,749,CASA DA CRIANÇA PÃO DE SANTO ANTÔNIO,privada,"70390060",DF,Brasília,Brasília                      ,Asa Sul,SGAS 906 ,a
+3,CRE - Plano Piloto e Cruzeiro,739,CASA DO CANDANGO,privada,"70200630",DF,Brasília,Brasília                      ,Asa Sul,SGAS 603 ,a
+3,CRE - Plano Piloto e Cruzeiro,837,ESCOLA PARQUE 313/314 SUL,pública,"70382000",DF,Brasília,Brasília                      ,Asa Sul,SQS 313 ,"1"
+3,CRE - Plano Piloto e Cruzeiro,737,CRECHE SÃO VICENTE DE PAULO,privada,"70648500",DF,Brasília,Cruzeiro                      ,Cruzeiro Velho,Área Especial (ARUC),a
+3,CRE - Plano Piloto e Cruzeiro,854,Centro de Educação da Primeira Infância Perdiz,pública,"71535000",DF,Brasília,Lago Norte                    ,Setor de Habitações Individuais Norte,SHIN QI 13 ,LOTES E/F
+4,CRE - Ceilândia,177,ESCOLA CLASSE 34 DE CEILÂNDIA,pública,"72241540",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNP 13/17 ,AE
+11,CRE - Taguatinga,806,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA SABIÁ - LARANJEIRA,pública,"71973100",DF,Brasília,Águas Claras                  ,Areal (Águas Claras),QS 8 ,conj 1
+3,CRE - Plano Piloto e Cruzeiro,269,CENTRO DE ENSINO MÉDIO ASA NORTE - CEAN,pública,"70830257",DF,Brasília,Brasília                      ,Asa Norte,SGAN 606 Módulo G ,ÁREA ESPECIAL
+12,CRE - Samambaia,570,ESCOLA CLASSE 403 DE SAMAMBAIA,pública,"72319570",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 405 ,QN 403/405 AE S/N
+5,CRE - Gama,471,ESCOLA CLASSE 03 DO GAMA,pública,"72450107",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 10/15 ,Área Especial
+12,CRE - Samambaia,564,ESCOLA CLASSE 121 DE SAMAMBAIA,pública,"72301801",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 121 Conjunto 1 ,ÁREA ESPECIAL N° 01
+5,CRE - Gama,482,ESCOLA CLASSE 17 DO GAMA,pública,"72410400",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 7 ,Área Especial
+5,CRE - Gama,475,ESCOLA CLASSE 09 DO GAMA,pública,"72410225",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 3 Área Especial EC 09 ,Área Especial
+5,CRE - Gama,477,ESCOLA CLASSE 12 DO GAMA,pública,"72430115",DF,Brasília,Gama                          ,Setor Norte (Gama),Quadra 1 Área Especial s/n ,Setor Norte
+11,CRE - Taguatinga,310,CENTRO DE EDUCAÇÃO INFANTIL 06 DE TAGUATINGA,pública,"72151525",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNL 17/19 Área Especial s/n ,A/Especial
+4,CRE - Ceilândia,39,Centro Educacional 16 de Ceilândia,pública,"72270300",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNQ 3 ,AE
+12,CRE - Samambaia,578,ESCOLA CLASSE 501 DE SAMAMBAIA,pública,"72311203",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 501 Conjunto 3 ,LOTE 01
+11,CRE - Taguatinga,164,CENTRO DE EDUCAÇÃO INFANTIL 04 DE TAGUATINGA,pública,"72110015",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),CNA 1 ,CNA 01/02 Área Esp. s/n - Pç D.I.
+3,CRE - Plano Piloto e Cruzeiro,255,ESCOLA CLASSE 102 SUL,pública,"70330000",DF,Brasília,Brasília                      ,Asa Sul,SQS 102 ,AE
+5,CRE - Gama,484,ESCOLA CLASSE 19 DO GAMA,pública,"72460306",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 30/49 ,area especial 1
+3,CRE - Plano Piloto e Cruzeiro,160,CENTRO DE ENSINO FUNDAMENTAL 306 NORTE,pública,"70745000",DF,Brasília,Brasília                      ,Asa Norte,SQN 306 ,ÁREA ESPECIAL
+4,CRE - Ceilândia,178,Escola Classe 38 de Ceilândia,pública,"72241560",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNP 15/19 ,Área Especial Setor P Norte
+5,CRE - Gama,469,ESCOLA CLASSE 01 DO GAMA,pública,"72460185",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 18/19 ,AREA ESPECIAL
+5,CRE - Gama,487,ESCOLA CLASSE 22 DO GAMA,pública,"72405475",DF,Brasília,Gama                          ,Setor Central (Gama),EQ 33/39 ,AREA ESPECIAL
+10,CRE - Sobradinho,92,CENTRO DE ENSINO FUNDAMENTAL 04 DE SOBRADINHO,pública,"73045150",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 15 ,AE 02
+10,CRE - Sobradinho,409,CENTRO DE EDUCAÇÃO INFANTIL 03 DE SOBRADINHO,pública,"73050160",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 16 ,AE D1
+3,CRE - Plano Piloto e Cruzeiro,452,ESCOLA CLASSE JARDIM BOTÂNICO,pública,"71680001",DF,Brasília,Lago Sul                      ,Setor de Mansões Dom Bosco,Área Especial SMDB Estação Ecológica Jardim Botânico de Brasília ,JARDIM BOTANICO DE BRASILIA
+11,CRE - Taguatinga,322,CENTRO DE ENSINO MÉDIO EIT,pública,"72115010",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNB 1 ,Setor Central
+5,CRE - Gama,781,INSTITUTO DE SERVIÇO SOCIAL PAX,privada,"72405135",DF,Brasília,Gama                          ,Setor Central (Gama),Área Especial Lado Leste ,SETOR LESTE
+12,CRE - Samambaia,116,CENTRO DE ENSINO FUNDAMENTAL 507 DE SAMAMBAIA,pública,"72313107",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 507 Conjunto 7 ,lt 01
+10,CRE - Sobradinho,410,ESCOLA CLASSE 10 DE SOBRADINHO,pública,"73015308",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 2 Conjunto C-8 ,LOTE F
+9,CRE - Planaltina,559,CENTRO EDUCACIONAL 01 DE PLANALTINA,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,Lotes A/B
+4,CRE - Ceilândia,789,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA IPÊ AMARELO,pública,"72270500",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNQ 5 ,Lote A
+11,CRE - Taguatinga,736,SOCIEDADE DO AMOR EM AÇÃO - ESCOLINHA BEIJA FLOR,privada,"72115150",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNB 15 ,area esp.04
+3,CRE - Plano Piloto e Cruzeiro,253,ESCOLA CLASSE 415 NORTE,pública,"70878000",DF,Brasília,Brasília                      ,Asa Norte,SQN 415 ,AE
+3,CRE - Plano Piloto e Cruzeiro,218,JARDIM DE INFÂNCIA 302 NORTE,pública,"70723000",DF,Brasília,Brasília                      ,Asa Norte,SQN 302 ,AE
+3,CRE - Plano Piloto e Cruzeiro,227,JARDIM DE INFÂNCIA 305 SUL,pública,"70352000",DF,Brasília,Brasília                      ,Asa Sul,SQS 305 ,AE
+16,CRE - Recanto das Emas,847,Escola Classe 203 do Recanto das Emas,pública,"72610321",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Avenida Recanto Quadra 203 ,LOTE 32
+9,CRE - Planaltina,742,CRECHE MAGIA DOS SONHOS,privada,"73370100",DF,Brasília,Planaltina                    ,Arapoanga (Planaltina),Condomínio Arapoanga ,a
+16,CRE - Recanto das Emas,141,CENTRO DE ENSINO FUNDAMENTAL 101 DO RECANTO DAS EMAS,pública,"72600113",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 101 Conjunto 10-B ,lotes 01/02
+14,CRE - Santa Maria,134,CENTRO DE ENSINO FUNDAMENTAL SANTOS DUMONT,pública,"72593270",DF,Brasília,Santa Maria                   ,Residencial Santos Dumont (Santa Maria),SEE ,AV. SALGADO FILHO 
+9,CRE - Planaltina,741,HOTELZINHO SÃO VICENTE DE PAULO,privada,"73330032",DF,Brasília,Planaltina                    ,Setor Tradicional (Planaltina),"Avenida Hugo Lobo (Quadras 68A,69A,73,74,79 e 80)",z
+13,CRE - Paranoá,419,ESCOLA CLASSE CÓRREGO DE SOBRADINHO,pública,"73255900",DF,Brasília,Sobradinho                    ,Região dos Lagos (Sobradinho),"Condomínio Mansões Entre Lagos 1 - Rodovia DF-250 Km 2,7",FAZENDA PARANOA - DF
+12,CRE - Samambaia,119,CENTRO DE ENSINO FUNDAMENTAL 504 DE SAMAMBAIA,pública,"72310701",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 504 Conjunto 1 ,Aréa Especial nº 01
+6,CRE - Brazlândia,852,Centro de Educação da Primeira Infância Sagui,pública,"72725200",DF,Brasília,Brazlândia                    ,Veredas (Brazlândia),Quadra 2 ,"PIQ 02, LT 02 - BAIRRO VEREDAS"
+12,CRE - Samambaia,210,CENTRO DE ENSINO FUNDAMENTAL 412 DE SAMAMBAIA,pública,"72320540",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 412 ,Area Especial nº 01
+5,CRE - Gama,848,Jardim de Infância 06 do Gama,pública,"72420177",DF,Brasília,Gama                          ,Setor Oeste (Gama),EQ 17/27 ,"Área Especial, Setor Oeste "
+3,CRE - Plano Piloto e Cruzeiro,743,CRECHE CASA DO PEQUENO POLEGAR,privada,"71600790",DF,Brasília,Lago Sul                      ,Setor de Habitações Individuais Sul,SHIS QI 15 Chácaras 49 a 56 ,a
+14,CRE - Santa Maria,846,Centro de Convivência e Educação Infantil Maria Mãe da Providência,privada,"72503206",DF,Brasília,Santa Maria                   ,Santa Maria,CL 103 Bloco F ,"103"
+13,CRE - Paranoá,529,CENTRO DE ENSINO FUNDAMENTAL BURITI VERMELHO,pública,"73370994",DF,Brasília,,,Núcleo Rural do Jardim - Rodovia DF 285 km 23,NUCLEO RURAL BURITI VERMELHO
+3,CRE - Plano Piloto e Cruzeiro,744,CENTRO SOCIAL COMUNITÁRIO TIA ANGELINA,privada,"71540400",DF,Brasília,Lago Norte                    ,Setor de Habitações Individuais Norte,Vila Varjão do Torto ,a
+3,CRE - Plano Piloto e Cruzeiro,738,CRECHE PIONEIRA DA VILA PLANALTO,privada,"70804020",DF,Brasília,Brasília                      ,Vila Planalto,Avenida Rabelo (Acamp Rabelo),a
+8,CRE - Núcleo Bandeirante,447,Escola Classe 03 do Núcleo Bandeirante,pública,"71720588",DF,Brasília,Núcleo Bandeirante            ,Núcleo Bandeirante,Terceira Avenida Área Especial 6 ,LOTE N/H
+4,CRE - Ceilândia,36,CENTRO DE ENSINO FUNDAMENTAL 20 DE CEILÂNDIA,pública,"72210540",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNM 8/10 ,AREA ESPECIAL
+6,CRE - Brazlândia,502,Escola Classe 05 de  Brazlândia,pública,"72715610",DF,Brasília,Brazlândia                    ,Setor Sul (Brazlândia),Área Especial 1 ,.
+4,CRE - Ceilândia,181,CENTRO DE ENSINO FUNDAMENTAL 33 DE CEILÂNDIA,pública,"72231200",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNP 12 ,AE
+4,CRE - Ceilândia,363,Escola Classe 31 de Ceilândia,pública,"72252500",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNO 9/11 ,AE
+4,CRE - Ceilândia,373,ESCOLA CLASSE 56 DE CEILÂNDIA,pública,"72260897",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 18 Conjunto I ,AE
+12,CRE - Samambaia,211,ESCOLA CLASSE 511 DE SAMAMBAIA,pública,"72313720",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 511 Área Especial EC ,AE 02
+5,CRE - Gama,480,ESCOLA CLASSE 15 DO GAMA,pública,"72430200",DF,Brasília,Gama                          ,Setor Norte (Gama),Quadra 2 ,area especial
+9,CRE - Planaltina,76,CENTRO DE ENSINO FUNDAMENTAL 03 DE PLANALTINA,pública,"73355058",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),EQ 10/20 Conjunto H ,Lote 01 Buritis II
+14,CRE - Santa Maria,340,CAIC SANTA MARIA,pública,"72545302",DF,Brasília,Santa Maria                   ,Santa Maria,EQ 215/315 Bloco B ,Lote B
+4,CRE - Ceilândia,24,CENTRO DE ENSINO FUNDAMENTAL 04 DE CEILÂNDIA,pública,"72215580",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNM 21/23 ,AE
+12,CRE - Samambaia,853,Centro Interescolar de Línguas 01 de Samambaia,pública,"72321507",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QN 407 Conjunto G Comércio,"lote 01, Àrea Especial "
+11,CRE - Taguatinga,321,CENTRO DE ENSINO MÉDIO AVE BRANCA,pública,"72015033",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSA 3/5 ,Área Especial
+5,CRE - Gama,485,JARDIM DE INFÂNCIA 02 DO GAMA,pública,"72460315",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 31/32 ,QUADRA
+10,CRE - Sobradinho,602,ESCOLA CLASSE 04 DE SOBRADINHO,pública,"73045150",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 15 ,AE 02
+7,CRE - Guará,401,CENTRO EDUCACIONAL 02 DO GUARÁ,pública,"71020007",DF,Brasília,Guará                         ,Guará I,QE 7 ,area especial
+11,CRE - Taguatinga,169,CENTRO DE ENSINO FUNDAMENTAL VILA AREAL,pública,"71966185",DF,Brasília,Águas Claras                  ,Areal (Águas Claras),QS 6 Conjunto 430B ,Area especial 
+14,CRE - Santa Maria,132,CENTRO DE ENSINO FUNDAMENTAL 209 DE SANTA MARIA,pública,"72509221",DF,Brasília,Santa Maria                   ,Santa Maria,CL 209 Bloco A ,LOTE 1A
+7,CRE - Guará,60,ESCOLA CLASSE 08 DO GUARÁ,pública,"71065285",DF,Brasília,Guará                         ,Guará II,EQ 28/30 ,LT A
+4,CRE - Ceilândia,27,CENTRO DE ENSINO FUNDAMENTAL 11 DE CEILÂNDIA,pública,"72220580",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNN 24/26 ,AE
+9,CRE - Planaltina,548,ESCOLA CLASSE PARANÁ,pública,"73350158",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),EQ 1/2 Bloco H ,VILA BURITIS
+4,CRE - Ceilândia,40,CENTRO DE ENSINO ESPECIAL 01 DE CEILÂNDIA,pública,"72220140",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNN 14 ,aaa
+12,CRE - Samambaia,795,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA CALIANDRA,pública,"72308505",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QS 312 Conjunto 5 ,Lote 01
+3,CRE - Plano Piloto e Cruzeiro,248,ESCOLA CLASSE 312 NORTE,pública,"70765000",DF,Brasília,Brasília                      ,Asa Norte,SQN 312 ,AE
+4,CRE - Ceilândia,721,LAR FABIANO DE CRISTO CASA DE ABGAIL,privada,"72215290",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNM 29 ,a
+3,CRE - Plano Piloto e Cruzeiro,230,JARDIM DE INFÂNCIA 316 SUL,pública,"70387000",DF,Brasília,Brasília                      ,Asa Sul,SQS 316 ,AE
+11,CRE - Taguatinga,113,CENTRO DE ENSINO ESPECIAL 01 DE TAGUATINGA,pública,"72140200",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNJ 20 ,s
+8,CRE - Núcleo Bandeirante,732,"5 - Éden_Instituto de Educação Haideé Neves",privada,"71805311",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,QN 3 Área Especial 1 ,AE 1/2
+9,CRE - Planaltina,87,CENTRO EDUCACIONAL VÁRZEAS,pública,"73390100",DF,Brasília,Planaltina                    ,Planaltina,Núcleo Rural Tabatinga ,DF 120 DF 455 NR.Tabatinga- Sede
+15,CRE - São Sebastião,597,ESCOLA CLASSE CACHOEIRINHA,pública,,,,,,,CVCVC BNBN
+10,CRE - Sobradinho,662,ESCOLA CLASSE 17 DE SOBRADINHO,pública,"73070055",DF,Brasília,Sobradinho                    ,Sobradinho,Condomínio Vila Rabelo ,AV CENTRAL AE 01
+10,CRE - Sobradinho,414,ESCOLA CLASSE 14 DE SOBRADINHO,pública,"73063007",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 19 Conjunto 7 ,AR 19 CONJ. 7 LT 1 SETOR OESTE
+4,CRE - Ceilândia,185,CENTRO DE ENSINO FUNDAMENTAL 34 DE CEILÂNDIA,pública,"72261062",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 19 Conjunto B ,Lote 01
+4,CRE - Ceilândia,342,ESCOLA CLASSE 02 DE CEILÂNDIA,pública,"72215570",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNM 19/21 ,Área Especial 
+4,CRE - Ceilândia,345,ESCOLA CLASSE 10 DE CEILÂNDIA,pública,"72210510",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNM 2/4 (Comércio),AE
+13,CRE - Paranoá,863,Escola Classe 06 do Paranoá,pública,"71573303",DF,Brasília,Paranoá                       ,Paranoá,Quadra 33 Área Especial s/n ,Modulo 6 
+5,CRE - Gama,489,ESCOLA CLASSE 28 DO GAMA,pública,"72420410",DF,Brasília,Gama                          ,Setor Oeste (Gama),Quadra A ,"Lote B, Área Especial "
+5,CRE - Gama,777,CRECHE ESPIRITA MARIA DE NAZARÉ - CENOL,privada,"72405610",DF,Brasília,Gama                          ,Setor Central (Gama),Área Especial 1 ,SETOR CENTRAL OESTE
+11,CRE - Taguatinga,320,CENTRO DE ENSINO MÉDIO 03 DE TAGUATINGA,pública,"72025050",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSE 5 ,Área Especial 14
+3,CRE - Plano Piloto e Cruzeiro,245,ESCOLA CLASSE 115 NORTE,pública,"70772000",DF,Brasília,Brasília                      ,Asa Norte,SQN 115 ,Área Especial
+9,CRE - Planaltina,74,CENTRO DE ENSINO FUNDAMENTAL 01 DE PLANALTINA,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,Lote M
+12,CRE - Samambaia,585,CENTRO EDUCACIONAL 123 DE SAMAMBAIA,pública,"72303008",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 123 Conjunto 8 ,AE 01
+12,CRE - Samambaia,565,ESCOLA CLASSE 303 DE SAMAMBAIA,pública,"72305000",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 303 ,CONJUNTO 12 LOTE 01
+10,CRE - Sobradinho,814,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA JOÃO DE BARRO,pública,"73015600",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 2 Conjunto D/E Bloco D ,Quadra 02 Conjunto D
+11,CRE - Taguatinga,292,ESCOLA CLASSE 08 DE TAGUATINGA,pública,"72130120",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNG 12 ,Área especial 14
+11,CRE - Taguatinga,294,ESCOLA CLASSE 11 DE TAGUATINGA,pública,"72025120",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSE 12 ,Área Especial
+5,CRE - Gama,474,ESCOLA CLASSE 07 DO GAMA,pública,"72415540",DF,Brasília,Gama                          ,Setor Sul (Gama),Quadra 12 Área Especial CEF 7 ,Área Especial
+11,CRE - Taguatinga,296,ESCOLA CLASSE 13 DE TAGUATINGA,pública,"72025550",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSF 5 ,Area esp. 02
+4,CRE - Ceilândia,174,Escola Classe 06 de Ceilândia,pública,"72210520",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNM 4/6 ,AE
+3,CRE - Plano Piloto e Cruzeiro,14,CENTRO DE ENSINO FUNDAMENTAL CASEB,pública,"70390090",DF,Brasília,Brasília                      ,Asa Sul,SGAS 909 ,CONJ A LTS 27/28
+11,CRE - Taguatinga,813,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA JEQUITIBÁ,pública,"71929540",DF,Brasília,Águas Claras                  ,Sul (Águas Claras),Avenida Jequitibá ,lote 935
+3,CRE - Plano Piloto e Cruzeiro,879,Centro de Educação de Jovens e Adultos e Educação Profissional à Distância de Brasília,pública,"70200620",DF,Brasília,Brasília                      ,Asa Sul,SGAS 602 ,Projeção D 
+15,CRE - São Sebastião,139,CENTRO EDUCACIONAL SÃO JOSÉ,pública,"71693059",DF,Brasília,São Sebastião                 ,Vila São José (São Sebastião),Quadra 16 Área Especial CEF ,BAIRRO SÃO JOSE
+3,CRE - Plano Piloto e Cruzeiro,243,CENTRO DE ENSINO FUNDAMENTAL 102 NORTE,pública,"70722010",DF,Brasília,Brasília                      ,Asa Norte,SQN 102 Bloco A ,ÁREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,162,CENTRO DE ENSINO FUNDAMENTAL 410 NORTE,pública,"70865000",DF,Brasília,Brasília                      ,Asa Norte,SQN 410 ,AE
+3,CRE - Plano Piloto e Cruzeiro,222,JARDIM DE INFÂNCIA 102 SUL,pública,"70330000",DF,Brasília,Brasília                      ,Asa Sul,SQS 102 ,AE
+10,CRE - Sobradinho,411,ESCOLA CLASSE 11 DE SOBRADINHO,pública,"73040110",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 11 ,AE 01
+3,CRE - Plano Piloto e Cruzeiro,865,CENTRO EDUCACIONAL 01 DE BRASÍLIA,pública,"70790070",DF,Brasília,Brasília                      ,Asa Norte,SGAN 907 ,SETOR DE GRANDES ÁREAS
+5,CRE - Gama,497,CENTRO DE ENSINO FUNDAMENTAL 15 DO GAMA,pública,"72410318",DF,Brasília,Gama                          ,Setor Sul (Gama),EQ 5/11 Área Especial CEF 15 (Áreas Especiais),A E Setor Sul 
+8,CRE - Núcleo Bandeirante,631,Escola Classe 02 do Riacho Fundo II,pública,"71881163",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,QN 14D Área Especial 1 ,LOTE 01
+11,CRE - Taguatinga,104,CENTRO DE ENSINO FUNDAMENTAL 09 DE TAGUATINGA,pública,"72015597",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSD Área Especial 1 ,Área Especial 02
+4,CRE - Ceilândia,816,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA SEMPRE VIVA,pública,"72270300",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNQ 3 ,QNQ 03
+16,CRE - Recanto das Emas,621,ESCOLA CLASSE 404 DO RECANTO DAS EMAS,pública,"72630409",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 404 Conjunto 9 ,Lt 01
+11,CRE - Taguatinga,821,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÃNCIA MACAÚBA,pública,"71966700",DF,Brasília,Águas Claras                  ,Areal (Águas Claras),QS 7 ,QS 07 Rua 600
+12,CRE - Samambaia,818,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA PICA-PAU BRANCO,pública,"72305600",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QR 307 ,QR 307
+13,CRE - Paranoá,560,CENTRO EDUCACIONAL DO PAD/DF,pública,"71693994",DF,Brasília,,,Associação dos Produtores Rurais da Colônia Agrícola Aguilhada - Rodovia BR-251 - Km 69,BR 251 KM 07 - ESTRADA DE UNAÍ
+13,CRE - Paranoá,457,CENTRO DE EDUCAÇÃO INFANTIL 01 DO PARANOÁ,pública,"71571610",DF,Brasília,Paranoá                       ,Paranoá,Quadra 16 Área Especial s/n ,CONJUNTO E LT 01
+4,CRE - Ceilândia,826,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA CAPIM - DOURADO,pública,"72255000",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 10 ,QNO 10
+13,CRE - Paranoá,461,ESCOLA CLASSE 04 DO PARANOÁ,pública,"71571408",DF,Brasília,Paranoá                       ,Paranoá,Quadra 14 Área Especial s/n ,CJ F AE 01
+13,CRE - Paranoá,811,Centro de Ensino Fundamental 05 do Paranoá,pública,"71572501",DF,Brasília,Paranoá                       ,Paranoá,Quadra 25 Conjunto A ,"Lotes 3, 4, 18 e 19"
+4,CRE - Ceilândia,817,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÃNCIA JASMIM,pública,"72255200",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 12 ,QNO 12
+12,CRE - Samambaia,568,ESCOLA CLASSE 318 DE SAMAMBAIA,pública,"72308704",DF,Brasília,Samambaia                     ,Samambaia Sul (Samambaia),QN 318 Conjunto 4 ,Lote 01
+13,CRE - Paranoá,771,CENTRO DE ENSINO FUNDAMENTAL 04 DO PARANOÁ,pública,"71570404",DF,Brasília,Paranoá                       ,Paranoá,Quadra 4 Conjunto D ,AE
+7,CRE - Guará,640,CENTRO EDUCACIONAL 01 DA ESTRUTURAL,pública,"71255030",DF,Brasília,SCIA                          ,Setor Central (Vila Estrutural - Guará),Área Especial 3 ,Setor Central
+13,CRE - Paranoá,416,Escola Classe Boqueirão,pública,"71573992",DF,Brasília,,,Núcleo Rural Boqueirão - Rodovia DF-001 km 15 Sede da Associação ao Lado da Escola Classe Boqueirão,PARANOA - FAZENDA SAO BENTO
+5,CRE - Gama,52,CENTRO EDUCACIONAL GESNER TEIXEIRA,pública,"72491090",DF,Brasília,Gama                          ,Cidade Nova (Gama),Rua Dálias ,quadra 2/6
+9,CRE - Planaltina,83,Centro de Ensino Fundamental 04 de Planaltina,pública,"73310100",DF,Brasília,Planaltina                    ,Setor Administrativo (Planaltina),Setor Administrativo ,Lotes C/D
+9,CRE - Planaltina,79,CENTRO DE ENSINO FUNDAMENTAL JUSCELINO KUBITSCHEK,pública,"73403321",DF,Brasília,Planaltina                    ,Condomínio Mestre D'Armas (Planaltina),Módulo 7 ,LOTES DE 17 A 26
+6,CRE - Brazlândia,851,Centro de Educação da Primeira Infância Flamboyant,pública,"72715610",DF,Brasília,Brazlândia                    ,Setor Sul (Brazlândia),Área Especial 1 ,Setor Sul
+3,CRE - Plano Piloto e Cruzeiro,273,CENTRO DE ENSINO MÉDIO ELEFANTE BRANCO,pública,"70390080",DF,Brasília,Brasília                      ,Asa Sul,SGAS 908 ,MOD 25/26
+9,CRE - Planaltina,823,CENTRO INTERESCOLAR DE LÍNGUAS 01 DE PLANALTINA,pública,"73350400",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),EQ 3/4 Bloco H ,quadras 3 e 4 Lote H
+16,CRE - Recanto das Emas,825,CENTRO INTERESCOLAR DE LÍNGUAS 01 DO RECANTO DAS EMAS,pública,"72601214",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 106 Área Especial 1 ,AE
+14,CRE - Santa Maria,820,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÃNCIA BURITI,pública,"72542500",DF,Brasília,Santa Maria                   ,Santa Maria,QR 312 ,QR 312
+6,CRE - Brazlândia,197,CAIC Professor  Benedito Carlos de Oliveira,pública,"72720650",DF,Brasília,Brazlândia                    ,Setor Tradicional (Brazlândia),Área Especial 5 ,Setor tradicional
+6,CRE - Brazlândia,822,Centro de Educação da Primeira Infância Aroeira,pública,"72725302",DF,Brasília,Brazlândia                    ,Veredas (Brazlândia),Quadra 3 Conjunto B ,PIQ 3 Lote 01 Setor Veredas
+7,CRE - Guará,57,Centro de Ensino Fundamental 01 do Guará,pública,"71010616",DF,Brasília,Guará                         ,Guará I,QE 4 Área Especial J ,GUARA I
+5,CRE - Gama,763,OBRAS ASSISTENCIAIS SÃO SEBASTIÃO - CRECHE NOSSA SRA DO CARMO,privada,"72450120",DF,Brasília,Gama                          ,Setor Leste (Gama),Quadra 12 ,Setor Leste
+3,CRE - Plano Piloto e Cruzeiro,740,CASA DE ISMAEL - LAR DA CRIANÇA,privada,"70790140",DF,Brasília,Brasília                      ,Asa Norte,SGAN 914 ,z
+5,CRE - Gama,473,ESCOLA CLASSE 06 DO GAMA,pública,"72425150",DF,Brasília,Gama                          ,Setor Oeste (Gama),EQ 09/19 ,Área Especial
+12,CRE - Samambaia,571,CENTRO DE ENSINO FUNDAMENTAL 407 DE SAMAMBAIA,pública,"72321000",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QR 407 ,AREA ESPECIAL 01
+6,CRE - Brazlândia,614,Escola Classe 01 INCRA 08,pública,"72760180",DF,Brasília,Brazlândia                    ,Incra 8 (Brazlândia),Quadra 18 ,Lote 01
+13,CRE - Paranoá,462,Escola Classe 05 do Paranoá,pública,"71572400",DF,Brasília,Paranoá                       ,Paranoá,Quadra 24 ,CJ I AE
+9,CRE - Planaltina,544,ESCOLA CLASSE MONJOLO,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,BR-020 - DF-335 - FAZ MONJOLO
+4,CRE - Ceilândia,380,CENTRO DE ENSINO MÉDIO 03 DE CEILÂNDIA,pública,"72215130",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNM 13 ,AE
+12,CRE - Samambaia,827,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA SUCUPIRA,pública,"72320550",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 412 ,A
+12,CRE - Samambaia,316,ESCOLA CLASSE GUARIROBA,pública,"72322845",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),Núcleo Rural de Taguatinga ,km 05
+8,CRE - Núcleo Bandeirante,729,"1 -  Irmã Elvira_Instituto Integridade Escola",privada,"71735169",DF,Brasília,ParkWay                       ,Setor de Mansões Park Way,Área Especial 3 ,TRECHO 3 AE 1/2
+3,CRE - Plano Piloto e Cruzeiro,810,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA OLHOS D AGUA,pública,"70760550",DF,Brasília,Brasília                      ,Asa Norte,SCLRN 714 ,LT 01
+9,CRE - Planaltina,808,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA JATOBÁ,pública,"73340710",DF,Brasília,Planaltina                    ,Vila Nossa Senhora de Fátima (Planaltina),Vila Nossa Senhora de Fátima ,conjunto 01
+3,CRE - Plano Piloto e Cruzeiro,157,CENTRO DE ENSINO FUNDAMENTAL 405 SUL,pública,"70239000",DF,Brasília,Brasília                      ,Asa Sul,SQS 405 ,AE
+15,CRE - São Sebastião,599,ESCOLA CLASSE SÃO BARTOLOMEU,pública,"71697035",DF,Brasília,São Sebastião                 ,São Bartolomeu (São Sebastião),Área Especial EC ,NUCLEO RURAL SÃO BARTOLOMEU KM 02 SÃO SEBASTIÃO
+9,CRE - Planaltina,519,ESCOLA CLASSE 03 DE PLANALTINA,pública,"73350150",DF,Brasília,Planaltina                    ,Setor Residencial Leste (Planaltina),EQ 1/2 ,EP 02 Proj G
+4,CRE - Ceilândia,23,CENTRO DE ENSINO FUNDAMENTAL 02 DE CEILÂNDIA,pública,"72215520",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNM 1/3 (Comércio),AE
+4,CRE - Ceilândia,38,CENTRO DE ENSINO FUNDAMENTAL PROFA. MARIA DO ROSÁRIO GONDIM,pública,"72225215",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNN 21 Conjunto E ,Área Especial
+9,CRE - Planaltina,198,ESCOLA CLASSE 05 DE PLANALTINA,pública,"73320020",DF,Brasília,Planaltina                    ,Vila Vicentina (Planaltina),"Avenida do Contorno (Quadras 13,15,17 e 18)",Av Contorno Q 17 S/N Vila Vicentina
+4,CRE - Ceilândia,33,CENTRO EDUCACIONAL 15 DE CEILÂNDIA,pública,"72260890",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 18 Conjunto B ,LOTE 01
+16,CRE - Recanto das Emas,148,CENTRO DE ENSINO FUNDAMENTAL 405 DO RECANTO DAS EMAS,pública,"72631115",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 405 Conjunto 15 ,Lt 01 AE
+16,CRE - Recanto das Emas,588,CENTRO DE EDUCAÇÃO INFANTIL 304 DO RECANTO DAS EMAS,pública,"72621114",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 304 Conjunto 14 ,A - AE 01
+10,CRE - Sobradinho,426,ESCOLA CLASSE OLHOS D ÁGUA,pública,"71507993",DF,Brasília,,,"Olhos D'Água - DF- 003 km 7,5 (ao lado da Igreja)",RUA 1
+6,CRE - Brazlândia,196,Centro Educacional 04 de Brazlândia,pública,"72738990",DF,Brasília,,,Vale do Curralinho - Rodovia BR-080 km 18 (Chácara 47),BR 080 Km 37 Núcleo Rural Curralinho
+4,CRE - Ceilândia,34,CENTRO DE ENSINO FUNDAMENTAL 18 DE CEILÂNDIA,pública,"72231100",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),QNP 10 ,AE
+6,CRE - Brazlândia,20,Centro de Ensino Fundamental Vendinha,pública,"72746000",DF,Brasília,Brazlândia                    ,Vila São José (Brazlândia),Quadra 46 ,EST. BSB/Pe. BERNARDO-BR 080 KM 25
+12,CRE - Samambaia,587,CAIC HELENA REIS,pública,"72321100",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QR 409 ,AREA ESPECIAL Nº 01
+5,CRE - Gama,51,CENTRO EDUCACIONAL 07 DO GAMA,pública,"72405155",DF,Brasília,Gama                          ,Setor Central (Gama),EQ 15/17 ,praça 1 lote 3 
+15,CRE - São Sebastião,629,CENTRO EDUCACIONAL SÃO BARTOLOMEU,pública,"71697045",DF,Brasília,São Sebastião                 ,São Bartolomeu (São Sebastião),Quadra 2 Conjunto 3 ,LOTE 04 AREA ESPECIAL SÃO BARTOLOMEU
+6,CRE - Brazlândia,506,Escola  Classe Almécegas,pública,"72720650",DF,Brasília,Brazlândia                    ,Setor Tradicional (Brazlândia),Área Especial 5 ,BR 080 DF 206 KM 03 FAZENDA ALMECEGAS
+5,CRE - Gama,44,Centro de Ensino Fundamental 04 do Gama,pública,"72460295",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 29/33 ,Praça 3 Área Especial 
+5,CRE - Gama,764,CENTRO DE CONVIVÊNCIA EDUCACIONAL INFANTIL DIVINO ESPÍRITO SANTO,privada,"72425140",DF,Brasília,Gama                          ,Setor Oeste (Gama),Quadra 14 ,E/Q 14/18 Area Especial 
+12,CRE - Samambaia,575,ESCOLA CLASSE 419 DE SAMAMBAIA,pública,"72325520",DF,Brasília,Samambaia                     ,Samambaia Norte (Samambaia),QS 419 ,AREA ESPECIAL Nº 01
+7,CRE - Guará,235,ESCOLA CLASSE DO SRIA,pública,"71215000",DF,Brasília,SIA                           ,Zona Industrial (Guará),SIA Setor de Áreas Públicas ,AREA ESPECIAL
+4,CRE - Ceilândia,372,ESCOLA CLASSE 55 DE CEILÂNDIA,pública,"72261200",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),QNO 20 ,AE 
+11,CRE - Taguatinga,302,ESCOLA BILINGUE LIBRAS E PORTUGUÊS ESCRITO DE TAGUATINGA,pública,"72130530",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNH 3 ,QNH 1/3 - ÁREA ESPECIAL 02
+4,CRE - Ceilândia,25,Centro de Ensino Fundamental 07 de Ceilândia,pública,"72215540",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNM 5/7 ,AE
+4,CRE - Ceilândia,350,Escola Classe 16 de Ceilândia,pública,"72250540",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNO 4/6 ,Áarea Especial  Setor O
+14,CRE - Santa Maria,191,CENTRO DE ENSINO FUNDAMENTAL SARGENTO LIMA,pública,"72587035",DF,Brasília,Santa Maria                   ,Área Alfa (Santa Maria),Conjunto S Quadra 6 ,area especial
+11,CRE - Taguatinga,327,CENTRO EDUCACIONAL 06 DE TAGUATINGA,pública,"72150508",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNL 1 Área Especial 1 ,Setor L Norte
+6,CRE - Brazlândia,19,Centro Educacional INCRA 08,pública,"72760040",DF,Brasília,Brazlândia                    ,Incra 8 (Brazlândia),Quadra 4 ,Lt. Setor norte Brazlândia
+14,CRE - Santa Maria,131,CENTRO EDUCACIONAL 416 DE SANTA MARIA,pública,"72546330",DF,Brasília,Santa Maria                   ,Santa Maria,EQ 416/516 ,"lote A, Área Especial"
+14,CRE - Santa Maria,337,CENTRO DE ENSINO MÉDIO 404 DE SANTA MARIA,pública,"72504241",DF,Brasília,Santa Maria                   ,Santa Maria,CL 404 Bloco A ,LOTE A
+14,CRE - Santa Maria,128,CENTRO DE ENSINO FUNDAMENTAL 213 DE SANTA MARIA,pública,"72543227",DF,Brasília,Santa Maria                   ,Santa Maria,CL 213 Bloco G ,Lote 01
+11,CRE - Taguatinga,308,ESCOLA CLASSE 42 DE TAGUATINGA,pública,"72145507",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNM 34/36 Área Especial s/n ,Área Especial 01
+14,CRE - Santa Maria,130,CENTRO DE ENSINO FUNDAMENTAL 403 DE SANTA MARIA,pública,"72503240",DF,Brasília,Santa Maria                   ,Santa Maria,CL 403 ,Lote 1-A
+14,CRE - Santa Maria,663,CENTRO EDUCACIONAL 310 DE SANTA MARIA,pública,"72510238",DF,Brasília,Santa Maria                   ,Santa Maria,CL 310 Bloco H ,Santa Maria
+3,CRE - Plano Piloto e Cruzeiro,1,CENTRO DE ENSINO FUNDAMENTAL POLIVALENTE,pública,"70390130",DF,Brasília,Brasília                      ,Asa Sul,SGAS 913 ,MOD 57/58
+4,CRE - Ceilândia,35,CENTRO DE ENSINO FUNDAMENTAL 19 DE CEILÂNDIA,pública,"72220550",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNN 18/20 ,AE - B GUARIROBA - CEILANDIA SUL
+14,CRE - Santa Maria,611,CENTRO DE ENSINO FUNDAMENTAL 418 DE SANTA MARIA,pública,"72548700",DF,Brasília,Santa Maria                   ,Santa Maria,QR 418 ,EQ 418/518 LOTE 01 A/E
+3,CRE - Plano Piloto e Cruzeiro,11,CENTRO DE ENSINO FUNDAMENTAL 01 DO LAGO NORTE,pública,"71510200",DF,Brasília,Lago Norte                    ,Setor de Habitações Individuais Norte,SHIN QI 4 ,AE
+14,CRE - Santa Maria,336,CENTRO DE ENSINO FUNDAMENTAL 316 DE SANTA MARIA,pública,"72546231",DF,Brasília,Santa Maria                   ,Santa Maria,CL 316 Bloco A ,LOTE 1B
+14,CRE - Santa Maria,824,CENTRO INTERESCOLAR DE LÍNGUAS 01 DE SANTA MARIA,pública,"72544204",DF,Brasília,Santa Maria                   ,Santa Maria,CL 114 Bloco D ,Área Especial
+7,CRE - Guará,877,CENTRO DE EDUCAÇÃO PROFISSIONAL ARTICULADO DO GUARÁ PROFESSORA TERESA ONDINA MALTESE,pública,"71050175",DF,Brasília,Guará                         ,Guará II,EQ 17/19 ,LOTE A
+6,CRE - Brazlândia,514,Centro de Ensino Médio 02 de Brazlândia,pública,"72736000",DF,Brasília,Brazlândia                    ,Vila São José (Brazlândia),Quadra 36 ,AE 03 
+8,CRE - Núcleo Bandeirante,855,Centro Interescolar de Línguas 01 do Núcleo Bandeirante,pública,"71720592",DF,Brasília,Núcleo Bandeirante            ,Núcleo Bandeirante,Terceira Avenida Área Especial 4 ,"04"
+3,CRE - Plano Piloto e Cruzeiro,866,Jardim de Infância 02 do Cruzeiro,pública,"70655860",DF,Brasília,Cruzeiro                      ,Cruzeiro Novo,SHCES Quadra 805 Área Especial s/n ,Lote 01 e 02
+5,CRE - Gama,43,CENTRO EDUCACIONAL 08 DO GAMA,pública,"72415230",DF,Brasília,Gama                          ,Setor Sul (Gama),Praça 4 Bloco A ,Área Especial
+10,CRE - Sobradinho,153,CENTRO DE ENSINO FUNDAMENTAL 08 DE SOBRADINHO,pública,"73060130",DF,Brasília,Sobradinho II                 ,Setor Oeste (Sobradinho II),AR 03 ,AR 03 LT 04 SETOR OESTE
+13,CRE - Paranoá,856,Centro Interescolar de Línguas 01 do Paranoá,pública,"71571710",DF,Brasília,Paranoá                       ,Paranoá,Avenida Paranoá Bloco 9 ,"Quadra 17, Lote 1"
+16,CRE - Recanto das Emas,150,Centro de Ensino Fundamental Granja das Oliveiras,pública,,,,,,,
+8,CRE - Núcleo Bandeirante,444,Escola Classe Verde do Riacho Fundo I,pública,"71820211",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,QS 2 Área Especial A ,.
+5,CRE - Gama,495,CENTRO EDUCACIONAL 06 DO GAMA,pública,"72450027",DF,Brasília,Gama                          ,Setor Leste (Gama),EQ 2/7 ,Area Especial
+3,CRE - Plano Piloto e Cruzeiro,9,CENTRO DE ENSINO FUNDAMENTAL 04 DE BRASÍLIA,pública,"70376000",DF,Brasília,Brasília                      ,Asa Sul,SQS 113 ,AE
+3,CRE - Plano Piloto e Cruzeiro,2,CENTRO DE ENSINO FUNDAMENTAL GAN,pública,"70830100",DF,Brasília,Brasília                      ,Asa Norte,SGAN 603 ,MÓDULO H
+10,CRE - Sobradinho,90,CENTRO DE ENSINO FUNDAMENTAL 01 DE SOBRADINHO,pública,"73015321",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 2 Conjunto C-21 ,LOTE F
+6,CRE - Brazlândia,17,Centro de Ensino Fundamental 01 de Brazlândia,pública,"72726125",DF,Brasília,Brazlândia                    ,Veredas (Brazlândia),PIQ 06 ,Piq 06 LT . 02
+16,CRE - Recanto das Emas,591,CENTRO DE ENSINO FUNDAMENTAL 301 DO RECANTO DAS EMAS,pública,"72620200",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 301 ,AE
+3,CRE - Plano Piloto e Cruzeiro,280,Centro de Educação de Jovens e Adultos Verde Oliva - CESVO  ,pública,,,,,,,
+4,CRE - Ceilândia,352,ESCOLA CLASSE 18 DE CEILÂNDIA,pública,"72215530",DF,Brasília,Ceilândia                     ,Ceilândia Sul (Ceilândia),EQNM 3/5 ,AE
+8,CRE - Núcleo Bandeirante,68,Centro de Ensino Fundamental Metropolitana,pública,"71730110",DF,Brasília,Núcleo Bandeirante            ,Metropolitana (Núcleo Bandeirante),Rua 1 ,Lote 06 Praça Metropolitana
+8,CRE - Núcleo Bandeirante,73,Centro Educacional Vargem Bonita,pública,"71750000",DF,Brasília,Núcleo Bandeirante            ,Núcleo Rural Vargem Bonita (Núcleo Bandeirante),Núcleo Rural Vargem Bonita ,.
+8,CRE - Núcleo Bandeirante,67,Centro de Ensino Médio 01 do Riacho Fundo I,pública,"71825400",DF,Brasília,Riacho Fundo I                ,Riacho Fundo I,QS 14 ,Lote A
+3,CRE - Plano Piloto e Cruzeiro,4,CENTRO DE ENSINO FUNDAMENTAL ATHOS BULCÃO,pública,"70650390",DF,Brasília,Cruzeiro                      ,Cruzeiro Novo,SHCES Quadra 309 ,Lote 01
+15,CRE - São Sebastião,869,Centro de Educação Infantil 04 de São Sebastião,pública,"71692607",DF,Brasília,São Sebastião                 ,Setor Residencial Oeste (São Sebastião),Quadra 203 Conjunto 3 ,Lote 06 / 15
+3,CRE - Plano Piloto e Cruzeiro,239,ESCOLA CLASSE 05 DO CRUZEIRO,pública,"70650210",DF,Brasília,Cruzeiro                      ,Cruzeiro Novo,SHCES Quadra 201 ,LOTE 01
+9,CRE - Planaltina,537,Escola Classe da Lagoinha,pública,,,,,,,
+9,CRE - Planaltina,543,Escola Classe Major Cosme de Farias,pública,,,,,,,
+9,CRE - Planaltina,552,Escola Classe Retiro do Meio,pública,,,,,,,
+6,CRE - Brazlândia,615,Centro de Ensino Fundamental 03 de Brazlândia,pública,"72746000",DF,Brasília,Brazlândia                    ,Vila São José (Brazlândia),Quadra 46 ,area especial nº1
+3,CRE - Plano Piloto e Cruzeiro,259,ESCOLA CLASSE 204 SUL,pública,"70234000",DF,Brasília,Brasília                      ,Asa Sul,SQS 204 ,AE
+11,CRE - Taguatinga,165,CENTRO DE ENSINO FUNDAMENTAL 19 DE TAGUATINGA,pública,"72155525",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),EQNL 10/12 Área Especial s/n ,Setor L Norte
+11,CRE - Taguatinga,867,Centro de Educação infantil 07 de Taguatinga,pública,"72020320",DF,Brasília,Taguatinga                    ,Taguatinga Sul (Taguatinga),QSD 32 ,AREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,242,ESCOLA CLASSE 08 DO CRUZEIRO,pública,"70660060",DF,Brasília,Sudoeste/Octogonal            ,Área Octogonal,AOS 6 ,LOTE 03
+8,CRE - Núcleo Bandeirante,446,Centro de Ensino Fundamental 01 do Riacho Fundo II,pública,"71880047",DF,Brasília,Riacho Fundo II               ,Riacho Fundo II,QN 7D Área Especial 1 ,.
+7,CRE - Guará,868,Centro de Ensino Fundamental 03 da Estrutural,pública,"71200029",DF,Brasília,SIA                           ,Zona Industrial (Guará),Trecho SIA Trecho 2 - de 1505 ao fim - lado ímpar,LT 1815 A 1825
+3,CRE - Plano Piloto e Cruzeiro,251,ESCOLA CLASSE 407 NORTE,pública,"70855000",DF,Brasília,Brasília                      ,Asa Norte,SQN 407 ,AE
+3,CRE - Plano Piloto e Cruzeiro,158,ESCOLA CLASSE 413 SUL,pública,"70296110",DF,Brasília,Brasília                      ,Asa Sul,SQS 413 Bloco K ,AE
+9,CRE - Planaltina,78,ESCOLA CLASSE MESTRE D ARMAS,pública,"73370002",DF,Brasília,Planaltina                    ,Vale do Amanhecer (Planaltina),Conjunto Residencial 2 ,LOTE 01 - ÁREA ESPECIAL
+9,CRE - Planaltina,545,Centro Educacional Stella dos Cherubins Guimarães Trois,pública,"73330033",DF,Brasília,Planaltina                    ,Setor Tradicional (Planaltina),"Avenida Hugo Lobo (Quadras 82,83,90,91,96,97)",Qd 97 - Área Especial s/n Setor Sul 
+5,CRE - Gama,193,CENTRO EDUCACIONAL ENGENHO DAS LAJES,pública,"72492120",DF,Brasília,Gama                          ,Engenho das Lages (Gama),Rua Hilário Ribeiro ,Engenho das lages BR 060 KM 30 Rodovia BSB/GO
+4,CRE - Ceilândia,28,CENTRO DE ENSINO FUNDAMENTAL 12 DE CEILÂNDIA,pública,"72250530",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNO 2/4 ,AE
+15,CRE - São Sebastião,652,CENTRO DE ENSINO FUNDAMENTAL MIGUEL ARCANJO,pública,"71697000",DF,Brasília,São Sebastião                 ,São Bartolomeu (São Sebastião),Quadra 1 ,area especial 03
+9,CRE - Planaltina,655,CENTRO EDUCACIONAL DONA AMÉRICA GUIMARÃES,pública,"73368854",DF,Brasília,Planaltina                    ,Arapoanga (Planaltina),Quadra 10K Conjunto C ,Àrea Especial
+5,CRE - Gama,493,Centro de Ensino Médio 02 do Gama,pública,"72405360",DF,Brasília,Gama                          ,Setor Central (Gama),Quadra 36 ,EQ 27/36 area especial lado oeste
+5,CRE - Gama,494,Centro de Ensino Médio 03 do Gama,pública,"72410318",DF,Brasília,Gama                          ,Setor Sul (Gama),EQ 5/11 Área Especial CEF 15 (Áreas Especiais),AE Setor Sul 
+6,CRE - Brazlândia,510,Escola Classe INCRA 07,pública,"72773010",DF,Brasília,Brazlândia                    ,Brazlândia,Incra 7 ,RESERVA G GLEBA 03 LOTE 82
+10,CRE - Sobradinho,407,ESCOLA CLASSE 01 DE SOBRADINHO,pública,"73025060",DF,Brasília,Sobradinho                    ,Sobradinho,Quadra 6 ,RUA 05 AE 1
+16,CRE - Recanto das Emas,610,CENTRO DE ENSINO FUNDAMENTAL 602 DO RECANTO DAS EMAS,pública,"72640201",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 602 Conjunto 1 ,Lt 01
+3,CRE - Plano Piloto e Cruzeiro,261,ESCOLA CLASSE 209 SUL,pública,"70272000",DF,Brasília,Brasília                      ,Asa Sul,SQS 209 ,AE
+3,CRE - Plano Piloto e Cruzeiro,247,ESCOLA CLASSE 304 NORTE,pública,"70736000",DF,Brasília,Brasília                      ,Asa Norte,SQN 304 ,ÁREA ESPECIAL
+3,CRE - Plano Piloto e Cruzeiro,237,ESCOLA CLASSE VARJÃO,pública,"71540400",DF,Brasília,Lago Norte                    ,Setor de Habitações Individuais Norte,Vila Varjão do Torto ,QUADRA 07 CONJUNTO D LOTE 02 AREA ESPECIAL
+11,CRE - Taguatinga,875,CENTRO EDUCACIONAL DE INTELIGÊNCIA,privada,"72130603",DF,Brasília,Taguatinga                    ,Taguatinga Norte (Taguatinga),QNH Área Especial 3 ,"ARMAZÉM 4,5,6 E 7,TÉRREO"
+16,CRE - Recanto das Emas,870,CENTRO DE EDUCAÇÃO DA PRIMEIRA INFÂNCIA PINHEIRINHO ROXO,pública,"72620117",DF,Brasília,Recanto das Emas              ,Recanto das Emas,Quadra 300 Conjunto 17 ,Lote 1
+9,CRE - Planaltina,522,ESCOLA CLASSE 07 DE PLANALTINA,pública,"73310150",DF,Brasília,Planaltina                    ,Setor de Educação (Planaltina),Setor Educacional ,QUADRA 45 BAIRRO NOSSA SENHORA DE FATIMA AREA ESPECIAL
+4,CRE - Ceilândia,176,Centro de Ensino Fundamental 26 de Ceilândia,pública,"72251500",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNO 5/7 ,Área Especial  Setor O
+4,CRE - Ceilândia,343,Escola Classe 03 de Ceilândia,pública,"72210550",DF,Brasília,Ceilândia                     ,Ceilândia Norte (Ceilândia),EQNM 18/20 ,AE

@@ -8,12 +8,16 @@ MatriculaWeb - Sec Edu DF
     ```shellscript
       $ rails g scaffold School name:string code:string user:belongs_to
     ```
+1. KnowledgeAreas
+    ```shell script
+      $ rails g scaffold KnowledgeArea name:string knowledge_area:belongs_to
+    ```
 1. Subject (workload = total time of it subject):
-    ```shellscript
-      $ rails g scaffold Subject name:string description:string workload:integer online_link:string class_schedule:string user:belongs_to
+    ```shell script
+      $ rails g scaffold Subject name:string description:string workload:integer online_link:string class_schedule:string user:belongs_to knowledge_area:belongs_to
     ```
 1. Subscription:
-    ```shellscript
+    ```shell script
       $ rails g scaffold Subscription access_type:string user:belongs_to subject:belongs_to 
     ```
 

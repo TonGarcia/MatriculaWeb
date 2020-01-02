@@ -56,7 +56,14 @@ pt-br:
         update: Atualizar Escola
     subjects:
       name: Disciplinas
+      action_name: Oferta de disciplinas
       title: Disciplinas Cadastradas
-      subtitle: Todas as disciplinas  usuários do sistema são cadastrados por seus superiores
-      new: Cadastrar novo usuário
+      subtitle: Disciplinas divididas nas categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
+      new: Cadastrar nova disciplina
+      edit: Editar disciplina
+    knowledge_areas:
+      name: Áreas do Conhecimento
+      title: Áreas do Conhecimento / Categoria Cadastradas
+      subtitle: Disciplinas divididas nas categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
+      new: Cadastrar nova área do conhecimento
       edit: Editar disciplina

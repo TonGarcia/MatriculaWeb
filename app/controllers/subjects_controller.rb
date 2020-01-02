@@ -25,6 +25,7 @@ class SubjectsController < ApplicationController
   # POST /subjects.json
   def create
     @subject = Subject.new(subject_params)
+    @subject.user_id = @current_user.id
 
     respond_to do |format|
       if @subject.save
@@ -42,6 +43,7 @@ class SubjectsController < ApplicationController
   def update
     respond_to do |format|
       if @subject.update(subject_params)
+        @subject.user_id = @current_user.id
         format.html { redirect_to @subject, notice: 'Subject was successfully updated.' }
         format.json { render :show, status: :ok, location: @subject }
       else

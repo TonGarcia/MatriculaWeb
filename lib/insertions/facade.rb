@@ -8,7 +8,7 @@ module Insertions
     def load_and_persist(show_progress=false, pagination=0)
       start_time = Time.now
       puts "Opening CSV at #{start_time}".colorize(:yellow)
-      dataset_path = File.join(Rails.root, 'datasource', self.file_name)
+      dataset_path = File.join(Rails.root, 'data', self.file_name)
 
       count = 0
       headers = []

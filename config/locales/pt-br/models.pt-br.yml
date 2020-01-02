@@ -44,15 +44,10 @@ pt-br:
         online_link: Aula online
         class_schedule: Agendamento
 
-  # KnowHow -----------------------------------------------------
-      experience:
-        role: Cargo
-        company_country: País da Empresa
-        company_legal_id: CNPJ
-        description: Descrição Cargo e Atividades desempenhadas
-        researcher: Perfil Pesquisador (ID)
-        started_at: Início em
-        end_at: Fim em
+  # KnowledgeArea -----------------------------------------------------
+      knowledge_area:
+        name: Cargo
+        knowledge_area: Área Mãe
 
   # Search -----------------------------------------------------
       search:
