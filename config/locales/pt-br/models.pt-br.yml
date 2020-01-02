@@ -46,8 +46,10 @@ pt-br:
 
   # KnowledgeArea -----------------------------------------------------
       knowledge_area:
-        name: Cargo
-        knowledge_area: Área Mãe
+        name: Nome
+        knowledge_area: CASO HAJA esta Área do Conhecimento deriva de outra
+        knowledge_area_show: Área do Conhecimento daqual esta deriva
+        description: Descrição da Área de Conhecimento
 
   # Search -----------------------------------------------------
       search:

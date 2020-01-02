@@ -1,4 +1,4 @@
-= form_for @knowledge_area do |f|
+=form_for @knowledge_area do |f|
   - if @knowledge_area.errors.any?
     #error_explanation
       h2 = "#{pluralize(@knowledge_area.errors.count, "error")} prohibited this knowledge_area from being saved:"
@@ -6,10 +6,17 @@
         - @knowledge_area.errors.full_messages.each do |message|
           li = message
 
-  .field
-    = f.label :name
-    = f.text_field :name
-  .field
-    = f.label :knowledge_area
-    = f.text_field :knowledge_area
-  .actions = f.submit
+  .form-group
+    =f.label :name
+    =f.text_field :name, class: 'form-control', required: true
+
+  .form-group
+    =f.label :description
+    =f.text_area :description, class: 'form-control', required: true
+
+  .form-group
+    =f.label :knowledge_area
+    =f.select :knowledge_area_id, @knowledge_areas.map { |ka| [ka.name, ka.id] }, {include_blank: "CASO HAJA, selecione uma Área do Conhecimento mãe (de qual esta deriva)"}, class: 'form-control', required: true
+
+  .footer.text-center
+  = f.submit t("actions.#{params[:controller]}.button.#{params[:action]}"), class: 'btn btn-fill btn-info btn-wd'

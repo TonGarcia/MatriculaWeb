@@ -61,9 +61,19 @@ pt-br:
       subtitle: Disciplinas divididas nas categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
       new: Cadastrar nova disciplina
       edit: Editar disciplina
+      button:
+        new: Cadastrar Disciplina
+        create: Cadastrar Disciplina
+        edit: Atualizar Disciplina
+        update: Atualizar Disciplina
     knowledge_areas:
       name: Áreas do Conhecimento
       title: Áreas do Conhecimento / Categoria Cadastradas
       subtitle: Disciplinas divididas nas categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
       new: Cadastrar nova área do conhecimento
       edit: Editar disciplina
+      button:
+        new: Cadastrar Área do Conhecimento
+        create: Cadastrar Área do Conhecimento
+        edit: Atualizar Área do Conhecimento
+        update: Atualizar Área do Conhecimento

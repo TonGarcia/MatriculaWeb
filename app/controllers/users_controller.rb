@@ -82,7 +82,7 @@ class UsersController < ApplicationController
       aux
     end
 
-    # Role setup
+    # Setup dependencies
     def setup
       @roles = Role.all
       @schools = School.all

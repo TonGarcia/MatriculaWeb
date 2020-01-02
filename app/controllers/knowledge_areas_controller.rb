@@ -1,4 +1,5 @@
 class KnowledgeAreasController < ApplicationController
+  before_action :setup, only: [:new, :edit, :update]
   before_action :set_knowledge_area, only: [:show, :edit, :update, :destroy]
 
   # GET /knowledge_areas
@@ -65,10 +66,16 @@ class KnowledgeAreasController < ApplicationController
     # Use callbacks to share common setup or constraints between actions.
     def set_knowledge_area
       @knowledge_area = KnowledgeArea.find(params[:id])
+      @current_obj = @knowledge_area
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def knowledge_area_params
       params.require(:knowledge_area).permit(:name, :knowledge_area_id)
+    end
+
+    # Setup dependencies
+    def setup
+      @knowledge_areas = KnowledgeArea.all
     end
 end

@@ -1,12 +1,14 @@
-p#notice = notice
+.container-fluid
+  .row
+    p.col-md-6
+      b ="#{t('activerecord.attributes.knowledge_area.name')}: "
+      =@knowledge_area.name
 
-p
-  strong Name:
-  = @knowledge_area.name
-p
-  strong Knowledge area:
-  = @knowledge_area.knowledge_area
+    p.col-md-6
+      b ="#{t('activerecord.attributes.knowledge_area.knowledge_area_show')}: "
+      =@knowledge_area.parent_knowledge_area.name
 
-=> link_to 'Edit', edit_knowledge_area_path(@knowledge_area)
-'|
-=< link_to 'Back', knowledge_areas_path
+  .row
+    p.col-md-12
+      b = "#{t('activerecord.attributes.knowledge_area.description')}: "
+      = @knowledge_area.description
