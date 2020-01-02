@@ -6,6 +6,9 @@
           th =t('activerecord.attributes.school.name')
           th =t('activerecord.attributes.school.code')
           th =t('activerecord.attributes.school.user')
+          th =t('activerecord.attributes.school.total_rooms')
+          th =t('activerecord.attributes.school.used_rooms')
+          th =t('activerecord.attributes.school.amount_employees')
           th =t('activerecord.attributes.school.created_at')
           th =t('activerecord.attributes.school.updated_at')
           th
@@ -18,6 +21,9 @@
             td =school.name
             td =school.code
             td =school.user.first_name
+            td =school.total_rooms
+            td =school.used_rooms
+            td =school.amount_employees
             td =school.created_at
             td =school.updated_at
             td =link_to school do

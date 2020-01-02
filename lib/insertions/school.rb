@@ -6,7 +6,7 @@ module Insertions
 
     def initialize
       self.model = 'School'
-      self.file_name = 'schools-processed.csv'
+      self.file_name = 'processed_schools_df.csv'
       #self.file_name = 'schools-sample.csv'
 
       #self.additional_vals = [1]

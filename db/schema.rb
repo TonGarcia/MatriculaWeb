@@ -33,6 +33,9 @@ ActiveRecord::Schema.define(version: 20191225213925) do
   create_table "schools", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string "name", null: false
     t.string "code", null: false
+    t.integer "total_rooms"
+    t.integer "used_rooms"
+    t.integer "amount_employees"
     t.bigint "user_id", default: 1, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false

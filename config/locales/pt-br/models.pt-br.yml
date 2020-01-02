@@ -33,6 +33,9 @@ pt-br:
         code: Código MEC
         user: Criada por
         coordinator: Coordenador
+        total_rooms: Qtd. Salas
+        used_rooms: Qtd. Salas em uso
+        amount_employees: Qtd. Funcionários
         created_at: Criada em
         updated_at: Atualizada em
 

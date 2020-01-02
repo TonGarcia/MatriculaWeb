@@ -12,6 +12,15 @@
   .form-group
     =f.label :code
     =f.text_field :code, class: 'form-control', required: true
+  .form-group
+    =f.label :total_rooms
+    =f.text_field :total_rooms, class: 'form-control'
+  .form-group
+    =f.label :used_rooms
+    =f.text_field :used_rooms, class: 'form-control'
+  .form-group
+    =f.label :amount_employees
+    =f.text_field :amount_employees, class: 'form-control'
 
   .footer.text-center
   =f.submit t("actions.#{params[:controller]}.button.#{params[:action]}"), class: 'btn btn-fill btn-info btn-wd'
