@@ -36,6 +36,8 @@ ActiveRecord::Schema.define(version: 20191225213925) do
     t.integer "total_rooms"
     t.integer "used_rooms"
     t.integer "amount_employees"
+    t.string "administrative_type"
+    t.boolean "technical_or_high_school", default: false, null: false
     t.bigint "user_id", default: 1, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false

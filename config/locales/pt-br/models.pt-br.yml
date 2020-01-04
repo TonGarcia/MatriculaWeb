@@ -29,23 +29,25 @@ pt-br:
 
   # School -----------------------------------------------------
       school:
-        name: Nome
+        name: Nome da Escola
         code: Código MEC
         user: Criada por
         coordinator: Coordenador
         total_rooms: Qtd. Salas
         used_rooms: Qtd. Salas em uso
         amount_employees: Qtd. Funcionários
+        technical_or_high_school: Ensino Médio ou Técnico
         created_at: Criada em
         updated_at: Atualizada em
 
   # Subject -----------------------------------------------------
       subject:
-        name: Nome
+        name: Nome da Disciplina
         description: Descrição
-        workload: Carga Horária
-        online_link: Aula online
-        class_schedule: Agendamento
+        workload: Carga Horária (número de horas)
+        online_link: Aula online (links como vimeo, youtube e etc.)
+        class_schedule: Agendamento (horários disponíveis)
+        class_schedule_show: Agendamento (horários disponíveis)
 
   # KnowledgeArea -----------------------------------------------------
       knowledge_area:

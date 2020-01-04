@@ -48,4 +48,7 @@ pt-br:
         subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
       new:
         title: Nova Área do Conhecimento
-        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis
+      edit:
+        title: Editando Área do Conhecimento
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis

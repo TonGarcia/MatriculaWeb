@@ -9,8 +9,7 @@
           th =t('activerecord.attributes.school.total_rooms')
           th =t('activerecord.attributes.school.used_rooms')
           th =t('activerecord.attributes.school.amount_employees')
-          th =t('activerecord.attributes.school.created_at')
-          th =t('activerecord.attributes.school.updated_at')
+          th =t('activerecord.attributes.school.technical_or_high_school')
           th
           th
           th
@@ -24,8 +23,11 @@
             td =school.total_rooms
             td =school.used_rooms
             td =school.amount_employees
-            td =school.created_at
-            td =school.updated_at
+            td
+              -if school.technical_or_high_school
+                p sim
+              -else
+                p não
             td =link_to school do
               i.fa.fa-eye
             td =link_to edit_school_path(school) do

@@ -6,7 +6,7 @@ MatriculaWeb - Sec Edu DF
 
 1. School:
     ```shellscript
-      $ rails g scaffold School name:string code:string user:belongs_to
+      $ rails g scaffold School name:string code:string administrative_type:string total_rooms:integer used_rooms:integer amount_employees:integer user:belongs_to
     ```
 1. KnowledgeAreas
     ```shell script
