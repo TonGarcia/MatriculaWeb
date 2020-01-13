@@ -50,12 +50,11 @@ ActiveRecord::Schema.define(version: 20191225213925) do
     t.integer "workload"
     t.string "online_link"
     t.string "class_schedule"
-    t.integer "structural_axes_id"
-    t.integer "sub_knowledge_area_id"
-    t.integer "super_knowledge_area_id"
+    t.bigint "knowledge_area_id"
     t.bigint "user_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["knowledge_area_id"], name: "index_subjects_on_knowledge_area_id"
     t.index ["user_id"], name: "index_subjects_on_user_id"
   end
 
@@ -104,6 +103,7 @@ ActiveRecord::Schema.define(version: 20191225213925) do
   end
 
   add_foreign_key "knowledge_areas", "knowledge_areas"
+  add_foreign_key "subjects", "knowledge_areas"
   add_foreign_key "subjects", "users"
   add_foreign_key "subscriptions", "subjects"
   add_foreign_key "subscriptions", "users"

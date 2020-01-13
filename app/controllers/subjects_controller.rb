@@ -1,4 +1,5 @@
 class SubjectsController < ApplicationController
+  before_action :set_aux_vars
   before_action :set_subject, only: [:show, :edit, :update, :destroy]
 
   # GET /subjects
@@ -64,6 +65,19 @@ class SubjectsController < ApplicationController
   end
 
   private
+    def set_aux_vars
+      @hours = Array(9..21)
+      @weekdays = %w(Seg Ter Qua Qui Sex)
+      @schedule_options = []
+      @hours.each do |hour|
+        @weekdays.each do |weekday|
+          @schedule_options << "#{weekday} - #{SubjectsHelper.to_hour(hour)}"
+        end
+      end
+
+      @knowledge_areas = KnowledgeArea.where.not(knowledge_area_id: nil)
+    end
+
     # Use callbacks to share common setup or constraints between actions.
     def set_subject
       @subject = Subject.find(params[:id])
@@ -72,6 +86,11 @@ class SubjectsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def subject_params
-      params.require(:subject).permit(:name, :description, :workload, :online_link, :class_schedule, :user_id)
+      aux_p = params.require(:subject).permit(:name, :description, :workload, :online_link, :knowledge_area_id)
+      aux_p[:user_id] = @current_user.id
+      class_schedule_str = params[:subject][:class_schedule].join()
+      class_schedule_str.slice!(0)
+      aux_p[:class_schedule] = class_schedule_str
+      aux_p
     end
 end

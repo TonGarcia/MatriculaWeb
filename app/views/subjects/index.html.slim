@@ -22,7 +22,7 @@
             td =subject.class_schedule
             td =link_to subject do
               i.fa.fa-eye
-            td =link_to edit_school_path(subject) do
+            td =link_to edit_subject_path(subject) do
               i.fa.fa-edit
             td =link_to subject, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
               i.fa.fa-trash.text-danger

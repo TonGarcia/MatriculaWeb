@@ -11,7 +11,7 @@
     =f.text_field :name, class: 'form-control', required: true
   .form-group
     =f.label :description
-    =f.text_field :description, class: 'form-control'
+    =f.text_area :description, class: 'form-control'
   .form-group
     =f.label :workload
     =f.number_field :workload, class: 'form-control', required: true
@@ -19,14 +19,26 @@
     =f.label :online_link
     =f.text_field :online_link, class: 'form-control'
   .form-group
+    =f.label :knowledge_area_id
+    =f.select :knowledge_area_id, @knowledge_areas.map {|ka| [ka.name, ka.id]}, {include_blank: "Selecione uma área do conhecimento"}, class: 'form-control', required: true
+  .form-group
     =f.label :class_schedule
-    p Obs.: *Pressione e mantenha pressionada a tecla ctrl de seu teclado e com o Mouse clique nas opções com o botão esquerdo. Selecione os dias e horários disponíveis, caso seja online este campo não é necessário
-    / =f.text_field :class_schedule, class: 'form-control', required: true
-    /f.select :class_schedule, @products, prompt: "Selecione os dias e horários disponíveis, caso seja online este campo não é necessário ", multiple: true
-    /:role_id, @roles.map {|r| [r.title, r.id]}, {include_blank: "Selecione um Papel/Cargo/Função para este usuário"}, class: 'form-control', required: true
-    / -Date::DAYNAMES.each do |day|
-    /   =f.check_box :class_schedule, {}, day
-    /     ="tst #{day}"
+    / TODO 'mounting string and view correctly, but when it updated it is increasing 1 position/
+    table.table#class_schedule
+      tbody
+        -@schedule_options.each_with_index do |so, i|
+          -if i%5==0
+            tr
+            td
+              label
+                /TODO: 'mounting string and view correctly, but when it updated it is increasing 1 position
+                =f.check_box :class_schedule, multiple: true, checked: @subject.class_schedule && @subject.class_schedule[i] == '1'
+                =so
+          -else
+            td
+              label
+                =f.check_box :class_schedule, multiple: true, checked: @subject.class_schedule && @subject.class_schedule[i] == '1'
+                =so
 
   .footer.text-center  
   =f.submit t("actions.#{params[:controller]}.button.#{params[:action]}"), class: 'btn btn-fill btn-info btn-wd'

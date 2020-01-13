@@ -48,6 +48,8 @@ pt-br:
         online_link: Aula online (links como vimeo, youtube e etc.)
         class_schedule: Agendamento (horários disponíveis)
         class_schedule_show: Agendamento (horários disponíveis)
+        knowledge_area: Área do Conhecimento
+        knowledge_area_id: Área do Conhecimento
 
   # KnowledgeArea -----------------------------------------------------
       knowledge_area:

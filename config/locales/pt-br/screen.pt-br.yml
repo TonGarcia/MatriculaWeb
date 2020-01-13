@@ -29,6 +29,9 @@ pt-br:
       new:
         title: Nova Escola
         subtitle: Após o cadastro da escola, associe um coordenador à esta e este poderá cadastrar alunos e professores
+      edit:
+        title: Editando Escola
+        subtitle: As escolas foram importadas da base do MEC, porém podem ser editadas e/ou excluídas.
     subjects:
       index:
         title: Lista de Disciplinas Cadastradas
