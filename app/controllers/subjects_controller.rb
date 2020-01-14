@@ -89,7 +89,7 @@ class SubjectsController < ApplicationController
       aux_p = params.require(:subject).permit(:name, :description, :workload, :online_link, :knowledge_area_id)
       aux_p[:user_id] = @current_user.id
       class_schedule_str = params[:subject][:class_schedule].join()
-      class_schedule_str.slice!(0)
+      class_schedule_str.gsub!('01', '1')
       aux_p[:class_schedule] = class_schedule_str
       aux_p
     end

@@ -23,22 +23,15 @@
     =f.select :knowledge_area_id, @knowledge_areas.map {|ka| [ka.name, ka.id]}, {include_blank: "Selecione uma área do conhecimento"}, class: 'form-control', required: true
   .form-group
     =f.label :class_schedule
-    / TODO 'mounting string and view correctly, but when it updated it is increasing 1 position/
     table.table#class_schedule
       tbody
         -@schedule_options.each_with_index do |so, i|
           -if i%5==0
             tr
-            td
-              label
-                /TODO: 'mounting string and view correctly, but when it updated it is increasing 1 position
-                =f.check_box :class_schedule, multiple: true, checked: @subject.class_schedule && @subject.class_schedule[i] == '1'
-                =so
-          -else
-            td
-              label
-                =f.check_box :class_schedule, multiple: true, checked: @subject.class_schedule && @subject.class_schedule[i] == '1'
-                =so
+          td
+            label
+              =f.check_box :class_schedule, multiple: true, checked: @subject.class_schedule && @subject.class_schedule[i] == '1'
+              =so
 
   .footer.text-center  
   =f.submit t("actions.#{params[:controller]}.button.#{params[:action]}"), class: 'btn btn-fill btn-info btn-wd'
