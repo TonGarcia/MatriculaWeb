@@ -7,7 +7,7 @@
           th =t('activerecord.attributes.subject.description')
           th =t('activerecord.attributes.subject.workload')
           th =t('activerecord.attributes.subject.online_link')
-          th =t('activerecord.attributes.subject.class_schedule')
+          / th =t('activerecord.attributes.subject.class_schedule')
           th
           th
           th
@@ -19,7 +19,7 @@
             td =subject.description
             td =subject.workload
             td =subject.online_link
-            td =subject.class_schedule
+            / td =subject.class_schedule
             td =link_to subject do
               i.fa.fa-eye
             td =link_to edit_subject_path(subject) do

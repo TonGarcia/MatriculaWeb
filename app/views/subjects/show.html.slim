@@ -1,26 +1,27 @@
-p#notice = notice
+p#notice =notice
 
-p
-  strong Name:
-  = @subject.name
-p
-  strong Description:
-  = @subject.description
-p
-  strong Workload:
-  = @subject.workload
-  strong Carga Semanal:
-  = @subject.calc_workload
-p
-  strong Online link:
-  = @subject.online_link
-p
-  strong Class schedule:
-  = @subject.class_schedule
-p
-  strong User:
-  = @subject.user
+.container-fluid
+  .row
+    p.col-md-6
+      strong ="#{t('activerecord.attributes.subject.name')}: "
+      =@subject.name
+    p.col-md-6
+      strong ="#{t('activerecord.attributes.subject.description')}: "
+      =@subject.description
+  .row
+    p.col-md-6
+      strong ="#{t('activerecord.attributes.subject.workload')}: "
+      =@subject.workload
+      strong ="#{t('activerecord.attributes.subject.workload')}: "
+      =@subject.calc_workload
+    p.col-md-6
+      strong ="#{t('activerecord.attributes.subject.online_link')}: "
+      =@subject.online_link
 
-=> link_to 'Edit', edit_subject_path(@subject)
-'|
-=< link_to 'Back', subjects_path
+  p
+    strong ="#{t('activerecord.attributes.subject.class_schedule')}: "
+    -@schedule_options.each_with_index do |so, i|
+      -if i % 5 == 0
+        .row
+      p.col-md-2 class=(('bg-success ' if @subject.class_schedule[i] == '1'))
+        =so

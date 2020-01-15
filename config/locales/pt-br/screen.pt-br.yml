@@ -38,10 +38,13 @@ pt-br:
         subtitle: Disciplinas divididas nas categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
       show:
         title: Ficha da Disciplina
-        subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+        subtitle: Os horários com destaque são os horários nos quais a Disciplina estará disponível
       new:
         title: Nova Disciplina
         subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
+      edit:
+        title: Editando Disciplina
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis
     knowledge_areas:
       index:
         title: Lista de Áreas e sub-áreas do Conhecimento
