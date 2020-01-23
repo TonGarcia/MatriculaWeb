@@ -80,6 +80,7 @@ class SubjectsController < ApplicationController
 
     # Use callbacks to share common setup or constraints between actions.
     def set_subject
+      #if @current_user
       @subject = Subject.find(params[:id])
       @current_obj = @subject
     end
