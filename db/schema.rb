@@ -74,6 +74,7 @@ ActiveRecord::Schema.define(version: 20191225213925) do
     t.string "timezone", default: "-03:00", null: false
     t.integer "role_id"
     t.string "gov_id", null: false
+    t.string "enrollment_id", default: ""
     t.string "phone_number", default: ""
     t.string "email", default: "", null: false
     t.string "encrypted_password", default: "", null: false

@@ -15,10 +15,12 @@ html
         .sidebar-wrapper
           =render 'layouts/partials/components/sidebar/user_profile_actions'
 
-          -if teacher_role?
+          -if admin?
             =render 'layouts/partials/components/sidebar/resources_actions/admin'
           -elsif staff_role?
             =render 'layouts/partials/components/sidebar/resources_actions/admin'
+          -elsif teacher_role?
+            =render 'layouts/partials/components/sidebar/resources_actions/teacher'
           -else
             =render 'layouts/partials/components/sidebar/resources_actions/user'
 
