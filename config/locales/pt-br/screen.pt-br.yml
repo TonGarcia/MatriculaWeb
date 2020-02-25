@@ -19,6 +19,9 @@ pt-br:
       show:
         title: Ficha do Usuário
         subtitle: Dados completos do usuário (pode incluir desde dados da conta até indicadores)
+      edit:
+        title: Editando Usuário
+        subtitle: Dados completos do usuário (pode incluir desde dados da conta até indicadores)
     schools:
       index:
         title: Lista de Escolas Cadastradas
@@ -50,8 +53,8 @@ pt-br:
         title: Lista de Áreas e sub-áreas do Conhecimento
         subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino médio do MEC, porém podem ser alteradas
       show:
-        title: Ficha da Disciplina
-        subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+        title: Ficha de Áreas e sub-áreas do Conhecimento
+        subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino médio do MEC, porém podem ser alteradas
       new:
         title: Nova Área do Conhecimento
         subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis
