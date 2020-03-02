@@ -16,15 +16,15 @@ puts 'Inserting Roles...'.colorize(:green)
               the_role: '{"system":{"administrator":false},"admin_roles":{"index":false},
                               "researchers":{"index":true, "show":true,"new":true,"create":true,"edit":true,"update":true}}'
 
-  Role.create name: 'coordinator', title: 'Coordenador de Escola', description: 'Este usuário tem permissão para cadastro de seus alunos e professores',
+  Role.create name: 'coordinator', title: 'Coordenador de Instituição de Ensino', description: 'Este usuário tem permissão para cadastro de seus alunos e professores',
               the_role: '{"system":{"administrator":false},"admin_roles":{"index":false},
                             "researchers":{"index":true, "show":true,"new":true,"create":true,"edit":true,"update":true}}'
 
-  Role.create name: 'teacher', title: 'Professor de Escola', description: 'Este usuário tem permissão para cadastro de oferta de disciplinas',
+  Role.create name: 'teacher', title: 'Professor de Instituição de Ensino', description: 'Este usuário tem permissão para cadastro de oferta de disciplinas',
               the_role: '{"system":{"administrator":false},"admin_roles":{"index":false},
                             "researchers":{"index":true, "show":true,"new":true,"create":true,"edit":true,"update":true}}'
 
-  Role.create name: 'student', title: 'Estudante/aluno de Escola', description: 'Este usuário só possui permissão para ver e se candidatar às vagas',
+  Role.create name: 'student', title: 'Estudante/aluno de Instituição de Ensino', description: 'Este usuário só possui permissão para ver e se candidatar às vagas',
               the_role: '{"system":{"administrator":false},"admin_roles":{"index":false},
                             "researchers":{"index":true, "show":true,"new":true,"create":true,"edit":true,"update":true}}'
 puts '...Roles inserted.'.colorize(:light_blue)

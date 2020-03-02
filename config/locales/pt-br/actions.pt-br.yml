@@ -44,16 +44,16 @@ pt-br:
       new: Cadastrar novo usuário
       edit: Editar usuário
     schools:
-      name: Escolas
-      title: Escolas Cadastradas no Sistema
-      subtitle: Todas as escolas do sistema são cadastrados e mantidas pela Secretaria de Educação
-      new: Cadastrar nova escola
-      edit: Editar escola
+      name: Instituições de Ensino
+      title: Instituições de Ensino Cadastradas no Sistema
+      subtitle: Todas as Instituições de Ensino do sistema são cadastrados e mantidas pela Direção/Secretaria
+      new: Cadastrar nova Instituição de Ensino
+      edit: Editar Instituição de Ensino
       button:
-        new: Cadastrar Escola
-        create: Cadastrar Escola
-        edit: Atualizar Escola
-        update: Atualizar Escola
+        new: Cadastrar Instituição de Ensino
+        create: Cadastrar Instituição de Ensino
+        edit: Atualizar Instituição de Ensino
+        update: Atualizar Instituição de Ensino
     subjects:
       name: Disciplinas
       action_name: Oferta de disciplinas
@@ -71,7 +71,7 @@ pt-br:
       title: Áreas do Conhecimento / Categoria Cadastradas
       subtitle: Disciplinas divididas nas categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
       new: Cadastrar nova área do conhecimento
-      edit: Editar disciplina
+      edit: Editar área do conhecimento
       button:
         new: Cadastrar Área do Conhecimento
         create: Cadastrar Área do Conhecimento

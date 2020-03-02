@@ -24,16 +24,16 @@ pt-br:
         subtitle: Dados completos do usuário (pode incluir desde dados da conta até indicadores)
     schools:
       index:
-        title: Lista de Escolas Cadastradas
+        title: Lista de Instituições de Ensino Cadastradas
         subtitle: A Lista de escolas é uma tabela dinâmica que permite pesquisar e ordenar informações
       show:
-        title: Ficha da Escola
+        title: Ficha da Instituição de Ensino
         subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
       new:
-        title: Nova Escola
+        title: Nova Instituição de Ensino
         subtitle: Após o cadastro da escola, associe um coordenador à esta e este poderá cadastrar alunos e professores
       edit:
-        title: Editando Escola
+        title: Editando Instituição de Ensino
         subtitle: As escolas foram importadas da base do MEC, porém podem ser editadas e/ou excluídas.
     subjects:
       index:
@@ -51,10 +51,10 @@ pt-br:
     knowledge_areas:
       index:
         title: Lista de Áreas e sub-áreas do Conhecimento
-        subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino médio do MEC, porém podem ser alteradas
+        subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino do MEC, porém podem ser alteradas
       show:
         title: Ficha de Áreas e sub-áreas do Conhecimento
-        subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino médio do MEC, porém podem ser alteradas
+        subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino do MEC, porém podem ser alteradas
       new:
         title: Nova Área do Conhecimento
         subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis

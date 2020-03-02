@@ -4,6 +4,10 @@ module ApplicationHelper
     t('descriptions.product_name')
   end
 
+  def product_name_short
+    t('descriptions.product_name').split('. ')[0]
+  end
+
   # Must return it app name based on user locale (default is pt-BR)
   def app_name
     'MatriculaWeb'
