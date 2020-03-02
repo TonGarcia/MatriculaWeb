@@ -89,3 +89,12 @@ puts 'Inserting KnowledgeAreas...'.colorize(:green)
   KnowledgeArea.create name: 'Trilhas', knowledge_area_id: it_fom.id, description: 'As Trilhas de Aprendizagem são compostas por uma sequência de quatro unidades curriculares e possuem a duração total de quatro semestres, que irão possibilitar o aprofundamento progressivo das aprendizagens em uma área do conhecimento e/ou na Formação Profissional e Técnica.'
 puts '...KnowledgeAreas inserted.'.colorize(:light_blue)
 # /KNOWLEDGE AREAS
+
+
+# Creates Subjects
+# SUBJECTS
+puts 'Inserting Subjects...'.colorize(:green)
+  Subject.create name: 'Empreendedorismo Digital', description: 'Como criar uma empresa de casa e vender pelo celular', workload: 10, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', knowledge_area_id: 9, user_id: 1
+  Subject.create name: 'Marketing Digital', description: 'Aprenda a profissão mais desejada por todas empresas', workload: 100, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', knowledge_area_id: 9, user_id: 1
+puts '...KnowledgeAreas inserted.'.colorize(:light_blue)
+# /KNOWLEDGE AREAS
