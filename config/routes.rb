@@ -43,5 +43,5 @@ Rails.application.routes.draw do
   resources :subscriptions
 
   # Root route
-  root to: 'dashboard#index'
+  root to: 'users#index'
 end
