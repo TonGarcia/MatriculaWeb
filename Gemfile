@@ -1,5 +1,5 @@
 ruby '2.6.5'
-#ruby=2.6.5@matriculaweb
+#ruby=2.6.5@mw
 source 'https://rubygems.org'
 
 git_source(:github) do |repo_name|
