@@ -154,7 +154,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 
   # Thin is better for localhost
-  gem 'thin', '~> 1.7.2'
+  # gem 'thin', '~> 1.7.2'
 end
 
 
