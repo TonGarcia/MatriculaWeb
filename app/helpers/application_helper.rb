@@ -54,7 +54,7 @@ module ApplicationHelper
   end
 
   def staff_role?
-    @current_user.admin? || @current_user.moderator?
+    @current_user.admin? #|| @current_user.moderator?
   end
 
   def teacher_role?

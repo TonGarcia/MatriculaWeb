@@ -5,7 +5,7 @@
         tr
           th =t('activerecord.attributes.school.name')
           th =t('activerecord.attributes.school.code')
-          th =t('activerecord.attributes.school.user')
+          / th =t('activerecord.attributes.school.user')
           th =t('activerecord.attributes.school.total_rooms')
           th =t('activerecord.attributes.school.used_rooms')
           th =t('activerecord.attributes.school.amount_employees')
@@ -19,7 +19,7 @@
           tr
             td =school.name
             td =school.code
-            td =school.user.first_name
+            / td =school.user.first_name
             td =school.total_rooms
             td =school.used_rooms
             td =school.amount_employees

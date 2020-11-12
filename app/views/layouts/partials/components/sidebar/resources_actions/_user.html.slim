@@ -1,34 +1,36 @@
 ul.nav
-  li
-    a data-toggle="collapse" href="#researchersActions"
-      i.ion-ios-personadd
-      p
-        =t('actions.researcher.name')
-        b.caret
-    #researchersActions.collapse
-      ul.nav
-        li
-          a href="#{new_researcher_path}"
-            =t('actions.researchers.new')
-
-  li
-    a data-toggle="collapse" href="#degreesActions"
-      i.ion-university
-      p
-        = t('actions.degrees.name')
-        b.caret
-    #degreesActions.collapse
-      ul.nav
-        li: a href="#{degrees_path}" = t('actions.degrees.list')
-          li: a href="#{new_degree_path}" = t('actions.degrees.new')
-
-  li
-    a data-toggle="collapse" href="#knowHowActions"
+  li class=(('active ' if current_page?(subjects_path))) aria-expanded=(('true ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
+    a data-toggle="collapse" href="#subjectsActions"
       i.ion-briefcase
       p
-        = t('actions.experiences.name')
+        =t('actions.subjects.name')
         b.caret
-    #knowHowActions.collapse
+    #subjectsActions.collapse
       ul.nav
-        li: a href="#{experiences_path}" = t('actions.experiences.list')
-        li: a href="#{new_experience_path}" = t('actions.experiences.new')
+        li
+          a href="#{subjects_path}"
+            =t('actions.subjects.action_name')
+  li class=(('active ' if current_page?(subscriptions_path))) aria-expanded=(('true ' if current_page?(subscriptions_path) || current_page_includes?('subscriptions_path') ))
+    a data-toggle="collapse" href="#subscriptionsActions"
+      i.ion-chatbox-working
+      p
+        =t('actions.subscriptions.name')
+        b.caret
+    #subscriptionsActions.collapse
+      ul.nav
+        li
+          a href="#{subscriptions_path}"
+            =t('actions.subscriptions.action_name')
+
+
+  / li class=(('active ' if current_page?(subjects_path))) aria-expanded=(('true ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
+  /   a data-toggle="collapse" href="#subjectsActions"
+  /     i.ion-briefcase
+  /     p
+  /       =t('actions.subjects.name')
+  /       b.caret
+  /   #subjectsActions.collapse
+  /     ul.nav
+  /       li
+  /         a href="#{subjects_path}"
+  /           =t('actions.subjects.action_name')
