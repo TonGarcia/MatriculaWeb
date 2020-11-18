@@ -64,11 +64,18 @@ html
                               / =t("screen.researcher_relation_subtitle")
                         .col-xs-12.col-sm-4
                           -action_path = default_action_path
-                          -if action_path
+                          -if action_path && @current_user.admin?
                             -action = action_path.split('_')[0]
                             =link_to t("actions.#{params[:controller]}.#{action}"),
                                       send(action_path, @current_obj),
                                       class: 'btn btn-info'
+                          -elsif !@current_user.admin?
+                            -if !params[:id].nil? && current_page?(subject_path(params[:id]))
+                              -subject = Subject.find(params[:id])
+                              -unless subject.subscriber?(@current_user)
+                                a.cursor onclick="signSubject('#{subject.name}', '#{subject.id}')"
+                                  i.fa.fa-edit
+                                  =" #{t('actions.subscriptions.act_name')}"
                       hr
                     .content
                       =yield
