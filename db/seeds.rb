@@ -92,7 +92,7 @@ puts '...KnowledgeAreas inserted.'.colorize(:light_blue)
 # Creates Subjects
 # SUBJECTS
 puts 'Inserting Subjects...'.colorize(:green)
-  Subject.create name: 'Acesso a financiamento da agricultura familiar', description: 'Aprenda a conseguir os melhores financiamentos com as menores taxas', workload: 10, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', knowledge_area_id: afc.id, user_id: 1
-  Subject.create name: 'Produção de mudas de tomate', description: 'Como criar mudas de tomate de baixo custo e como vendê-las', workload: 10, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', knowledge_area_id: ph.id, user_id: 1
+  Subject.create name: 'Acesso a financiamento da agricultura familiar', description: 'Aprenda a conseguir os melhores financiamentos com as menores taxas', workload: 10, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', online_link: 'https://www.youtube.com/watch?v=CTBWcXkNoMM', knowledge_area_id: afc.id, user_id: 1
+  Subject.create name: 'Produção de mudas de tomate', description: 'Como criar mudas de tomate de baixo custo e como vendê-las', workload: 10, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', online_link: 'https://www.youtube.com/watch?v=lA1ItxM9yIE', knowledge_area_id: ph.id, user_id: 1
 puts '...KnowledgeAreas inserted.'.colorize(:light_blue)
 # /KNOWLEDGE AREAS

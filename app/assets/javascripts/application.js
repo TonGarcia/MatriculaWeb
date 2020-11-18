@@ -98,3 +98,13 @@ $(document).ready(setup);
 $(document).on('page:load', setup);
 document.addEventListener('turbolinks:request-start', setup);
 document.addEventListener('turbolinks:load', setup);
+
+function signSubject(name, id) {
+    console.log(id);
+    const sign = confirm(`Você realmente deseja assinar a aula '${name}'?` );
+    if(sign) {
+        $.post(`/subjects/${id}/sign`, function(resp) {
+            location.reload();
+        });
+    }
+}

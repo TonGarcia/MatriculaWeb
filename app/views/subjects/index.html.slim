@@ -10,7 +10,8 @@
           / th =t('activerecord.attributes.subject.class_schedule')
           th
           th
-          th
+          -if @current_user.admin?
+            th
 
       tbody
         - @subjects.each do |subject|
@@ -22,10 +23,20 @@
             / td =subject.class_schedule
             td =link_to subject do
               i.fa.fa-eye
-            td =link_to edit_subject_path(subject) do
-              i.fa.fa-edit
-            td =link_to subject, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
-              i.fa.fa-trash.text-danger
+            -if @current_user.admin?
+              td =link_to edit_subject_path(subject) do
+                i.fa.fa-edit
+            -else
+              -if subject.subscriber?(@current_user)
+                td
+                  i.fa.fa-edit
+              -else
+                td
+                  a.cursor onclick="signSubject('#{subject.name}', '#{subject.id}')"
+                    i.fa.fa-edit
+            -if @current_user.admin?
+              td =link_to subject, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
+                i.fa.fa-trash.text-danger
 
 
 javascript:
