@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # encoding: UTF-8
 # pt-br translations for Models
 pt-br:
@@ -68,4 +69,76 @@ pt-br:
 
   # Search -----------------------------------------------------
       search:
+=======
+# encoding: UTF-8
+# pt-br translations for Models
+pt-br:
+  activerecord:
+    models:
+      user: Usuário
+      degree: Graduação
+      researcher: Pesquisador
+      experience: Experiência
+
+    attributes:
+
+  # User -----------------------------------------------------
+      user:
+        full_name: Nome completo
+        email: E-mail
+        phone: Número de Telefone
+        role: Papel/Função/Cargo
+        role_id: Papel/Função/Cargo
+        locale: Idioma
+        gov_id: Matrícula (ID Secretaria)
+        confirmation_token: Token/Link de Confirmação
+        timezone: Fuso-horário
+        school: Código MEC - Nome
+        school_id: Código MEC - Nome
+        password: Senha
+        password_confirmation: Confirmação da Senha
+        remember_me: Lembrar dados
+
+  # School -----------------------------------------------------
+      school:
+        name: Nome da Escola
+        code: Código MEC
+        user: Criada por
+        coordinator: Coordenador
+        total_rooms: Qtd. Salas
+        used_rooms: Qtd. Salas em uso
+        amount_employees: Qtd. Funcionários
+        technical_or_high_school: Nível de Ensino
+        created_at: Criada em
+        updated_at: Atualizada em
+
+  # Subject -----------------------------------------------------
+      subject:
+        name: Nome da Disciplina
+        description: Descrição
+        workload: Carga Horária (número de horas)
+        online_link: Aula online (links como vimeo, youtube e etc.)
+        class_schedule: Agendamento (horários disponíveis)
+        class_schedule_show: Agendamento (horários disponíveis)
+        knowledge_area: Área do Conhecimento
+        knowledge_area_id: Área do Conhecimento
+
+  # Subscription -----------------------------------------------------
+      subscription:
+        amount_time_watching: Horas Assistidas
+        subject_name: Nome da Aula/Curso
+        subject_description: Descrição da Aula/Curso
+        subject_workload: Carga horária
+        subject_online_link: Link para a aula
+
+  # KnowledgeArea -----------------------------------------------------
+      knowledge_area:
+        name: Nome
+        knowledge_area: CASO HAJA esta Área do Conhecimento deriva de outra
+        knowledge_area_show: Área do Conhecimento daqual esta deriva
+        description: Descrição da Área de Conhecimento
+
+  # Search -----------------------------------------------------
+      search:
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
         keywords: Palavras Chave

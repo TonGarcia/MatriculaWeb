@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 doctype html
 html
   head
@@ -80,4 +81,88 @@ html
                     .content
                       =yield
             -else
+=======
+doctype html
+html
+  head
+    =render 'layouts/partials/structure/app_head'
+    =javascript_include_tag 'application', 'data-turbolinks-track' => true
+  body
+    .wrapper
+      .sidebar data-color="azure" data-image="#{image_path('museum.jpg')}"
+        .logo
+          a href="#" class="logo-text" =product_name_short
+        .logo.logo-mini
+          a href="#" class="logo-text" AD
+
+
+        .sidebar-wrapper
+          =render 'layouts/partials/components/sidebar/user_profile_actions'
+
+          -if admin?
+            =render 'layouts/partials/components/sidebar/resources_actions/admin'
+          -elsif staff_role?
+            =render 'layouts/partials/components/sidebar/resources_actions/admin'
+          -elsif teacher_role?
+            =render 'layouts/partials/components/sidebar/resources_actions/teacher'
+          -else
+            =render 'layouts/partials/components/sidebar/resources_actions/user'
+
+
+      .main-panel
+        nav.navbar.navbar-default
+          .container-fluid
+            .navbar-minimize
+              button#minimizeSidebar.btn.btn-info.btn-fill.btn-round.btn-icon
+                i.fa.fa-ellipsis-v.visible-on-sidebar-regular
+                i.fa.fa-navicon.visible-on-sidebar-mini
+            .navbar-header
+              button.navbar-toggle type="button" data-toggle="collapse"
+                span.sr-only Toggle navigation
+                span.icon-bar
+                span.icon-bar
+                span.icon-bar
+              a.navbar-brand href="#" =screen_name
+            / .collapse.navbar-collapse.nav.navbar-nav.navbar-right.flags
+            /   =flag_list 24, class: 'nav navbar-nav navbar-right' do
+            /     =flags :br, :us, :fr, selected: current_locale
+
+
+        .content
+          .container-fluid
+            -if card_page?
+              .row
+                .col-md-12
+                  .card
+                    .header
+                      .row
+                        .col-xs-12.col-sm-8
+                          -if params[:action] == 'index' || !t("screen.#{params[:controller]}.#{locale_action}.title").nil?
+                            h4.title =t("screen.#{params[:controller]}.#{locale_action}.title")
+                          -else
+                            h4.title =t("actions.#{params[:controller]}.#{locale_action}")
+                          p.category
+                            -if staff_role?
+                              =t("screen.#{params[:controller]}.#{locale_action}.subtitle")
+                              br
+                              / =t("screen.researcher_relation_subtitle")
+                        .col-xs-12.col-sm-4
+                          -action_path = default_action_path
+                          -if action_path && @current_user.admin?
+                            -action = action_path.split('_')[0]
+                            =link_to t("actions.#{params[:controller]}.#{action}"),
+                                      send(action_path, @current_obj),
+                                      class: 'btn btn-info'
+                          -elsif !@current_user.admin?
+                            -if !params[:id].nil? && current_page?(subject_path(params[:id]))
+                              -subject = Subject.find(params[:id])
+                              -unless subject.subscriber?(@current_user)
+                                a.cursor onclick="signSubject('#{subject.name}', '#{subject.id}')"
+                                  i.fa.fa-edit
+                                  =" #{t('actions.subscriptions.act_name')}"
+                      hr
+                    .content
+                      =yield
+            -else
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
               =yield
