@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ul.nav
   li class=(('active ' if current_page?(subjects_path))) aria-expanded=(('true ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
     a data-toggle="collapse" href="#subjectsActions"
@@ -33,4 +34,41 @@ ul.nav
   /     ul.nav
   /       li
   /         a href="#{subjects_path}"
+=======
+ul.nav
+  li class=(('active ' if current_page?(subjects_path))) aria-expanded=(('true ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
+    a data-toggle="collapse" href="#subjectsActions"
+      i.ion-briefcase
+      p
+        =t('actions.subjects.name')
+        b.caret
+    #subjectsActions.collapse
+      ul.nav
+        li
+          a href="#{subjects_path}"
+            =t('actions.subjects.action_name')
+  li class=(('active ' if current_page?(subscriptions_path))) aria-expanded=(('true ' if current_page?(subscriptions_path) || current_page_includes?('subscriptions_path') ))
+    a data-toggle="collapse" href="#subscriptionsActions"
+      i.ion-chatbox-working
+      p
+        =t('actions.subscriptions.name')
+        b.caret
+    #subscriptionsActions.collapse
+      ul.nav
+        li
+          a href="#{subscriptions_path}"
+            =t('actions.subscriptions.action_name')
+
+
+  / li class=(('active ' if current_page?(subjects_path))) aria-expanded=(('true ' if current_page?(subjects_path) || current_page_includes?('subjects') ))
+  /   a data-toggle="collapse" href="#subjectsActions"
+  /     i.ion-briefcase
+  /     p
+  /       =t('actions.subjects.name')
+  /       b.caret
+  /   #subjectsActions.collapse
+  /     ul.nav
+  /       li
+  /         a href="#{subjects_path}"
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
   /           =t('actions.subjects.action_name')

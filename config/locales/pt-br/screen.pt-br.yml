@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # encoding: UTF-8
 # pt-br translations for Screens
 pt-br:
@@ -73,4 +74,81 @@ pt-br:
         subtitle: Após o cadastro da escola, associe um coordenador à esta e este poderá cadastrar alunos e professores
       edit:
         title: Editando Instituição de Ensino
+=======
+# encoding: UTF-8
+# pt-br translations for Screens
+pt-br:
+  screen:
+    select: Selecione uma opção
+    current_locale: Idioma Atual
+    researcher_relation_subtitle: A lista abaixo permite apenas consulta simples por Pesquisadores
+    dashboard:
+      index:
+        title: Uso Global do GAESIResearchers por Localização
+        subtitle: Todos pesquisadores que foram aprovados como GAESIResearcher
+    users:
+      new:
+        title: Novo Usuário
+        subtitle: Após o cadastro passe o link de confirmação e a senha padrão (123123) para que ele possa alterá-la
+      index:
+        title: Lista de Usuários Cadastrados
+        subtitle: A Lista de usuários é uma tabela dinâmica que permite pesquisar e ordenar informações
+      show:
+        title: Ficha do Usuário
+        subtitle: Dados completos do usuário (pode incluir desde dados da conta até indicadores)
+      edit:
+        title: Editando Usuário
+        subtitle: Dados completos do usuário (pode incluir desde dados da conta até indicadores)
+    schools:
+      index:
+        title: Lista de Instituições de Ensino Cadastradas
+        subtitle: A Lista de escolas é uma tabela dinâmica que permite pesquisar e ordenar informações
+      show:
+        title: Ficha da Instituição de Ensino
+        subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+      new:
+        title: Nova Instituição de Ensino
+        subtitle: Após o cadastro da escola, associe um coordenador à esta e este poderá cadastrar alunos e professores
+      edit:
+        title: Editando Instituição de Ensino
+        subtitle: As escolas foram importadas da base do MEC, porém podem ser editadas e/ou excluídas.
+    subjects:
+      index:
+        title: Lista de Disciplinas Cadastradas
+        subtitle: Disciplinas divididas nas categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
+      show:
+        title: Ficha da Disciplina
+        subtitle: Os horários com destaque são os horários nos quais a Disciplina estará disponível
+      new:
+        title: Nova Disciplina
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos), porém é editável
+      edit:
+        title: Editando Disciplina
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis
+    knowledge_areas:
+      index:
+        title: Lista de Áreas e sub-áreas do Conhecimento
+        subtitle: As áreas e sub-áreas são as descritas pela instituição
+      show:
+        title: Ficha de Áreas e sub-áreas do Conhecimento
+        subtitle: As áreas e sub-áreas são as descritas pela instituição
+      new:
+        title: Nova Área do Conhecimento
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis
+      edit:
+        title: Editando Área do Conhecimento
+        subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis
+    subscriptions:
+      index:
+        title: Lista de aulas/cursos assinados
+        subtitle: As aulas e cursos assinados possuem sua trilha de aprendizado em playlist do YouTube
+      show:
+        title: Ficha da Instituição de Ensino
+        subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+      new:
+        title: Nova Instituição de Ensino
+        subtitle: Após o cadastro da escola, associe um coordenador à esta e este poderá cadastrar alunos e professores
+      edit:
+        title: Editando Instituição de Ensino
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
         subtitle: As escolas foram importadas da base do MEC, porém podem ser editadas e/ou excluídas.

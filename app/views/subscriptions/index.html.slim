@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container-fluid
   .row
     table#data.table.col-md-12.col-xs-12
@@ -36,4 +37,44 @@ javascript:
                 "url": "/Portuguese.json"
             }
         });
+=======
+.container-fluid
+  .row
+    table#data.table.col-md-12.col-xs-12
+      thead
+        tr
+          th =t('activerecord.attributes.subscription.subject_name')
+          th =t('activerecord.attributes.subscription.subject_description')
+          th =t('activerecord.attributes.subscription.subject_workload')
+          th =t('activerecord.attributes.subscription.subject_online_link')
+          / th =t('activerecord.attributes.subject.class_schedule')
+          th
+          th
+          th
+
+      tbody
+        - @subscriptions.each do |subscription|
+          tr
+            td =subscription.subject.name
+            td =subscription.subject.description
+            td =subscription.subject.workload
+            td =subscription.subject.online_link
+            / td =subject.class_schedule
+            td =link_to subject do
+              i.fa.fa-eye
+            td =link_to edit_subject_path(subject) do
+              i.fa.fa-edit
+            td =link_to subject, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
+              i.fa.fa-trash.text-danger
+
+
+javascript:
+    //"//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Portuguese.json"
+    $(document).ready(function () {
+        $('#data').DataTable({
+            "language": {
+                "url": "/Portuguese.json"
+            }
+        });
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
     });

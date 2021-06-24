@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 # encoding: UTF-8
 # pt-BR translations for Controllers
 pt-br:
   descriptions:
     product_name: ANATER DIGITAL.
+=======
+# encoding: UTF-8
+# pt-BR translations for Controllers
+pt-br:
+  descriptions:
+    product_name: ANATER DIGITAL.
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
     min_password_length: mínimo de caracteres

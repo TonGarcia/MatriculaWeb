@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container-fluid
   .row
     table#data.table.table-striped.table-bordered.col-md-12.col-xs-12
@@ -36,4 +37,44 @@ javascript:
               "url": "/Portuguese.json"
           }
       });
+=======
+.container-fluid
+  .row
+    table#data.table.table-striped.table-bordered.col-md-12.col-xs-12
+      thead
+        tr
+          th =t('activerecord.attributes.user.full_name')
+          th =t('activerecord.attributes.user.role')
+          th =t('activerecord.attributes.user.gov_id')
+          / th =t('activerecord.attributes.user.email')
+          / th =t('activerecord.attributes.user.confirmation_token')
+          th =t('activerecord.attributes.subscription.amount_time_watching')
+          th
+          th
+          th
+
+      tbody
+        - @users.each do |user|
+          tr
+            td = user.full_name
+            td = user.role.title
+            td = user.gov_id
+            / td = user.email
+            td = user.amount_time_watching
+            td = link_to user do
+              i.fa.fa-eye
+            td = link_to edit_user_path(user) do
+              i.fa.fa-edit
+            td = link_to user, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
+              i.fa.fa-trash.text-danger
+
+javascript:
+  //"//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Portuguese.json"
+  $(document).ready(function () {
+      $('#data').DataTable({
+          "language": {
+              "url": "/Portuguese.json"
+          }
+      });
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
   });

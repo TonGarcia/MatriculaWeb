@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # encoding: UTF-8
 # pt-BR translations for Controllers
 pt-br:
@@ -13,4 +14,21 @@ pt-br:
     schools: Instituições de Ensino
     subjects: Disciplinas
     subscriptions: Assinaturas de aulas
+=======
+# encoding: UTF-8
+# pt-BR translations for Controllers
+pt-br:
+  controllers:
+    users: Usuários
+    users/sessions: Dados de Acesso
+    users/confirmations: Re-enviar confirmação de E-mail
+    users/passwords: Recuperar senha
+    users/registrations: Cadastro de Acesso
+    users/unlocks: Requisitar Desbloqueio
+    home: Início
+    dashboard: Painel
+    schools: Instituições de Ensino
+    subjects: Disciplinas
+    subscriptions: Assinaturas de aulas
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
     knowledge_areas: Áreas do Conhecimento

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * Frameworks
  *= require flags/basic
@@ -24,4 +25,32 @@
 
 .cursor {
   cursor: pointer;
+=======
+/*
+ * Frameworks
+ *= require flags/basic
+ *= require flags/flags16
+ *= require flags/flags24
+ * require themify-icons.css.erb
+ *= require font-awesome.css.erb
+ *= require creative-tim-pro/light_dashboard/bootstrap.min
+ *= require creative-tim-pro/light_dashboard/light-bootstrap-dashboard
+ */
+
+// Add-on
+@import 'ionicons';
+@import 'ionicons-icons';
+@import "mixins";
+@import "helpers";
+
+// App Styles
+@import "views/sign";
+@import "views/localize";
+@import "views/connections";
+@import "views/subjects";
+@import "datatables";
+
+.cursor {
+  cursor: pointer;
+>>>>>>> 34166a1067dc45e0339bcbf35c4f8978d91dd5f3
 }
