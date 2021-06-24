@@ -7,7 +7,7 @@
 -if flash[:alert] && !flash[:alert].empty?
   -type = 'warning'
   -msg = flash[:alert]
--if flash[:notice] && !flash[:notice].empty?
+-if flash[:notice]
   -type = 'info'
   -msg = flash[:notice]
   -flash[:info] = nil

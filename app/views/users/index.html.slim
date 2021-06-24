@@ -6,8 +6,9 @@
           th =t('activerecord.attributes.user.full_name')
           th =t('activerecord.attributes.user.role')
           th =t('activerecord.attributes.user.gov_id')
-          th =t('activerecord.attributes.user.email')
-          th =t('activerecord.attributes.user.confirmation_token')
+          / th =t('activerecord.attributes.user.email')
+          / th =t('activerecord.attributes.user.confirmation_token')
+          th =t('activerecord.attributes.subscription.amount_time_watching')
           th
           th
           th
@@ -18,8 +19,8 @@
             td = user.full_name
             td = user.role.title
             td = user.gov_id
-            td = user.email
-            td = user.confirmation_token
+            / td = user.email
+            td = user.amount_time_watching
             td = link_to user do
               i.fa.fa-eye
             td = link_to edit_user_path(user) do

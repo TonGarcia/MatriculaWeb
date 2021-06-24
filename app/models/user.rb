@@ -10,6 +10,8 @@ class User < ApplicationRecord
 
   # Relations
   has_many :schools
+  has_many :subscriptions
+  has_many :subjects, through: :subscriptions
   belongs_to :school, class_name: 'School', optional: true
 
   # Validations
@@ -27,5 +29,9 @@ class User < ApplicationRecord
 
   def first_name
     self.full_name.split(' ')[0]
+  end
+
+  def amount_time_watching
+    self.subscriptions.sum(:amount_time_watching)
   end
 end

@@ -7,7 +7,13 @@ class UsersController < ApplicationController
   # GET /admin/users
   # GET /admin/users.json
   def index
-    @users = User.all
+    # @users = User.all
+
+    unless @current_user.admin?
+      return redirect_to subjects_path
+    end
+
+    @users = User.where(role: Role.with_name(:student))
   end
 
   # GET /admin/users/1

@@ -36,7 +36,7 @@ pt-br:
         total_rooms: Qtd. Salas
         used_rooms: Qtd. Salas em uso
         amount_employees: Qtd. Funcionários
-        technical_or_high_school: Ensino Médio ou Técnico
+        technical_or_high_school: Nível de Ensino
         created_at: Criada em
         updated_at: Atualizada em
 
@@ -50,6 +50,14 @@ pt-br:
         class_schedule_show: Agendamento (horários disponíveis)
         knowledge_area: Área do Conhecimento
         knowledge_area_id: Área do Conhecimento
+
+  # Subscription -----------------------------------------------------
+      subscription:
+        amount_time_watching: Horas Assistidas
+        subject_name: Nome da Aula/Curso
+        subject_description: Descrição da Aula/Curso
+        subject_workload: Carga horária
+        subject_online_link: Link para a aula
 
   # KnowledgeArea -----------------------------------------------------
       knowledge_area:

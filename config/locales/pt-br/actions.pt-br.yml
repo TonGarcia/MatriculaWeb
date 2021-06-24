@@ -77,3 +77,7 @@ pt-br:
         create: Cadastrar Área do Conhecimento
         edit: Atualizar Área do Conhecimento
         update: Atualizar Área do Conhecimento
+    subscriptions:
+      name: Cursos Assinados
+      action_name: Minhas Aulas/Cursos
+      act_name: Assinar Aula/Curso

@@ -1,5 +1,5 @@
-ruby '2.6.5'
-#ruby=2.6.5@mw
+ruby '2.7.2'
+#ruby=2.7.2@mw
 source 'https://rubygems.org'
 
 git_source(:github) do |repo_name|
@@ -68,8 +68,8 @@ gem 'validates_timeliness', '~> 4.0', '>= 4.0.2'
 #gem 'yajl-ruby', require: 'yajl'
 
 # Datatable (https://github.com/jbox-web/ajax-datatables-rails)
-gem 'ajax-datatables-rails'
-gem 'jquery-datatables'
+gem 'ajax-datatables-rails', '~> 1.1.0'
+gem 'jquery-datatables', '~> 1.10.20'
 
 =begin
  ######################    Social & new Design GEMs    #################################
@@ -88,7 +88,7 @@ gem 'omniauth-facebook', '~> 4.0.0'
 gem 'd3_rails', '~> 4.1', '>= 4.1.1'
 
 # World Countries Flags
-gem 'world-flags', '~> 0.6.5'
+# gem 'world-flags', '~> 0.6.5'
 # ISO Country Codes to use WorldFlags & Internationalize
 gem 'countries', '~> 2.1.2'
 # ISO Cities

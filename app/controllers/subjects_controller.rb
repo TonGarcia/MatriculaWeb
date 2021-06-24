@@ -2,6 +2,26 @@ class SubjectsController < ApplicationController
   before_action :set_aux_vars
   before_action :set_subject, only: [:show, :edit, :update, :destroy]
 
+  # POST /subjects/1
+  # POST /subjects/1.json
+  def sign
+    ok_msg = 'Assinatura/matrícula de matéria feita com sucesso.'
+    err_msg = 'Não foi possível assinar/matrícular esta matéria, tente novamente.'
+    subscription = Subscription.create user_id: @current_user.id, subject_id: params[:subject_id]
+
+    if subscription.errors.empty?
+      respond_to do |format|
+        format.html { redirect_to subjects_url, notice: ok_msg }
+        format.json { render json: {message: ok_msg} }
+      end
+    else
+      respond_to do |format|
+        format.html { redirect_to subjects_url, notice: err_msg }
+        format.json { render json: {message: err_msg} }
+      end
+    end
+  end
+
   # GET /subjects
   # GET /subjects.json
   def index
@@ -20,6 +40,12 @@ class SubjectsController < ApplicationController
 
   # GET /subjects/1/edit
   def edit
+    unless @current_user.admin?
+      respond_to do |format|
+        format.html { redirect_to subjects_url, notice: 'Você não possui permissão para esta ação.' }
+        format.json { render json: {message: 'Você não possui permissão para esta ação.'} }
+      end
+    end
   end
 
   # POST /subjects
@@ -57,10 +83,17 @@ class SubjectsController < ApplicationController
   # DELETE /subjects/1
   # DELETE /subjects/1.json
   def destroy
-    @subject.destroy
-    respond_to do |format|
-      format.html { redirect_to subjects_url, notice: 'Subject was successfully destroyed.' }
-      format.json { head :no_content }
+    if @current_user.admin?
+      @subject.destroy
+      respond_to do |format|
+        format.html { redirect_to subjects_url, notice: 'Subject was successfully destroyed.' }
+        format.json { head :no_content }
+      end
+    else
+      respond_to do |format|
+        format.html { redirect_to subjects_url, notice: 'Você não possui permissão para esta ação.' }
+        format.json { render json: {message: 'Você não possui permissão para esta ação.'} }
+      end
     end
   end
 

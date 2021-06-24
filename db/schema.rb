@@ -60,6 +60,7 @@ ActiveRecord::Schema.define(version: 20191225213925) do
 
   create_table "subscriptions", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string "access_type"
+    t.integer "amount_time_watching"
     t.bigint "user_id"
     t.bigint "subject_id"
     t.datetime "created_at", null: false

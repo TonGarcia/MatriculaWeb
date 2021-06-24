@@ -51,13 +51,26 @@ pt-br:
     knowledge_areas:
       index:
         title: Lista de Áreas e sub-áreas do Conhecimento
-        subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino do MEC, porém podem ser alteradas
+        subtitle: As áreas e sub-áreas são as descritas pela instituição
       show:
         title: Ficha de Áreas e sub-áreas do Conhecimento
-        subtitle: As áreas e sub-áreas são as descritas pelo documento do novo ensino do MEC, porém podem ser alteradas
+        subtitle: As áreas e sub-áreas são as descritas pela instituição
       new:
         title: Nova Área do Conhecimento
         subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis
       edit:
         title: Editando Área do Conhecimento
         subtitle: As categorias do MEC (Formação Geral Básica e Itinerários Formativos) são default, porém editáveis
+    subscriptions:
+      index:
+        title: Lista de aulas/cursos assinados
+        subtitle: As aulas e cursos assinados possuem sua trilha de aprendizado em playlist do YouTube
+      show:
+        title: Ficha da Instituição de Ensino
+        subtitle: Dados completos da escola (pode incluir desde dados de registro até indicadores)
+      new:
+        title: Nova Instituição de Ensino
+        subtitle: Após o cadastro da escola, associe um coordenador à esta e este poderá cadastrar alunos e professores
+      edit:
+        title: Editando Instituição de Ensino
+        subtitle: As escolas foram importadas da base do MEC, porém podem ser editadas e/ou excluídas.

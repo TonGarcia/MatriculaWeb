@@ -39,7 +39,9 @@ Rails.application.routes.draw do
 
   # Resources (CRUDs)
   resources :schools
-  resources :subjects
+  resources :subjects do
+    post 'sign' => 'subjects#sign'
+  end
   resources :subscriptions
 
   # Root route

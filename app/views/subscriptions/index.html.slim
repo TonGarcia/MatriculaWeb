@@ -1,25 +1,39 @@
-h1 Listing subscriptions
+.container-fluid
+  .row
+    table#data.table.col-md-12.col-xs-12
+      thead
+        tr
+          th =t('activerecord.attributes.subscription.subject_name')
+          th =t('activerecord.attributes.subscription.subject_description')
+          th =t('activerecord.attributes.subscription.subject_workload')
+          th =t('activerecord.attributes.subscription.subject_online_link')
+          / th =t('activerecord.attributes.subject.class_schedule')
+          th
+          th
+          th
 
-table
-  thead
-    tr
-      th Access type
-      th User
-      th Subject
-      th
-      th
-      th
+      tbody
+        - @subscriptions.each do |subscription|
+          tr
+            td =subscription.subject.name
+            td =subscription.subject.description
+            td =subscription.subject.workload
+            td =subscription.subject.online_link
+            / td =subject.class_schedule
+            td =link_to subject do
+              i.fa.fa-eye
+            td =link_to edit_subject_path(subject) do
+              i.fa.fa-edit
+            td =link_to subject, data: {confirm: 'Você tem certeza disso? Esta ação não poderá ser desfeita!'}, method: :delete do
+              i.fa.fa-trash.text-danger
 
-  tbody
-    - @subscriptions.each do |subscription|
-      tr
-        td = subscription.access_type
-        td = subscription.user
-        td = subscription.subject
-        td = link_to 'Show', subscription
-        td = link_to 'Edit', edit_subscription_path(subscription)
-        td = link_to 'Destroy', subscription, data: { confirm: 'Are you sure?' }, method: :delete
 
-br
-
-= link_to 'New Subscription', new_subscription_path
+javascript:
+    //"//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Portuguese.json"
+    $(document).ready(function () {
+        $('#data').DataTable({
+            "language": {
+                "url": "/Portuguese.json"
+            }
+        });
+    });

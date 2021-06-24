@@ -16,15 +16,15 @@ puts 'Inserting Roles...'.colorize(:green)
               the_role: '{"system":{"administrator":false},"admin_roles":{"index":false},
                               "researchers":{"index":true, "show":true,"new":true,"create":true,"edit":true,"update":true}}'
 
-  Role.create name: 'coordinator', title: 'Coordenador de Instituição de Ensino', description: 'Este usuário tem permissão para cadastro de seus alunos e professores',
+  Role.create name: 'coordinator', title: 'Coordenador de Instituição', description: 'Este usuário tem permissão para cadastro de seus alunos e professores',
               the_role: '{"system":{"administrator":false},"admin_roles":{"index":false},
                             "researchers":{"index":true, "show":true,"new":true,"create":true,"edit":true,"update":true}}'
 
-  Role.create name: 'teacher', title: 'Professor de Instituição de Ensino', description: 'Este usuário tem permissão para cadastro de oferta de disciplinas',
+  Role.create name: 'teacher', title: 'Professor de Instituição', description: 'Este usuário tem permissão para cadastro de oferta de disciplinas',
               the_role: '{"system":{"administrator":false},"admin_roles":{"index":false},
                             "researchers":{"index":true, "show":true,"new":true,"create":true,"edit":true,"update":true}}'
 
-  Role.create name: 'student', title: 'Estudante/aluno de Instituição de Ensino', description: 'Este usuário só possui permissão para ver e se candidatar às vagas',
+  Role.create name: 'student', title: 'Estudante/Aluno de Instituição', description: 'Este usuário só possui permissão para ver e se candidatar às vagas',
               the_role: '{"system":{"administrator":false},"admin_roles":{"index":false},
                             "researchers":{"index":true, "show":true,"new":true,"create":true,"edit":true,"update":true}}'
 puts '...Roles inserted.'.colorize(:light_blue)
@@ -42,8 +42,11 @@ puts '...AdminUser inserted.'.colorize(:light_blue)
 # Creates Sample Schools
 # SCHOOLS
 puts 'Inserting SampleSchools...'.colorize(:green)
-  School.create name: 'Secretaria de Educação', code: '001'
-  Insertions::School.instance.load_and_persist(show_progress=true, pagination=100) #, pagination=350000
+  # School.create name: 'Secretaria de Educação', code: '001'
+  # Insertions::School.instance.load_and_persist(show_progress=true, pagination=100) #, pagination=350000
+  School.create name: 'SENAR', code: '04.279.967/0001-05', total_rooms: 5, used_rooms: 3, amount_employees: 100
+  School.create name: 'ESALQ', code: '63.025.530/0001-04', total_rooms: 5, used_rooms: 3, amount_employees: 100
+  School.create name: 'CONAB', code: '26.461.699/0001-80', total_rooms: 5, used_rooms: 3, amount_employees: 100
 puts '...SampleSchools inserted.'.colorize(:light_blue)
 # /SCHOOLS
 
@@ -58,7 +61,11 @@ puts 'Inserting SampleUsers...'.colorize(:green)
   teacher.skip_confirmation!
   teacher.save
 
-  student = User.create full_name: 'Aluno Exemplo', email: 'aluno@matriculaweb.gov.br', password: '123123', gov_id: '644837', school_id: 1, role: Role.with_name(:student)
+  student = User.create full_name: 'Aluno João', email: 'aluno1@matriculaweb.gov.br', password: '123123', gov_id: '644837', school_id: 1, role: Role.with_name(:student)
+  student.skip_confirmation!
+  student.save
+
+  student = User.create full_name: 'Aluno Raphel', email: 'aluno2@matriculaweb.gov.br', password: '123123', gov_id: '644837', school_id: 1, role: Role.with_name(:student)
   student.skip_confirmation!
   student.save
 puts '...SampleUsers inserted.'.colorize(:light_blue)
@@ -69,24 +76,15 @@ puts '...SampleUsers inserted.'.colorize(:light_blue)
 puts 'Inserting KnowledgeAreas...'.colorize(:green)
   # Super KnowledgeArea
   fgb = KnowledgeArea.create name: 'Formação Geral Básica'
-  it_fom = KnowledgeArea.create name: 'Itinerários Formativos'
+  fte = KnowledgeArea.create name: 'Formação Técnica Especializada'
 
   # KnowledgeArea
-  KnowledgeArea.create name: 'Linguagens e suas Tecnologias', knowledge_area_id: fgb.id
-  KnowledgeArea.create name: 'Matemática e suas Tecnologias', knowledge_area_id: fgb.id
-  KnowledgeArea.create name: 'Ciências da Natureza e suas Tecnologias', knowledge_area_id: fgb.id
-  KnowledgeArea.create name: 'Ciências Humanas e Sociais Aplicadas', knowledge_area_id: fgb.id
+  pp = KnowledgeArea.create name: 'Políticas Públicas', knowledge_area_id: fgb.id
+  afc = KnowledgeArea.create name: 'Acesso a Fomento (Crédito)', knowledge_area_id: fgb.id
 
   # Structural Axes (Eixos Estruturantes)
-  KnowledgeArea.create name: 'Investigação Científica', knowledge_area_id: it_fom.id
-  KnowledgeArea.create name: 'Processos Criativos', knowledge_area_id: it_fom.id
-  KnowledgeArea.create name: 'Empreendedorismo', knowledge_area_id: it_fom.id
-  KnowledgeArea.create name: 'Mediação e Intervenção Sociocultural', knowledge_area_id: it_fom.id
-
-  # Sub KnowledgeArea
-  KnowledgeArea.create name: 'Projeto de Vida', knowledge_area_id: it_fom.id, description: 'O projeto de vida é visto como uma estratégia pedagógica cuja intenção é proporcionar o autoconhecimento do estudante e sua dimensão cidadã, de modo a orientar o planejamento da carreira almejada com base em seus interesses, talentos, desejos e potencialidades. Assim, as unidades escolares devem desenvolver ações curriculares que apoiem o desenvolvimento do projeto de vida dos estudantes, as quais ampliem o universo dos estudantes e a percepção desses sobre a vida, discorrendo sobre as possibilidades de escolha presentes em seu itinerário formativo e nas diversas dimensões da vida'
-  KnowledgeArea.create name: 'Eletivas Orientada', knowledge_area_id: it_fom.id, description: 'As Eletivas Orientadas são unidades curriculares de duração semestral, com carga horária definida conforme a intencionalidade pedagógica, nas quais os estudantes serão matriculados de acordo com suas escolhas, porém de maneira orientada.'
-  KnowledgeArea.create name: 'Trilhas', knowledge_area_id: it_fom.id, description: 'As Trilhas de Aprendizagem são compostas por uma sequência de quatro unidades curriculares e possuem a duração total de quatro semestres, que irão possibilitar o aprofundamento progressivo das aprendizagens em uma área do conhecimento e/ou na Formação Profissional e Técnica.'
+  pg = KnowledgeArea.create name: 'Plantações de Grãos', knowledge_area_id: fte.id
+  ph = KnowledgeArea.create name: 'Plantações de Hortifruti', knowledge_area_id: fte.id
 puts '...KnowledgeAreas inserted.'.colorize(:light_blue)
 # /KNOWLEDGE AREAS
 
@@ -94,7 +92,7 @@ puts '...KnowledgeAreas inserted.'.colorize(:light_blue)
 # Creates Subjects
 # SUBJECTS
 puts 'Inserting Subjects...'.colorize(:green)
-  Subject.create name: 'Empreendedorismo Digital', description: 'Como criar uma empresa de casa e vender pelo celular', workload: 10, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', knowledge_area_id: 9, user_id: 1
-  Subject.create name: 'Marketing Digital', description: 'Aprenda a profissão mais desejada por todas empresas', workload: 100, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', knowledge_area_id: 9, user_id: 1
+  Subject.create name: 'Acesso a financiamento da agricultura familiar', description: 'Aprenda a conseguir os melhores financiamentos com as menores taxas', workload: 10, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', online_link: 'https://www.youtube.com/watch?v=CTBWcXkNoMM', knowledge_area_id: afc.id, user_id: 1
+  Subject.create name: 'Produção de mudas de tomate', description: 'Como criar mudas de tomate de baixo custo e como vendê-las', workload: 10, class_schedule: '00000110000001000000000000000000000000000000000000000000000000000', online_link: 'https://www.youtube.com/watch?v=lA1ItxM9yIE', knowledge_area_id: ph.id, user_id: 1
 puts '...KnowledgeAreas inserted.'.colorize(:light_blue)
 # /KNOWLEDGE AREAS
